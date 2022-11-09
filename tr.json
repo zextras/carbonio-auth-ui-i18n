@@ -55,7 +55,8 @@
     "label": {
         "save": "Kaydet",
         "cancel": "İptal",
-        "app_name": "Kimlik Doğrulaması"
+        "app_name": "Kimlik Doğrulaması",
+        "auth_settings": "Auth Ayarları"
     },
     "instructions": {
         "needInfo": "Daha fazla bilgi ister misiniz?"
@@ -109,7 +110,14 @@
         "lowerUpper": "bir büyük harf (ABC gibi) ve bir küçük harf (abc gibi)",
         "incorrectPassword": "Hatalı parola.",
         "digitSpecial": "bir rakam(123 gibi) ve özel karakter( !/@ gibi)",
-        "confirmNew": "Yeni Parolayı Onayla"
+        "confirmNew": "Yeni Parolayı Onayla",
+        "zimbraPasswordLocked": "Parola değiştirme özelliği kapalı, destek için lütfen sistem yöneticinizle görüşün.",
+        "zimbraPasswordMinUpperCaseChars": "Büyük harf sayısı en az {{num}} karakter olmalıdır",
+        "zimbraPasswordMinPunctuationChars": "Özel karakter sayısı en az {{num}} olmalıdır",
+        "zimbraPasswordMinLowerCaseChars": "Küçük harf sayısı en az {{num}} karakter olmalıdır.",
+        "mustContain": "Yeni parola 6 - 20 karakter arasında olmalı ve şunlar bulunmalıdır:",
+        "instruction": "Lütfen yeni parola oluşturup onay alanına tekrar yazın",
+        "formatNotValid": "Parolada en az bir büyükharf, küçükharf, rakam ve özel karakter olmalıdır"
     },
     "buttons": {
         "yes": "Evet",
@@ -125,5 +133,8 @@
         "new": "Mobile Apps | Yeni Kimlik Doğrulaması",
         "label": "Mobil Uygulamalar",
         "empty": "Mobile App listesi boş."
+    },
+    "snackbar": {
+        "settings_saved": "Ayarlar başarıyla kaydedildi"
     }
 }
