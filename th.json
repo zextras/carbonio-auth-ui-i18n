@@ -109,7 +109,13 @@
         "lowerUpper": "ตัวพิมพ์ใหญ่ (ABC) และตัวพิมพ์เล็ก (abc)",
         "incorrectPassword": "รหัสผ่านไม่ถูกต้อง",
         "digitSpecial": "ตัวเลข (123) และอักขระพิเศษ (!/@)",
-        "confirmNew": "ยืนยันรหัสผ่านใหม่"
+        "confirmNew": "ยืนยันรหัสผ่านใหม่",
+        "formatNotValid": "รหัสผ่านต้องประกอบด้วยตัวพิมพ์ใหญ่, ตัวพิมพ์เล็ก, ตัวเลข, และอักขระพิเศษอย่างน้อยหนึ่งตัว",
+        "instruction": "โปรดสร้างรหัสผ่านใหม่และใส่รหัสผ่านลงในช่องยืนยัน",
+        "mustContain": "รหัสผ่านใหม่ควรมีความยาว 6 ถึง 20 อักขระ และต้องประกอบด้วย:",
+        "zimbraPasswordMinLowerCaseChars": "จำนวนตัวพิมพ์เล็กขั้นต่ำคือ {{num}}",
+        "zimbraPasswordMinPunctuationChars": "จำนวนอักขระพิเศษขั้นต่ำคือ {{num}}",
+        "zimbraPasswordMinUpperCaseChars": "จำนวนตัวพิมพ์ใหญ่ขั้นต่ำคือ {{num}}"
     },
     "buttons": {
         "yes": "ใช่",
