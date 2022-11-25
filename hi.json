@@ -108,7 +108,14 @@
         "lowerUpper": "एक अपरकेस (ABC) और एक लोअरकेस (abc) कैरक्टर",
         "incorrectPassword": "गलत पासवर्ड।",
         "digitSpecial": "एक नंबर (123) और स्पेशल कैरक्टर (!/@)",
-        "confirmNew": "नए पासवर्ड को कन्फ़र्म करें"
+        "confirmNew": "नए पासवर्ड को कन्फ़र्म करें",
+        "formatNotValid": "पासवर्ड में कम से कम एक अपरकेस, एक लोअरकेस, एक नंबर और एक स्पेशल कैरक्टर होना चाहिए",
+        "instruction": "कोई नया पासवर्ड बनाएँ और कन्फ़र्मेशन फील्ड में इसे एंटर करें",
+        "mustContain": "नया पासवर्ड 6 से 20 कैरक्टर के बीच होना चाहिए और इसमें ये होना चाहिए:",
+        "zimbraPasswordMinLowerCaseChars": "कम से कम {{num}} लोअर केस कैरक्टर होने चाहिए।",
+        "zimbraPasswordMinLength": "अधिकतम लंबाई {{num}} कैरक्टर है।",
+        "zimbraPasswordMinPunctuationChars": "कम से कम {{num}} स्पेशल कैरक्टर होने चाहिए।",
+        "zimbraPasswordMinUpperCaseChars": "कम से कम {{num}} अपर केस कैरक्टर होने चाहिए।"
     },
     "buttons": {
         "yes": "हाँ",
