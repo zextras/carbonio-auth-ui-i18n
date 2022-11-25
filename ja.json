@@ -109,7 +109,13 @@
         "lowerUpper": "大文字（ABC）と小文字（abc）",
         "incorrectPassword": "パスワードに誤りがあります。",
         "digitSpecial": "数字（123）と特殊文字（！/ @）",
-        "confirmNew": "新しいパスワードを確認する"
+        "confirmNew": "新しいパスワードを確認する",
+        "formatNotValid": "パスワードには、少なくとも1つの大文字、小文字、数字、特殊文字が含まれなければなりません",
+        "instruction": "新しいパスワードを作成し、確認フィールドに入力してください",
+        "mustContain": "新しいパスワードは6〜20文字で、以下が含まれていなければなりません:",
+        "zimbraPasswordMinLowerCaseChars": "小文字は最低{{num}}文字なければなりません。",
+        "zimbraPasswordMinPunctuationChars": "特殊文字は最低{{num}}文字なければなりません。",
+        "zimbraPasswordMinUpperCaseChars": "大文字は最低{{num}}文字なければなりません。"
     },
     "buttons": {
         "yes": "はい",
