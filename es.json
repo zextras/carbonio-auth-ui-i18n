@@ -112,7 +112,10 @@
         "confirmNew": "Confirme la nueva contraseña",
         "mustContain": "La nueva contraseña debe contener entre 6 y 20 caracteres e incluir:",
         "instruction": "Por favor cree una nueva contraseña e ingrésela en el campo de confirmación",
-        "formatNotValid": "La contraseña debe contener por lo menos una mayúscula, una minúscula, un número, un caracter especial"
+        "formatNotValid": "La contraseña debe contener por lo menos una mayúscula, una minúscula, un número, un caracter especial",
+        "zimbraPasswordMinLowerCaseChars": "Debe contener por lo menos {{num}} minúscula.",
+        "zimbraPasswordMinPunctuationChars": "Debe contener por lo menos {{num}} caracter especial.",
+        "zimbraPasswordMinUpperCaseChars": "Debe contener por lo menos {{num}} mayúscula."
     },
     "buttons": {
         "yes": "Sí",
