@@ -109,7 +109,13 @@
         "lowerUpper": "um caractere maiúsculo (ABC) e um caractere minúsculo (abc)",
         "incorrectPassword": "Senha incorreta.",
         "digitSpecial": "um número (123) e um caractere especial (!/@)",
-        "confirmNew": "Confirmar Nova Senha"
+        "confirmNew": "Confirmar Nova Senha",
+        "formatNotValid": "A senha deve conter ao menos uma letra maiúscula, uma minúscula, um número e um caractere especial",
+        "instruction": "Por favor, crie uma nova senha e insira no campo de confirmação",
+        "mustContain": "A nova senha deve ter de 6 a 20 caracteres e deve conter:",
+        "zimbraPasswordMinLowerCaseChars": "Deve conter ao menos {{num}} caracteres minúsculos.",
+        "zimbraPasswordMinPunctuationChars": "Deve conter ao menos {{num}} caracteres especiais.",
+        "zimbraPasswordMinUpperCaseChars": "Deve conter ao menos {{num}} caracteres maiúsculos."
     },
     "buttons": {
         "yes": "Sim",
