@@ -55,7 +55,8 @@
     "label": {
         "save": "保存する",
         "cancel": "キャンセル",
-        "app_name": "認証"
+        "app_name": "認証",
+        "auth_settings": "認証設定"
     },
     "instructions": {
         "needInfo": "さらに情報が必要ですか？"
@@ -115,7 +116,8 @@
         "mustContain": "新しいパスワードは6〜20文字で、以下が含まれていなければなりません:",
         "zimbraPasswordMinLowerCaseChars": "小文字は最低{{num}}文字なければなりません。",
         "zimbraPasswordMinPunctuationChars": "特殊文字は最低{{num}}文字なければなりません。",
-        "zimbraPasswordMinUpperCaseChars": "大文字は最低{{num}}文字なければなりません。"
+        "zimbraPasswordMinUpperCaseChars": "大文字は最低{{num}}文字なければなりません。",
+        "zimbraPasswordLocked": "パスワードの変更が無効になっています。詳細なサポートについては、システム管理者にお問い合わせください。"
     },
     "buttons": {
         "yes": "はい",
@@ -131,5 +133,8 @@
         "new": "モバイルアプリ | 新しい認証",
         "label": "モバイルアプリケーション",
         "empty": "モバイルアプリのリストは空です。"
+    },
+    "snackbar": {
+        "settings_saved": "設定が保存されました"
     }
 }
