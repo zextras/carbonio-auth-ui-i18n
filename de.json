@@ -55,7 +55,8 @@
     "label": {
         "save": "Speichern",
         "cancel": "Abbrechen",
-        "app_name": "Auth"
+        "app_name": "Auth",
+        "auth_settings": "Authentifizierungs- Einstellungen"
     },
     "instructions": {
         "needInfo": "Brauchen Sie weitere Informationen?"
@@ -115,7 +116,8 @@
         "mustContain": "Das neue Kennwort sollte zwischen 6 und 20 Zeichen lang sein und muss enthalten:",
         "zimbraPasswordMinLowerCaseChars": "Die Mindestanzahl kleinerer Zeichen ist {{num}}.",
         "zimbraPasswordMinPunctuationChars": "Die Mindestanzahl an Sonderzeichen ist {{num}}.",
-        "zimbraPasswordMinUpperCaseChars": "Die Mindestanzahl der Großbuchstaben ist {{num}}."
+        "zimbraPasswordMinUpperCaseChars": "Die Mindestanzahl der Großbuchstaben ist {{num}}.",
+        "zimbraPasswordLocked": "Die Änderung des Passwortes ist deaktiviert. Bitte kontaktieren Sie Ihren System Administrator für weitere Hilfe."
     },
     "buttons": {
         "yes": "Ja",
@@ -131,5 +133,8 @@
         "new": "Mobile Apps | Neue Authentifizierung",
         "label": "Mobile Applikationen",
         "empty": "Die Mobile App Liste ist leer."
+    },
+    "snackbar": {
+        "settings_saved": "Einstellungen erfolgreich gespeichert"
     }
 }
