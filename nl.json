@@ -55,7 +55,8 @@
     "label": {
         "save": "Opslaan",
         "cancel": "Annuleren",
-        "app_name": "Auth"
+        "app_name": "Auth",
+        "auth_settings": "Auth Instellingen"
     },
     "instructions": {
         "needInfo": "Heeft u meer informatie nodig?"
@@ -115,7 +116,8 @@
         "mustContain": "Het nieuwe wachtwoord moet 6 tot 20 tekens lang zijn en moet het volgende bevatten:",
         "zimbraPasswordMinLowerCaseChars": "Minimum aantal kleine letters is {{num}}.",
         "zimbraPasswordMinPunctuationChars": "Minimum aantal speciale tekens is {{num}}.",
-        "zimbraPasswordMinUpperCaseChars": "Minimum aantal hoofdletters is {{num}}."
+        "zimbraPasswordMinUpperCaseChars": "Minimum aantal hoofdletters is {{num}}.",
+        "zimbraPasswordLocked": "De wachtwoordwijziging is uitgeschakeld, neem contact op met uw systeembeheerder voor verdere ondersteuning."
     },
     "buttons": {
         "yes": "Ja",
@@ -131,5 +133,8 @@
         "new": "Mobiele apps | Nieuwe Authenticatie",
         "label": "Mobiele toepassingen",
         "empty": "De lijst met Mobiele Apps is leeg."
+    },
+    "snackbar": {
+        "settings_saved": "Instellingen net succes opgeslagen"
     }
 }
