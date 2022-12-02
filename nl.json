@@ -36,7 +36,7 @@
         "status": "Status",
         "service": "Service",
         "label": "Omschrijving",
-        "enabled": "Ingeschakeld",
+        "enabled": "Geactiveerd",
         "disabled": "Uitgeschakeld",
         "created": "Gecreëerd"
     },
@@ -54,7 +54,7 @@
     },
     "label": {
         "save": "Opslaan",
-        "cancel": "Annuleren",
+        "cancel": "Abbrechen",
         "app_name": "Auth",
         "auth_settings": "Auth Instellingen"
     },
@@ -89,7 +89,7 @@
     },
     "common": {
         "newAuthentication": "Nieuwe authenticatie",
-        "enabled": "Ingeschakeld",
+        "enabled": "Geactiveerd",
         "disabled": "Uitgeschakeld",
         "delete": "Verwijderen",
         "createPassword": "Wachtwoord creëren",
@@ -125,7 +125,7 @@
         "done": "Gedaan",
         "close": "Sluiten",
         "click": "Hier klikken",
-        "cancel": "Annuleren"
+        "cancel": "Abbrechen"
     },
     "appMobile": {
         "title": "Mobiele apps",
