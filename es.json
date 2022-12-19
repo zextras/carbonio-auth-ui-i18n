@@ -36,7 +36,7 @@
         "status": "Estado",
         "service": "Servicio",
         "label": "Descripción",
-        "enabled": "Activado",
+        "enabled": "Habiliado",
         "disabled": "Desactivado",
         "created": "Creado"
     },
@@ -89,7 +89,7 @@
     },
     "common": {
         "newAuthentication": "Nueva autenticación",
-        "enabled": "Activado",
+        "enabled": "Habiliado",
         "disabled": "Desactivado",
         "delete": "Eliminar",
         "createPassword": "Crear contraseña",
