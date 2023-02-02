@@ -16,7 +16,7 @@
     },
     "setNewPassword": {
         "warningJustOnce": "Внимание: вы сможете увидеть этот код только один раз",
-        "textDescription": "Используйте этот код для аутентификации своей учетной записи Carbonio через Exchange ActiveSync",
+        "textDescription": "Используйте этот код для аутентификации своей учетной записи через Exchange ActiveSync",
         "successfully": "Пароль успешно создан",
         "authenticationDescription": "Описание аутентификации",
         "EASPasswordCopied": "Пароль EAS скопирован"
@@ -33,7 +33,7 @@
         "allowedCharacters": "Разрешены подчеркивание и тире."
     },
     "passwordListLabel": {
-        "status": "Статус",
+        "status": "Cостояние",
         "service": "Сервис",
         "label": "Описание",
         "enabled": "Включено",
