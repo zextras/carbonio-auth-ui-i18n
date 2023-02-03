@@ -132,7 +132,8 @@
         "success": "La nueva contraseña para la aplicación móvil se activó con éxito. La lista de contraseñas ha sido actualizada.",
         "new": "Aplicaciones móviles | Nueva autenticación",
         "label": "Aplicaciones móviles",
-        "empty": "La lista de aplicaciones móviles está vacía."
+        "empty": "La lista de aplicaciones móviles está vacía.",
+        "descriptionHelp": "La descripción te ayudará a recordar en dónde se utiliza esta autenticación Aplicaciones móviles."
     },
     "snackbar": {
         "settings_saved": "Ajustes guardados correctamente"
