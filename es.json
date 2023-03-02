@@ -2,7 +2,7 @@
     "staticOTPCodes": {
         "print": {
             "whenToUse": "Estos son sus códigos PIN estáticos. Deberá utilizarlos en caso de no tener su dispositivo móvil a mano para identificarse.",
-            "useOnce": "Tenga presente que cada código PIN puede usarse una sola vez. Se sugiere tacharlo de la lista una vez utilizado. Cada vez que utilice uno recibirá un correo eletrónico informándolo.",
+            "useOnce": "Tenga presente que cada código puede usarse sólo una vez. Se sugiere tacharlo de la lista una vez utilizado. Cada vez que utilice un código recibirá un mensaje por correo eletrónico.",
             "typePin": "Ingrese alguno de los códigos PIN listados arriba",
             "title": "Códigos OTP",
             "login": "Autentíquese con su contraseña",
@@ -23,22 +23,22 @@
     },
     "setNewOtpLabel": {
         "title": "Autenticación OTP",
-        "success": "¡Nueva autenticación OTP creada!",
+        "success": "Nueva autenticación OTP activada correctamente.",
         "prohibitedCharacters": "No se permiten caracteres especiales, acentuados o espacios.",
-        "new": "Nueva autenticación | Contraseña de un solo uso (OTP)",
+        "new": "Autenticación OTP | Nueva autenticación",
         "maxLength": "La longitud máxima es de {{maxLength}} caracteres.",
         "labelPurpose": "La etiqueta le permitirá recordar en dónde se utiliza la OTP.",
         "inputLabel": "Etiqueta OTP",
-        "empty": "La lista está vacía.",
+        "empty": "La lista de autenticaciones OTP está vacía.",
         "allowedCharacters": "El guión bajo y el guión están permitidos."
     },
     "passwordListLabel": {
         "status": "Estado",
         "service": "Servicio",
         "label": "Descripción",
-        "enabled": "Activa",
-        "disabled": "Inactiva",
-        "created": "Creada"
+        "enabled": "Activado",
+        "disabled": "Desactivado",
+        "created": "Creado"
     },
     "otpListLabel": {
         "failed_attempts": "Intentos fallidos"
@@ -50,7 +50,7 @@
         "scan_qr": "Escanee el código QR con alguna de las Apps de Zextras.",
         "save_pin": "Se sugiere imprimir y guardar los códigos PIN ya que le podrán ser requeridos para autenticarse. Cada código PIN es de un único uso.",
         "printPinCodes": "Imprimir códigos PIN",
-        "label": "Crear contraseña"
+        "label": "Nueva contraseña de un solo uso (OTP)"
     },
     "label": {
         "save": "Guardar",
@@ -76,7 +76,7 @@
     },
     "easAuth": {
         "success": "Nueva contraseña Exchange ActiveSync generada correctamente. La lista de contraseñas ha sido actualizada.",
-        "new": "Nueva autenticación | Exchange ActiveSync",
+        "new": "Exchange ActiveSync | Nueva autenticación",
         "label": "Exchange ActiveSync",
         "helpRemember": "La descripción le ayudará a recordar en dónde se utiliza esta autenticación Exchange ActiveSync.",
         "empty": "La lista de contraseñas está vacía."
@@ -89,7 +89,7 @@
     },
     "common": {
         "newAuthentication": "Nueva autenticación",
-        "enabled": "Activo",
+        "enabled": "Activado",
         "disabled": "Desactivado",
         "delete": "Eliminar",
         "createPassword": "Crear contraseña",
@@ -116,13 +116,13 @@
         "formatNotValid": "La contraseña debe contener al menos una mayúscula, una minúscula, un número y un caracter especial",
         "zimbraPasswordMinLowerCaseChars": "Debe contener por lo menos {{num}} minúscula(s).",
         "zimbraPasswordMinPunctuationChars": "Debe contener por lo menos {{num}} caracter(es) especial(es).",
-        "zimbraPasswordMinUpperCaseChars": "Debe contener por lo menos {{num}} mayúscula(s).",
+        "zimbraPasswordMinUpperCaseChars": "Debe contener por lo menos {{num}} mayúscula.",
         "zimbraPasswordLocked": "El cambio de contraseñas no está permitido. Contacte con el administrador del servicio para más información."
     },
     "buttons": {
-        "yes": "Aceptar",
-        "next": "Siguiente",
-        "done": "Concluido",
+        "yes": "Sí",
+        "next": "Próximo",
+        "done": "Hecho",
         "close": "Cerrar",
         "click": "Clic aquí",
         "cancel": "Cancelar"
@@ -130,7 +130,7 @@
     "appMobile": {
         "title": "Aplicaciones móviles",
         "success": "La nueva contraseña se activó correctamente. La lista de contraseñas ha sido actualizada.",
-        "new": "Nueva autenticación | Mobile Apps",
+        "new": "Aplicaciones móviles | Nueva autenticación",
         "label": "Aplicaciones móviles",
         "empty": "La lista de aplicaciones móviles está vacía.",
         "descriptionHelp": "La descripción le ayudará a recordar en dónde se utiliza esta autenticación."
