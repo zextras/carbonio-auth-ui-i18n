@@ -99,7 +99,7 @@
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "La quantité minimale de caractères numériques est {{num}}.",
-        "zimbraPasswordMinLength": "La longueur minimale est de {{num}} caractères.",
+        "zimbraPasswordMinLength": "La longueur minimale est de {{nombre}} caractères.",
         "zimbraPasswordMaxLength": "La longueur maximale est de {{num}} caractères.",
         "title": "Changer le mot de passe",
         "sameOldPassword": "Votre mot de passe ne peut pas être le même que l'ancien.",
