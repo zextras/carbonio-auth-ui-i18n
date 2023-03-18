@@ -69,7 +69,7 @@
     },
     "error": {
         "specialChars": "Los caracteres especiales no están permitidos.",
-        "somethingWrong": "Algo ha salido mal.",
+        "somethingWrong": "Algo salió mal.",
         "minimumLength": "La longitud mínima es de 6 caracteres.",
         "maximumLength": "La longitud máxima es de 20 caracteres.",
         "alreadyInUse": "Ya está en uso. Por favor, elija otra descripción."
