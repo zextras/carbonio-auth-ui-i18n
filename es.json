@@ -47,7 +47,7 @@
     "newPassword": "Nueva contraseña",
     "newOtp": {
         "warning": "Atención: podrá ver estos códigos solo esta única vez.",
-        "scan_qr": "Escanee el código QR con alguna de las Apps de Zextras.",
+        "scan_qr": "Escanea el código QR utilizando alguna de las aplicaciones soportadas.",
         "save_pin": "Se sugiere imprimir y guardar los códigos PIN ya que le podrán ser requeridos para autenticarse. Cada código PIN es de un único uso.",
         "printPinCodes": "Imprimir códigos PIN",
         "label": "Nueva contraseña de un solo uso (OTP)"
@@ -102,7 +102,7 @@
         "zimbraPasswordMinLength": "La longitud mínima es de {{num }} caracteres.",
         "zimbraPasswordMaxLength": "La longitud máxima es de {{num}} caracteres.",
         "title": "Cambiar contraseña",
-        "sameOldPassword": "Elija una contraseña que no haya utilizado antes.",
+        "sameOldPassword": "Elije una contraseña que no hayas utilizado antes.",
         "recentlyUsedPassword": "Esta contraseña ha sido usada recientemente.",
         "passwordChanged": "Su contraseña ha sido cambiada.",
         "oldPassword": "Contraseña antigua",
