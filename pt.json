@@ -13,7 +13,7 @@
         "status": "Status",
         "service": "Serviço",
         "label": "Descrição",
-        "enabled": "Ativada",
+        "enabled": "Enabled",
         "disabled": "Desativado",
         "created": "Criado"
     },
@@ -43,7 +43,7 @@
     },
     "common": {
         "newAuthentication": "Nova autenticação",
-        "enabled": "Ativada",
+        "enabled": "Enabled",
         "disabled": "Desativado",
         "delete": "Apagar",
         "codeCopied": "Código copiado com sucesso",
