@@ -59,12 +59,12 @@
         "auth_settings": "Ajustes de autenticación"
     },
     "instructions": {
-        "needInfo": "¿Necesits más información?"
+        "needInfo": "¿Necesita más información?"
     },
     "instruction": {
         "otp": "Aquí puedes administrar la autenticación OTP.",
         "mobile": "Aquí puedes administrar la contraseña de la aplicación móvil.",
-        "eas": "Aquí puedes administrar tu contraseña de Exchange ActiveSync.",
+        "eas": "Aquí puede administrar la contraseña Exchange ActiveSync.",
         "changePassword": "Aquí puedes cambiar tu contraseña."
     },
     "error": {
@@ -82,7 +82,7 @@
         "empty": "La lista de contraseñas está vacía."
     },
     "deletePassword": {
-        "title": "¿Seguro que quieres eliminar esta contraseña?"
+        "title": "¿Seguro que quiere eliminar esta contraseña?"
     },
     "deleteOtp": {
         "description": "Todos los dispositivos que utilicen esta contraseña serán desconectados y no podrán autenticarse hasta que proporciones nuevas credenciales de acceso."
