@@ -127,7 +127,7 @@
     "buttons": {
         "yes": "Да",
         "next": "Далее",
-        "done": "Вход",
+        "done": "Готово",
         "close": "Закрыть",
         "click": "Нажмите здесь",
         "cancel": "Отменить"
@@ -144,7 +144,8 @@
         "settings_saved": "Настройки успешно сохранены"
     },
     "setNewToken": {
-        "successfully": "Токен успешно сгенерирован."
+        "successfully": "Токен успешно сгенерирован.",
+        "authenticationDescription": "Описание аутентификации"
     },
     "appDesktop": {
         "title": "Приложения для рабочего стола",
