@@ -5,7 +5,7 @@
             "useOnce": "Ten presente que cada código puede usarse sólo una vez. Se sugiere tacharlo de la lista una vez utilizado. Cada vez que utilices un código recibirás una notificación por correo eletrónico.",
             "typePin": "Ingresa alguno de los códigos PIN listados arriba",
             "title": "Códigos OTP",
-            "login": "Autenticarse utilizando contraseña",
+            "login": "Autentíquese con su contraseña",
             "keepInSafePlace": "Se recomienda guardar los códigos en un lugar seguro.",
             "howToUse": "Cómo utilizar los códigos PIN:",
             "eraseUsedPin": "Tache o borre el PIN utilizado"
