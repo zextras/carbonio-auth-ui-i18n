@@ -140,5 +140,8 @@
     },
     "setNewToken": {
         "authenticationDescription": "Descrizione autenticazione"
+    },
+    "appDesktop": {
+        "descriptionHelp": "La descrizione sarà utile per indicare dove questa Autenticazione App Desktop è utilizzata."
     }
 }
