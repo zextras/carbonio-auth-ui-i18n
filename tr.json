@@ -140,5 +140,13 @@
     },
     "setNewToken": {
         "authenticationDescription": "Kimlik doğrulama açıklaması"
+    },
+    "appDesktop": {
+        "descriptionHelp": "Tanım, Masaüstü Uygulamalar Kimlik Doğrulamasının nerede kullanıldığını hatırlamanıza yardımcı olur.",
+        "new": "Masaüstü Uygulamaları | Yeni Kimlik Doğrulama",
+        "empty": "Masaüstü Uygulamalar listesi boş.",
+        "label": "Masaüstü Uygulamaları",
+        "success": "Yeni Masaüstü uygulama parolası başarıyla etkinleştirildi. Parola listesi güncellendi.",
+        "title": "Masaüstü Uygulamaları"
     }
 }
