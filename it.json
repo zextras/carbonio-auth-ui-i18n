@@ -50,7 +50,8 @@
         "scan_qr": "Acquisisci il codice QR usando una delle applicazioni supportate.",
         "save_pin": "Ti suggeriamo di stampare e conservare i codici PIN in quanto potrebbero essere richiesti per autenticarsi in futuro; ciascun codice PIN può essere utilizzato una sola volta.",
         "printPinCodes": "Stampa codici PIN",
-        "label": "Nuovo OTP"
+        "label": "Nuovo OTP",
+        "copy_token": "Utilizza questo token per autenticare il tuo account Desktop Sync."
     },
     "label": {
         "save": "Salva",
