@@ -140,5 +140,12 @@
     },
     "setNewToken": {
         "authenticationDescription": "ऑथेंटिकेशन विवरण"
+    },
+    "appDesktop": {
+        "descriptionHelp": "विवरण से आपको यह याद रखने में मदद मिलेगी कि यह Desktop Apps ऑथेंटिकेशन कहाँ इस्तेमाल हो रहा है।",
+        "empty": "Desktop Apps लिस्ट खाली है।",
+        "label": "डेस्कटॉप एप्लिकेशन्स",
+        "new": "डेस्कटॉप ऐप्स | नया ऑथेंटिकेशन",
+        "title": "डेस्कटॉप ऐप्स"
     }
 }
