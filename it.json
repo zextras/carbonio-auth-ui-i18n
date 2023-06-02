@@ -37,7 +37,7 @@
         "service": "Servizio",
         "label": "Descrizione",
         "enabled": "Abilitato",
-        "disabled": "Disabiliato",
+        "disabled": "Disabilitato",
         "created": "Creato"
     },
     "otpListLabel": {
@@ -92,7 +92,7 @@
     "common": {
         "newAuthentication": "Nuova autenticazione",
         "enabled": "Abilitato",
-        "disabled": "Disabiliato",
+        "disabled": "Disabilitato",
         "delete": "Elimina",
         "createPassword": "Crea password",
         "copyQrCode": "Copia Codice QR",
@@ -122,11 +122,11 @@
         "zimbraPasswordLocked": "La modifica della password è disabilitata, contatta l'amministratore di sistema per ulteriore supporto.",
         "mustContain": "La nuova password deve essere lunga da 6 a 20 caratteri e deve contenere:",
         "instruction": "Crea una nuova password e inseriscila nel campo di conferma",
-        "formatNotValid": "La password deve contenere almeno un carattere maiuscolo, minuscolo, cifra, carattere speciale"
+        "formatNotValid": "La password deve contenere almeno una lettera maiuscola, una minuscola, un numero e un carattere speciale"
     },
     "buttons": {
         "yes": "Sì",
-        "next": "Successivo",
+        "next": "Avanti",
         "done": "Fine",
         "close": "Chiudi",
         "click": "Clicca qui",
