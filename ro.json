@@ -1,13 +1,13 @@
 {
     "passwordListLabel": {
-        "status": "Stare",
+        "status": "Status",
         "label": "Descriere",
         "enabled": "Activat",
         "disabled": "Dezactivat"
     },
     "options": "Optiuni",
     "label": {
-        "save": "Salveaza",
+        "save": "Salvați",
         "cancel": "Anulare"
     },
     "common": {
