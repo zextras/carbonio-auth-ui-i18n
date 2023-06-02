@@ -28,7 +28,7 @@
     },
     "common": {
         "newAuthentication": "Autentikasi baru",
-        "enabled": "Diaktifkan",
+        "enabled": "Aktif",
         "disabled": "Dinonaktifkan",
         "delete": "Hapus",
         "createPassword": "Buat kata sandi",
@@ -114,7 +114,7 @@
         "status": "Status",
         "service": "Layanan",
         "label": "Deskripsi",
-        "enabled": "Diaktifkan",
+        "enabled": "Aktif",
         "disabled": "Dinonaktifkan",
         "created": "Dibuat"
     },
