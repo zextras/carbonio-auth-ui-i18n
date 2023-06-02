@@ -23,7 +23,7 @@
     },
     "setNewOtpLabel": {
         "title": "Autenticação de OTP",
-        "success": "Nova autenticação de OTP ativada com sucesso.",
+        "success": "Nova Autenticação de OTP feita com sucesso.",
         "prohibitedCharacters": "Não use nenhum caractere especial, acentos ou espaços.",
         "new": "Autenticação de OTP | Nova Autenticação",
         "maxLength": "O tamanho máximo da etiqueta é {{maxLength}} caracteres.",
@@ -47,7 +47,7 @@
     "newPassword": "Nova senha",
     "newOtp": {
         "warning": "Atenção: você poderá ver estes códigos apenas uma vez.",
-        "scan_qr": "Digitalize este código QR utilizando algum dos aplicativos suportados.",
+        "scan_qr": "Digitalize este código QR através de um dos aplicativos suportados.",
         "save_pin": "Sugerimos imprimir e manter os códigos PIN seguros, pois eles serão solicitados ao autenticar; cada código PIN pode ser usado apenas uma vez.",
         "printPinCodes": "Imprimir códigos PIN",
         "label": "Nova senha de uso único (OTP)"
@@ -72,7 +72,7 @@
         "somethingWrong": "Algo deu errado.",
         "minimumLength": "O tamanho mínimo é de 6 caracteres.",
         "maximumLength": "O comprimento máximo é de 20 caracteres.",
-        "alreadyInUse": "Já em uso. Por favor, escolha outra descrição."
+        "alreadyInUse": "Já em uso. Escolha outra descrição."
     },
     "easAuth": {
         "success": "Nova senha do Exchange ActiveSync ativada com sucesso. A lista de senhas foi atualizada.",
