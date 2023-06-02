@@ -15,7 +15,7 @@
         "successfully": "Autenticação QR gerada com sucesso"
     },
     "setNewPassword": {
-        "warningJustOnce": "Atenção: você poderá ver este código apenas uma vez",
+        "warningJustOnce": "Atenção: poderá ver este código apenas uma vez",
         "textDescription": "Utilize este código para autenticar a sua conta em dispositivos e clientes que aceitam Exchange ActiveSync",
         "successfully": "Senha criada com sucesso",
         "authenticationDescription": "Descrição da autenticação",
@@ -36,7 +36,7 @@
         "status": "Status",
         "service": "Serviço",
         "label": "Descrição",
-        "enabled": "Ativado",
+        "enabled": "Habilitado",
         "disabled": "Desabilitado",
         "created": "Criada"
     },
@@ -47,7 +47,7 @@
     "newPassword": "Nova senha",
     "newOtp": {
         "warning": "Atenção: você poderá ver estes códigos apenas uma vez.",
-        "scan_qr": "Digitalize este código QR utilizando algum dos aplicativos suportados.",
+        "scan_qr": "Leia este código QR através de uma das aplicações suportadas.",
         "save_pin": "Sugerimos imprimir e manter os códigos PIN seguros, pois eles serão solicitados ao autenticar; cada código PIN pode ser usado apenas uma vez.",
         "printPinCodes": "Imprimir códigos PIN",
         "label": "Nova senha de uso único (OTP)"
@@ -85,11 +85,11 @@
         "title": "Tem certeza que deseja excluir esta senha?"
     },
     "deleteOtp": {
-        "description": "Todos os dispositivos que estão usando esta senha serão desconectados e não poderão autenticar até que você forneça novas credenciais de acesso."
+        "description": "Todos os dispositivos que estão a utilizar esta palavra-passe serão desligados e não poderão autenticar-se até que o utilizador forneça as novas credenciais."
     },
     "common": {
         "newAuthentication": "Nova autenticação",
-        "enabled": "Ativado",
+        "enabled": "Habilitado",
         "disabled": "Desabilitado",
         "delete": "Excluir",
         "createPassword": "Criar senha",
