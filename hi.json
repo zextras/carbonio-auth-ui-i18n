@@ -95,7 +95,10 @@
         "createPassword": "पासवर्ड बनाएँ",
         "copyQrCode": "QR कोड कॉपी करें",
         "copyPassword": "पासवर्ड कॉपी करें",
-        "codeCopied": "कोड कॉपी हो गया"
+        "codeCopied": "कोड कॉपी हो गया",
+        "copyToken": "टोकन कॉपी करें",
+        "createToken": "टोकन बनाएँ",
+        "tokenCopied": "टोकन कॉपी हो गया"
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "कम से कम {{num}} न्यूमेरिक केस कैरक्टर होने चाहिए।",
@@ -139,13 +142,15 @@
         "settings_saved": "सेटिंग्स सेव हो गईं"
     },
     "setNewToken": {
-        "authenticationDescription": "ऑथेंटिकेशन विवरण"
+        "authenticationDescription": "ऑथेंटिकेशन विवरण",
+        "successfully": "टोकन बनाया गया।"
     },
     "appDesktop": {
         "descriptionHelp": "विवरण से आपको यह याद रखने में मदद मिलेगी कि यह Desktop Apps ऑथेंटिकेशन कहाँ इस्तेमाल हो रहा है।",
         "empty": "Desktop Apps लिस्ट खाली है।",
         "label": "डेस्कटॉप एप्लिकेशन्स",
         "new": "डेस्कटॉप ऐप्स | नया ऑथेंटिकेशन",
-        "title": "डेस्कटॉप ऐप्स"
+        "title": "डेस्कटॉप ऐप्स",
+        "success": "नया डेस्कटॉप एप पासवर्ड चालू किया गया। पासवर्ड लिस्ट अपडेट हो गई है।"
     }
 }
