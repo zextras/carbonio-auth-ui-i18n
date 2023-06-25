@@ -54,7 +54,7 @@
         "copy_token": "Use este token para autenticar-se na conta do Desktop Sync."
     },
     "label": {
-        "save": "Salvar",
+        "save": "Guardar",
         "cancel": "Cancelar",
         "app_name": "Auth",
         "auth_settings": "Configurações de autenticação"
