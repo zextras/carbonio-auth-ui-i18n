@@ -37,7 +37,7 @@
         "service": "Servizio",
         "label": "Descrizione",
         "enabled": "Abilitato",
-        "disabled": "Disabilitato",
+        "disabled": "Disabiliato",
         "created": "Creato"
     },
     "otpListLabel": {
@@ -92,7 +92,7 @@
     "common": {
         "newAuthentication": "Nuova autenticazione",
         "enabled": "Abilitato",
-        "disabled": "Disabilitato",
+        "disabled": "Disabiliato",
         "delete": "Elimina",
         "createPassword": "Crea password",
         "copyQrCode": "Copia Codice QR",
@@ -130,7 +130,7 @@
         "done": "Fine",
         "close": "Chiudi",
         "click": "Clicca qui",
-        "cancel": "Annulla"
+        "cancel": "Elimina"
     },
     "appMobile": {
         "title": "App",
