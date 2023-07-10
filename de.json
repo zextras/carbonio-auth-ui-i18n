@@ -50,7 +50,8 @@
         "scan_qr": "Scannen Sie diesen QR Code mit einer der unterstützten Apps.",
         "save_pin": "Wir empfehlen, die PIN Codes auszudrucken und aufzubewahren, da sie zur Authentifizierung abgefragt werden könnten; jeder PIN Code kann nur einmal benutzt werden.",
         "printPinCodes": "PIN Codes drucken",
-        "label": "Neues OTP"
+        "label": "Neues OTP",
+        "copy_token": "Verwenden Sie dieses Token, um Ihr Desktop Sync-Konto zu authentifizieren."
     },
     "label": {
         "save": "Speichern",
@@ -65,7 +66,8 @@
         "otp": "Hier können Sie die OTP Authentifizierung verwalten.",
         "mobile": "Hier können Sie Ihre Mobile App verwalten.",
         "eas": "Hier können Sie Ihr Exchange ActiveSync Passwort verwalten.",
-        "changePassword": "Hier können Sie Ihr Passwort ändern."
+        "changePassword": "Hier können Sie Ihr Passwort ändern.",
+        "desktop": "Hier können Sie das Desktop-App-Passwort verwalten."
     },
     "error": {
         "specialChars": "Sonderzeichen sind nicht erlaubt.",
@@ -95,7 +97,10 @@
         "createPassword": "Passwort erstellen",
         "copyQrCode": "QR Code kopieren",
         "copyPassword": "Passwort kopieren",
-        "codeCopied": "Code erfolgreich kopiert"
+        "codeCopied": "Code erfolgreich kopiert",
+        "copyToken": "Token kopieren",
+        "createToken": "Token erstellen",
+        "tokenCopied": "Token erfolgreich kopiert"
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "Die Mindestanzahl der numerischen Zeichen ist {{num}}.",
@@ -139,6 +144,15 @@
         "settings_saved": "Einstellungen erfolgreich gespeichert"
     },
     "setNewToken": {
-        "authenticationDescription": "Beschreibung der Authentifizierung"
+        "authenticationDescription": "Beschreibung der Authentifizierung",
+        "successfully": "Token erfolgreich erstellt."
+    },
+    "appDesktop": {
+        "descriptionHelp": "Die Beschreibung wird Sie daran erinnern, wo diese Desktop-Apps-Authentifizierung verwendet wird.",
+        "empty": "Die Liste der Desktop-Apps ist leer.",
+        "label": "Desktop-Apps",
+        "success": "Neues Desktop-App-Passwort erfolgreich aktiviert. Die Passwortliste wurde aktualisiert.",
+        "title": "Desktop-Apps",
+        "new": "Desktop-Apps | Neue Authentifizierung"
     }
 }
