@@ -29,14 +29,14 @@
         "maxLength": "O tamanho máximo da etiqueta é {{maxLength}} caracteres.",
         "labelPurpose": "Esta etiqueta irá te ajudar a lembrar onde a OTP é utilizada.",
         "inputLabel": "Etiqueta OTP",
-        "empty": "A lista de autenticação de OTP está vazia.",
+        "empty": "A lista de Autenticação de OTP está vazia.",
         "allowedCharacters": "O uso de underline e hífen é permitido."
     },
     "passwordListLabel": {
         "status": "Status",
         "service": "Serviço",
         "label": "Descrição",
-        "enabled": "Habilitado",
+        "enabled": "Habilitadas",
         "disabled": "Desabilitado",
         "created": "Criada"
     },
@@ -91,7 +91,7 @@
     },
     "common": {
         "newAuthentication": "Nova autenticação",
-        "enabled": "Habilitado",
+        "enabled": "Habilitadas",
         "disabled": "Desabilitado",
         "delete": "Excluir",
         "createPassword": "Criar senha",
@@ -107,10 +107,10 @@
         "zimbraPasswordMinLength": "O comprimento mínimo é de {{num}} caracteres.",
         "zimbraPasswordMaxLength": "O comprimento máximo é de {{num}} caracteres.",
         "title": "Alterar Senha",
-        "sameOldPassword": "Sua senha não pode ser igual à antiga.",
+        "sameOldPassword": "Sua senha não pode ser igual a antiga.",
         "recentlyUsedPassword": "Esta senha foi usada recentemente.",
         "passwordChanged": "Sua senha foi alterada.",
-        "oldPassword": "Senha antiga",
+        "oldPassword": "Senha Antiga",
         "mustMatch": "As senhas devem coincidir.",
         "lowerUpper": "um caractere maiúsculo (ABC) e um caractere minúsculo (abc)",
         "incorrectPassword": "Senha incorreta.",
