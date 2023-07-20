@@ -96,7 +96,7 @@
         "delete": "削除する",
         "createPassword": "パスワードを作成する",
         "copyQrCode": "QRコードをコピーする",
-        "copyPassword": "パスワードをコピーする",
+        "copyPassword": "パスコードをコピーする",
         "codeCopied": "コードが正常にコピーされました",
         "copyToken": "トークンをコピーする",
         "createToken": "トークンを作成する",
