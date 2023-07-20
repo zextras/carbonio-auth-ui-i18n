@@ -35,7 +35,7 @@
     "passwordListLabel": {
         "status": "Durum",
         "service": "Servis",
-        "label": "Tanım",
+        "label": "Açıklama",
         "enabled": "Kullanıma açık",
         "disabled": "Kullanıma kapalı",
         "created": "Oluşturuldu"
