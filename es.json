@@ -38,7 +38,7 @@
         "label": "Descripción",
         "enabled": "Activado",
         "disabled": "Desactivado",
-        "created": "Creado"
+        "created": "Generada"
     },
     "otpListLabel": {
         "failed_attempts": "Intentos fallidos"
