@@ -4,7 +4,7 @@
             "whenToUse": "Dies sind Ihre statischen Codes. Sie müssen einen der Codes verwenden, wenn Sie Ihr Mobilgerät nicht dabei haben, um die Authentifizierung durchzuführen.",
             "useOnce": "Denken Sie daran, dass jeder Code nur einmal verwendet werden kann. Wir empfehlen daher, ihn nach der Verwendung aus der Liste zu löschen. Jedes Mal, wenn Sie einen Code verwenden, erhalten Sie eine Benachrichtigung per E-Mail.",
             "typePin": "Geben Sie einen der oben aufgeführten PIN-Codes ein",
-            "title": "OTP-Codes",
+            "title": "OTP Codes",
             "login": "Melden Sie sich mit Ihrem Passwort an",
             "keepInSafePlace": "Wir empfehlen Ihnen, die Codes an einem sicheren Ort aufzubewahren.",
             "howToUse": "Wie Sie Ihre PINs verwenden",
@@ -19,16 +19,16 @@
         "textDescription": "Nutzen Sie diesen Code, um Ihr Konto auf Exchange ActiveSync Services zu authentifizieren",
         "successfully": "Passwort erfolgreich generiert",
         "authenticationDescription": "Beschreibung der Authentifizierung",
-        "EASPasswordCopied": "EAS-Passwort kopiert"
+        "EASPasswordCopied": "EAS Passwort kopiert"
     },
     "setNewOtpLabel": {
-        "title": "OTP-Authentifizierung",
+        "title": "OTP Authentifizierung",
         "success": "Neue OTP Authentifizierung erfolgreich aktiviert.",
         "prohibitedCharacters": "Benutzen Sie keine Sonderzeichen, Akzente oder Leerzeichen.",
-        "new": "OTP-Authentifizierung | Neue Authentifizierung",
+        "new": "OTP Authentifizierung | Neue Authentifizierung",
         "maxLength": "Die maximale Länge des Labels ist {{maxLength}} Zeichen.",
         "labelPurpose": "Das Label wird Ihnen helfen, sich zu erinnern, wo das OTP verwendet wird.",
-        "inputLabel": "OTP-Label",
+        "inputLabel": "OTP Label",
         "empty": "Die OTP Authentifizierungsliste ist leer.",
         "allowedCharacters": "Unterstrich und Bindestrich sind erlaubt."
     },
@@ -49,7 +49,7 @@
         "warning": "Achtung: Sie können dieses Token nur einmal kopieren.",
         "scan_qr": "Scannen Sie diesen QR Code mit einer der unterstützten Apps.",
         "save_pin": "Wir empfehlen, die PIN Codes auszudrucken und aufzubewahren, da sie zur Authentifizierung abgefragt werden könnten; jeder PIN Code kann nur einmal benutzt werden.",
-        "printPinCodes": "PIN-Codes drucken",
+        "printPinCodes": "PIN Codes drucken",
         "label": "Neues OTP",
         "copy_token": "Verwenden Sie dieses Token, um Ihr Desktop Sync-Konto zu authentifizieren."
     },
@@ -95,7 +95,7 @@
         "disabled": "Deaktiviert",
         "delete": "Löschen",
         "createPassword": "Passwort erstellen",
-        "copyQrCode": "QR-Code kopieren",
+        "copyQrCode": "QR Code kopieren",
         "copyPassword": "Passwort kopieren",
         "codeCopied": "Code erfolgreich kopiert",
         "copyToken": "Token kopieren",
