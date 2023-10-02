@@ -57,7 +57,10 @@
         "save": "Sauvegarder",
         "cancel": "Annuler",
         "app_name": "Authentification",
-        "auth_settings": "Paramètres d'authentification"
+        "auth_settings": "Paramètres d'authentification",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "instructions": {
         "needInfo": "Avez-vous besoin de plus d'informations ?"
@@ -67,7 +70,8 @@
         "mobile": "Ici, vous pouvez gérer le mot de passe de l'application mobile.",
         "eas": "Ici, vous pouvez gérer votre mot de passe Exchange ActiveSync.",
         "changePassword": "Ici, vous pouvez changer votre mot de passe.",
-        "desktop": "Vous pouvez gérer les mots de passe des Applications de Bureau ici."
+        "desktop": "Vous pouvez gérer les mots de passe des Applications de Bureau ici.",
+        "recoveryaddress": ""
     },
     "error": {
         "specialChars": "Les caractères spéciaux ne sont pas autorisés.",
@@ -100,7 +104,8 @@
         "codeCopied": "Code copié avec succès",
         "copyToken": "Copier le Token",
         "createToken": "Créer un token",
-        "tokenCopied": "Token copié avec succès"
+        "tokenCopied": "Token copié avec succès",
+        "passwordCopied": ""
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "La quantité minimale de caractères numériques est {{num}}.",
@@ -141,7 +146,12 @@
         "descriptionHelp": "La description vous aidera à vous rappeler où cette application d'authentification mobile est utilisée."
     },
     "snackbar": {
-        "settings_saved": "Les paramètres ont été sauvegardés avec succès"
+        "settings_saved": "Les paramètres ont été sauvegardés avec succès",
+        "validation_code_sent": "",
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "validation_code_resent": ""
     },
     "setNewToken": {
         "authenticationDescription": "Description de l'authentification",
@@ -179,5 +189,20 @@
         "Column": {
             "HereYouCanResetYourPassword": "Vous pouvez réinitialiser votre mot de passe ici."
         }
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "button_continue": "",
+    "recoveryAddress": {
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": "",
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": ""
     }
 }
