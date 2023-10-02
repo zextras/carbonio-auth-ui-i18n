@@ -21,7 +21,7 @@
         "empty": "Daftar Exchange ActiveSync kosong."
     },
     "deletePassword": {
-        "title": "Apakah Anda yakin ingin menghapus kata sandi ini?"
+        "title": "Anda yakin ingin menghapus kata sandi ini?"
     },
     "deleteOtp": {
         "description": "Semua perangkat yang menggunakan kata sandi ini akan diputus sambungannya dan tidak dapat mengautentikasi sampai Anda memberikan serangkaian kredensial baru."
