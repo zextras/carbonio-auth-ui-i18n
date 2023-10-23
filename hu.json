@@ -18,13 +18,17 @@
         "createPassword": "Új jelszó létrehozása",
         "createToken": "Token létrehozása",
         "newAuthentication": "Új hitelesítés",
-        "tokenCopied": "Token másolása sikeres"
+        "tokenCopied": "Token másolása sikeres",
+        "passwordCopied": ""
     },
     "label": {
         "cancel": "Törlés",
         "app_name": "Hitelesítés",
         "save": "Mentés",
-        "auth_settings": "Hitelesítési beállítások"
+        "auth_settings": "Hitelesítési beállítások",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "passwordListLabel": {
         "disabled": "Letiltva",
@@ -39,7 +43,8 @@
         "changePassword": "Itt módosíthatja a jelszavát.",
         "eas": "Itt kezelheti Exchange ActiveSync jelszavát.",
         "mobile": "Itt kezelheti a mobilalkalmazás jelszavát.",
-        "otp": "Itt kezelheti az OTP-hitelesítést."
+        "otp": "Itt kezelheti az OTP-hitelesítést.",
+        "recoveryaddress": ""
     },
     "setNewOtpLabel": {
         "new": "OTP hitelesítés | Új hitelesítés",
@@ -153,7 +158,12 @@
         "successfully": "Token sikeresen létrehozva."
     },
     "snackbar": {
-        "settings_saved": "Beállítások elmentve"
+        "settings_saved": "Beállítások elmentve",
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "validation_code_resent": "",
+        "validation_code_sent": ""
     },
     "settingsAuth": {
         "displayerInputField": {
@@ -179,5 +189,20 @@
         "Column": {
             "HereYouCanResetYourPassword": ""
         }
-    }
+    },
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": ""
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "button_continue": ""
 }
