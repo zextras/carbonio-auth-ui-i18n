@@ -1,1 +1,20 @@
-{}
+{
+    "buttons": {
+        "cancel": "Törlés",
+        "done": "Kész"
+    },
+    "common": {
+        "delete": "Törlés",
+        "disabled": "Letiltva",
+        "enabled": "Engedélyezett"
+    },
+    "label": {
+        "cancel": "Törlés"
+    },
+    "passwordListLabel": {
+        "disabled": "Letiltva",
+        "enabled": "Engedélyezett",
+        "label": "Leírás",
+        "status": "Státusz"
+    }
+}
