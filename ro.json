@@ -13,7 +13,7 @@
     "common": {
         "enabled": "Activat",
         "disabled": "Dezactivat",
-        "delete": "Ştergere"
+        "delete": "Sterge"
     },
     "buttons": {
         "yes": "Da",
