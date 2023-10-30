@@ -133,5 +133,11 @@
             "useOnce": "Pamiętaj, że każdy kod może zostać użyty tylko raz, sugerujemy więc usunięcie go z listy po jego użyciu. Zawsze kiedy użyjesz kodu, otrzymasz powiadomienie e-mail.",
             "whenToUse": "To są Twoje kody statyczne. Będziesz musiał użyć jednego z tych kodów jeśli podczas uwierzytelniania nie będziesz miał pod ręką urządzenia mobilnego."
         }
+    },
+    "appDesktop": {
+        "empty": "Lista aplikacji komputerowych jest pusta.",
+        "label": "Aplikacje komputerowe",
+        "new": "Aplikacje komputerowe | Nowe uwierzytelnienie",
+        "descriptionHelp": "Opis pomoże Ci zapamiętać gdzie używane jest to uwierzytelnienie aplikacji komputerowych."
     }
 }
