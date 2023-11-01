@@ -4,13 +4,16 @@
         "label": "Aplikacje mobilne",
         "new": "Aplikacje mobilne | Nowe uwierzytelnianie",
         "success": "Nowa hasło aplikacji mobilnej zostało włączone pomyślnie. Lista haseł została zaktualizowana.",
-        "title": "Aplikacje mobilne"
+        "title": "Aplikacje mobilne",
+        "descriptionHelp": "Opis pomoże Ci zapamiętać gdzie używane jest to uwierzytelnienie aplikacji mobilnych."
     },
     "newOtp": {
         "label": "Nowe hasło OTP",
         "printPinCodes": "Wydrukuj kody PIN",
         "save_pin": "Sugerujemy wydrukowanie i trzymanie kodów PIN przy sobie, ponieważ mogą być one potrzebne do weryfikacji; każdego kodu PIN można użyć tylko raz.",
-        "scan_qr": "Zeskanuj ten kod QR przez jedną ze wspieranych aplikacji."
+        "scan_qr": "Zeskanuj ten kod QR przez jedną ze wspieranych aplikacji.",
+        "copy_token": "Użyj tego tokenu, aby uwierzytelnić Twoje konto synchronizacji pulpitu.",
+        "warning": "Uwaga: będziesz mógł skopiować ten token tylko raz."
     },
     "buttons": {
         "cancel": "Anuluj",
@@ -39,7 +42,8 @@
         "zimbraPasswordMinLowerCaseChars": "Min. liczba małych liter to {{num}}.",
         "zimbraPasswordMinNumericChars": "Min. liczba cyfr to {{num}}.",
         "zimbraPasswordMinPunctuationChars": "Min. liczba znaków specjalnych to {{num}}.",
-        "zimbraPasswordMinUpperCaseChars": "Min. liczba wielkich liter to {{num}}."
+        "zimbraPasswordMinUpperCaseChars": "Min. liczba wielkich liter to {{num}}.",
+        "zimbraPasswordLocked": "Zmienianie hasła jest wyłączone, skontaktuj się z Twoim administratorem systemu, aby uzyskać wsparcie."
     },
     "common": {
         "codeCopied": "Kod został skopiowany",
@@ -49,7 +53,10 @@
         "delete": "Usuń",
         "disabled": "Wyłączone",
         "enabled": "Włączone",
-        "newAuthentication": "Nowe uwierzytelnianie"
+        "newAuthentication": "Nowe uwierzytelnianie",
+        "copyToken": "skopiuj token",
+        "createToken": "Stwórz token",
+        "tokenCopied": "Token został skopiowany"
     },
     "deleteOtp": {
         "description": "Wszystkie urządzenia, które używają tego hasła zostaną rozłączone i nie będzie możnich uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
@@ -75,7 +82,8 @@
         "changePassword": "Tutaj możesz zmienić swoje hasło.",
         "eas": "Tutaj możesz zarządzać swoim hasłem Exchange ActiveSync.",
         "mobile": "tutaj możesz zarządzać hasłem aplikacji mobilnej.",
-        "otp": "Tutaj możesz zarządzać uwierzytelnianiem OTP."
+        "otp": "Tutaj możesz zarządzać uwierzytelnianiem OTP.",
+        "desktop": "Tutaj możesz zarządzać hasłem aplikacji komputerowej."
     },
     "instructions": {
         "needInfo": "Potrzebujesz więcej informacji?"
@@ -83,7 +91,8 @@
     "label": {
         "app_name": "Auth",
         "cancel": "Anuluj",
-        "save": "Zapisz"
+        "save": "Zapisz",
+        "auth_settings": "Ustawienia uwierzytelniania"
     },
     "newPassword": "Nowe hasło",
     "options": "Opcje",
@@ -120,7 +129,8 @@
         "successfully": "Uwierzytelnianie QR zostało wygenerowane pomyślnie"
     },
     "setNewToken": {
-        "authenticationDescription": "Opis uwierzytelniania"
+        "authenticationDescription": "Opis uwierzytelniania",
+        "successfully": "Token został wygenerowany."
     },
     "staticOTPCodes": {
         "print": {
@@ -138,6 +148,11 @@
         "empty": "Lista aplikacji komputerowych jest pusta.",
         "label": "Aplikacje komputerowe",
         "new": "Aplikacje komputerowe | Nowe uwierzytelnienie",
-        "descriptionHelp": "Opis pomoże Ci zapamiętać gdzie używane jest to uwierzytelnienie aplikacji komputerowych."
+        "descriptionHelp": "Opis pomoże Ci zapamiętać gdzie używane jest to uwierzytelnienie aplikacji komputerowych.",
+        "success": "Nowe hasło aplikacji komputerowej zostało włączone. Lista haseł została zaktualizowana.",
+        "title": "Aplikacje komputerowe"
+    },
+    "snackbar": {
+        "settings_saved": "Ustawienia zostały zapisane"
     }
 }
