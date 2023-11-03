@@ -59,7 +59,7 @@
         "tokenCopied": "Token został skopiowany"
     },
     "deleteOtp": {
-        "description": "Wszystkie urządzenia, które używają tego hasła zostaną rozłączone i nie będzie możnich uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
+        "description": "Wszystkie urządzenia, które używają tego hasła zostaną rozłączone i nie będzie można ich uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
     },
     "deletePassword": {
         "title": "Czy na pewno chcesz usunąć to hasło?"
@@ -81,7 +81,7 @@
     "instruction": {
         "changePassword": "Tutaj możesz zmienić swoje hasło.",
         "eas": "Tutaj możesz zarządzać swoim hasłem Exchange ActiveSync.",
-        "mobile": "tutaj możesz zarządzać hasłem aplikacji mobilnej.",
+        "mobile": "Tutaj możesz zarządzać hasłem aplikacji mobilnej.",
         "otp": "Tutaj możesz zarządzać uwierzytelnianiem OTP.",
         "desktop": "Tutaj możesz zarządzać hasłem aplikacji komputerowej."
     },
@@ -89,7 +89,7 @@
         "needInfo": "Potrzebujesz więcej informacji?"
     },
     "label": {
-        "app_name": "Auth",
+        "app_name": "Uwierzytelnianie",
         "cancel": "Anuluj",
         "save": "Zapisz",
         "auth_settings": "Ustawienia uwierzytelniania"
@@ -139,7 +139,7 @@
             "keepInSafePlace": "Zalecamy przechowywanie kodów w bezpiecznym miejscu.",
             "login": "Zaloguj się używając swojego hasła",
             "title": "Kody hasła OTP",
-            "typePin": "Wprowadź jeden z kodów PIN wylistowanych powyżej",
+            "typePin": "Wprowadź jeden z kodów PIN podanych powyżej",
             "useOnce": "Pamiętaj, że każdy kod może zostać użyty tylko raz, sugerujemy więc usunięcie go z listy po jego użyciu. Zawsze kiedy użyjesz kodu, otrzymasz powiadomienie e-mail.",
             "whenToUse": "To są Twoje kody statyczne. Będziesz musiał użyć jednego z tych kodów jeśli podczas uwierzytelniania nie będziesz miał pod ręką urządzenia mobilnego."
         }
@@ -147,7 +147,7 @@
     "appDesktop": {
         "empty": "Lista aplikacji komputerowych jest pusta.",
         "label": "Aplikacje komputerowe",
-        "new": "Aplikacje komputerowe | Nowe uwierzytelnienie",
+        "new": "Aplikacje komputerowe | Nowe uwierzytelnianie",
         "descriptionHelp": "Opis pomoże Ci zapamiętać gdzie używane jest to uwierzytelnienie aplikacji komputerowych.",
         "success": "Nowe hasło aplikacji komputerowej zostało włączone. Lista haseł została zaktualizowana.",
         "title": "Aplikacje komputerowe"
