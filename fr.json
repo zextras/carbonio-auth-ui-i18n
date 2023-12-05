@@ -28,7 +28,7 @@
         "new": "Authentification OTP | Nouvelle authentification",
         "maxLength": "La longueur maximale de l'étiquette est de {{maxLength}} caractères.",
         "labelPurpose": "L'étiquette vous aidera à vous souvenir de l'endroit où l'OTP est utilisé.",
-        "inputLabel": "Etiquette OTP",
+        "inputLabel": "Étiquette OTP",
         "empty": "La liste d'authentification OTP est vide.",
         "allowedCharacters": "Le trait de soulignement et le tiret sont autorisés."
     },
