@@ -69,7 +69,7 @@
         "helpRemember": "Opis pomoże Ci zapamiętać gdzie to uwierzytelanianie Exchange ActiveSync jest używane.",
         "label": "Exchange ActiveSync",
         "new": "Exchange ActiveSync | Nowe uwierzytelnienie",
-        "success": "Nowe hasło Exchange ActiveSync zostało włączone pomyślnie. Lista haseł została zaktualizowana."
+        "success": "Nowe hasło Exchange ActiveSync zostało włączone. Lista haseł została zaktualizowana."
     },
     "error": {
         "alreadyInUse": "Już używane. Wybierz inny opis.",
@@ -115,18 +115,18 @@
         "maxLength": "Max. długość określenie wynosi {{maxLength}} znaków.",
         "new": "Uwierzytelnianie OTP | Nowe uwierzytelnienie",
         "prohibitedCharacters": "Nie używaj żadnych znaków specjalnych, znaków diakrytycznych ani spacji.",
-        "success": "Nowe uwierzytelnienie OTP zostało włączone pomyślnie.",
+        "success": "Nowe uwierzytelnienie OTP zostało włączone.",
         "title": "Uwierzytelnianie OTP"
     },
     "setNewPassword": {
         "EASPasswordCopied": "Hasło EAS zostało skopiowane",
         "authenticationDescription": "Opis uwierzytelniania",
-        "successfully": "Hasło zostało wygenerowane pomyślnie",
+        "successfully": "Hasło zostało wygenerowane",
         "textDescription": "Użyj tego kodu, aby uwierzytelnić swoje konto w usługach Exchange ActiveSync",
         "warningJustOnce": "Uwaga: będziesz mógł zobaczyć ten kod tylko raz"
     },
     "setNewQRCode": {
-        "successfully": "Uwierzytelnianie QR zostało wygenerowane pomyślnie"
+        "successfully": "Uwierzytelnianie QR zostało wygenerowane"
     },
     "setNewToken": {
         "authenticationDescription": "Opis uwierzytelniania",
