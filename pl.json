@@ -59,7 +59,7 @@
         "tokenCopied": "Token został skopiowany"
     },
     "deleteOtp": {
-        "description": "Wszystkie urządzenia, które używają tego hasła zostaną rozłączone i nie będzie można ich uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
+        "description": "Wszystkie urządzenia, które używają tego hasła zostaną rozłączone i nie będzie możnich uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
     },
     "deletePassword": {
         "title": "Czy na pewno chcesz usunąć to hasło?"
