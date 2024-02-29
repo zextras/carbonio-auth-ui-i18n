@@ -33,7 +33,7 @@
         "allowedCharacters": "Разрешены подчеркивание и тире."
     },
     "passwordListLabel": {
-        "status": "Статус",
+        "status": "статусу",
         "service": "Сервис",
         "label": "Описание",
         "enabled": "Включено",
