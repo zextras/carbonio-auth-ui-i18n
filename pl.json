@@ -115,7 +115,7 @@
         "maxLength": "Max. długość określenie wynosi {{maxLength}} znaków.",
         "new": "Uwierzytelnianie OTP | Nowe uwierzytelnianie",
         "prohibitedCharacters": "Nie używaj żadnych znaków specjalnych, znaków diakrytycznych ani spacji.",
-        "success": "Nowe uwierzytelnienie OTP zostało włączone.",
+        "success": "Nowe uwierzytelnianie OTP zostało włączone pomyślnie.",
         "title": "Uwierzytelnianie OTP"
     },
     "setNewPassword": {
