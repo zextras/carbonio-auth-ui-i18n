@@ -113,7 +113,7 @@
         "inputLabel": "Określenie hasła OTP",
         "labelPurpose": "To określenie pomoże Ci zapamiętać gdzie hasło OTP jest używane.",
         "maxLength": "Max. długość określenie wynosi {{maxLength}} znaków.",
-        "new": "Uwierzytelnianie OTP | Nowe uwierzytelnienie",
+        "new": "Uwierzytelnianie OTP | Nowe uwierzytelnianie",
         "prohibitedCharacters": "Nie używaj żadnych znaków specjalnych, znaków diakrytycznych ani spacji.",
         "success": "Nowe uwierzytelnienie OTP zostało włączone.",
         "title": "Uwierzytelnianie OTP"
