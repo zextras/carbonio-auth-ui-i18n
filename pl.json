@@ -68,7 +68,7 @@
         "empty": "Lista Exchange ActiveSync jest pusta.",
         "helpRemember": "Opis pomoże Ci zapamiętać gdzie to uwierzytelanianie Exchange ActiveSync jest używane.",
         "label": "Exchange ActiveSync",
-        "new": "Exchange ActiveSync | Nowe uwierzytelnienie",
+        "new": "Exchange ActiveSync | Nowe uwierzytelnianie",
         "success": "Nowe hasło Exchange ActiveSync zostało włączone pomyślnie. Lista haseł została zaktualizowana."
     },
     "error": {
