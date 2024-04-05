@@ -18,5 +18,30 @@
         "enabled": "Enabled",
         "label": "Description",
         "status": "Status"
+    },
+    "settingsAuth": {
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "Option": {
+            "ResetPassword": ""
+        },
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        }
     }
 }
