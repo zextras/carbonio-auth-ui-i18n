@@ -179,5 +179,30 @@
         "body_row4": "",
         "status_verified_message": ""
     },
-    "button_continue": ""
+    "button_continue": "",
+    "settingsAuth": {
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "Option": {
+            "ResetPassword": ""
+        },
+        "displayerInputField": {
+            "ConfirmPassword": "",
+            "NewPassword": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        }
+    }
 }
