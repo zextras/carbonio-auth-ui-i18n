@@ -1,1 +1,27 @@
-{}
+{
+    "settingsAuth": {
+        "Option": {
+            "ResetPassword": ""
+        },
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        }
+    }
+}
