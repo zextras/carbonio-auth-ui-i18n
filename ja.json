@@ -154,5 +154,30 @@
         "empty": "デスクトップアプリのリストが空です。",
         "label": "デスクトップアプリケーション",
         "title": "デスクトップアプリ"
+    },
+    "settingsAuth": {
+        "Displayer": {
+            "CreateANewPasswordToResetIt": "",
+            "ResetPassword": ""
+        },
+        "displayerInputField": {
+            "ConfirmPassword": "",
+            "NewPassword": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "Option": {
+            "ResetPassword": ""
+        }
     }
 }
