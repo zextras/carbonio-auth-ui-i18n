@@ -154,5 +154,30 @@
         "new": "แอปเดสก์ท็อป | การรับรองความถูกต้องใหม่",
         "title": "แอปเดสก์ท็อป",
         "success": "เปิดใช้งานรหัสผ่านใหม่ของแอปเดสก์ท็อปสำเร็จแล้ว รายการรหัสผ่านได้รับการอัปเดตแล้ว"
+    },
+    "settingsAuth": {
+        "Option": {
+            "ResetPassword": ""
+        },
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        }
     }
 }
