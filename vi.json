@@ -134,5 +134,30 @@
     },
     "setNewToken": {
         "authenticationDescription": "Mô tả xác thực"
+    },
+    "settingsAuth": {
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "Option": {
+            "ResetPassword": ""
+        },
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        }
     }
 }
