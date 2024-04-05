@@ -154,5 +154,30 @@
         "new": "डेस्कटॉप ऐप्स | नया ऑथेंटिकेशन",
         "title": "डेस्कटॉप ऐप्स",
         "success": "नया डेस्कटॉप एप पासवर्ड चालू किया गया। पासवर्ड लिस्ट अपडेट हो गई है।"
+    },
+    "settingsAuth": {
+        "Option": {
+            "ResetPassword": ""
+        },
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        }
     }
 }
