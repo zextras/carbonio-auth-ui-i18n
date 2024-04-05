@@ -154,5 +154,30 @@
         "success": "Neues Desktop-App-Passwort erfolgreich aktiviert. Die Passwortliste wurde aktualisiert.",
         "title": "Desktop-Apps",
         "new": "Desktop-Apps | Neue Authentifizierung"
+    },
+    "settingsAuth": {
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "Option": {
+            "ResetPassword": ""
+        },
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        }
     }
 }
