@@ -154,5 +154,30 @@
         "label": "Masaüstü Uygulamaları",
         "success": "Yeni Masaüstü uygulama parolası başarıyla etkinleştirildi. Parola listesi güncellendi.",
         "title": "Masaüstü Uygulamaları"
+    },
+    "settingsAuth": {
+        "Option": {
+            "ResetPassword": ""
+        },
+        "Displayer": {
+            "CreateANewPasswordToResetIt": "",
+            "ResetPassword": ""
+        },
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        }
     }
 }
