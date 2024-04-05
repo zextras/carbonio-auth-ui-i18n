@@ -154,5 +154,30 @@
         "title": "Desktop Apps",
         "descriptionHelp": "Beschrijving helpt u herinneren waar deze Mobile Apps Authenticatie wordt gebruikt.",
         "success": "Nieuwe Mobiele App wachtwoord met succes geactiveerd. Wachtwoordenlijst is bijgewerkt."
+    },
+    "settingsAuth": {
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "Option": {
+            "ResetPassword": ""
+        }
     }
 }
