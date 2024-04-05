@@ -16,5 +16,30 @@
         "disabled": "غیرفعال",
         "enabled": "فعال",
         "label": "توضیح"
+    },
+    "settingsAuth": {
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "Option": {
+            "ResetPassword": ""
+        },
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        }
     }
 }
