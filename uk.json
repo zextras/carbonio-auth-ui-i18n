@@ -154,5 +154,30 @@
     },
     "instructions": {
         "needInfo": "Вам потрібна додаткова інформація?"
+    },
+    "settingsAuth": {
+        "Option": {
+            "ResetPassword": ""
+        },
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        },
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        }
     }
 }
