@@ -154,5 +154,30 @@
     },
     "snackbar": {
         "settings_saved": "Beállítások elmentve"
+    },
+    "settingsAuth": {
+        "displayerInputField": {
+            "NewPassword": "",
+            "ConfirmPassword": ""
+        },
+        "displayerPrimaryButton": {
+            "Continue": ""
+        },
+        "displayerSecondaryButton": {
+            "Cancel": ""
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": ""
+        },
+        "Option": {
+            "ResetPassword": ""
+        },
+        "Displayer": {
+            "ResetPassword": "",
+            "CreateANewPasswordToResetIt": ""
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": ""
+        }
     }
 }
