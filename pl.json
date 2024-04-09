@@ -154,5 +154,30 @@
     },
     "snackbar": {
         "settings_saved": "Ustawienia zostały zapisane"
+    },
+    "settingsAuth": {
+        "Displayer": {
+            "CreateANewPasswordToResetIt": "Aby zresetować hasło, stwórz nowe.",
+            "ResetPassword": "Zresetuj hasło"
+        },
+        "displayerSecondaryButton": {
+            "Cancel": "Anuluj"
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "Hasło zostało zresetowane"
+        },
+        "displayerPrimaryButton": {
+            "Continue": "Kontynuuj"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "Tutaj możesz zresetować Twoje hasło."
+        },
+        "Option": {
+            "ResetPassword": "Zresetuj hasło"
+        },
+        "displayerInputField": {
+            "NewPassword": "Nowe hasło",
+            "ConfirmPassword": "Potwierdź hasło"
+        }
     }
 }
