@@ -33,7 +33,7 @@
         "allowedCharacters": "O uso de underline e hífen é permitido."
     },
     "passwordListLabel": {
-        "status": "Status",
+        "status": "Estado",
         "service": "Serviço",
         "label": "Descrição",
         "enabled": "Habilitadas",
