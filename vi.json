@@ -50,12 +50,17 @@
         "scan_qr": "Quét mã QR này thông qua một ứng dụng hỗ trợ.",
         "save_pin": "Chúng tôi khuyến cáo bạn nên in và giữ mã PIN vì chúng có thể được yêu cầu xác thực; mỗi mã PIN chỉ có thể được sử dụng một lần.",
         "printPinCodes": "In mã PIN",
-        "label": "Mật khẩu dùng một lần mới"
+        "label": "Mật khẩu dùng một lần mới",
+        "copy_token": ""
     },
     "label": {
         "save": "Lưu",
         "cancel": "Huỷ",
-        "app_name": "Tác giả"
+        "app_name": "Tác giả",
+        "auth_settings": "",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "instructions": {
         "needInfo": "Bạn có cần thêm thông tin?"
@@ -64,7 +69,9 @@
         "otp": "Bạn có thể quản lý xác thực Mật khẩu dùng một lần tại đây.",
         "mobile": "Bạn có thể quản lý Mật khẩu di động tại đây.",
         "eas": "Bản có thể quản lý mật khẩu Exchange ActiveSync của bạn tại đây.",
-        "changePassword": "Bạn có thể thay đổi Mật khẩu của bạn ở đây."
+        "changePassword": "Bạn có thể thay đổi Mật khẩu của bạn ở đây.",
+        "desktop": "",
+        "recoveryaddress": ""
     },
     "error": {
         "specialChars": "Không được phép sử dụng ký tự đặc biệt.",
@@ -94,7 +101,11 @@
         "createPassword": "Tạo mật khẩu",
         "copyQrCode": "Sao chép mã QR",
         "copyPassword": "Sao chép mật khẩu",
-        "codeCopied": "Đã sao chép mã thành công"
+        "codeCopied": "Đã sao chép mã thành công",
+        "copyToken": "",
+        "createToken": "",
+        "passwordCopied": "",
+        "tokenCopied": ""
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "Số tối thiểu ký tự số là {{num}}.",
@@ -115,7 +126,8 @@
         "mustContain": "Mật khẩu mới phải bao gồm từ 6 đến 20 ký tự:",
         "zimbraPasswordMinPunctuationChars": "Số tối thiểu ký tự đặc biệt là {{num}}.",
         "zimbraPasswordMinUpperCaseChars": "Số tối thiểu ký tự Hoa là {{num}}.",
-        "zimbraPasswordMinLowerCaseChars": "Số tối thiểu ký tự thường là {{num}}."
+        "zimbraPasswordMinLowerCaseChars": "Số tối thiểu ký tự thường là {{num}}.",
+        "zimbraPasswordLocked": ""
     },
     "buttons": {
         "yes": "Có",
@@ -130,10 +142,12 @@
         "success": "Đã bật mật khẩu Ứng dụng di động thành công. Danh sách mật khẩu đã được cập nhập.",
         "new": "Các ứng dụng di động | Xác thực mới",
         "label": "Các Ứng dụng di động",
-        "empty": "Danh sách Ứng dụng di động rỗng."
+        "empty": "Danh sách Ứng dụng di động rỗng.",
+        "descriptionHelp": ""
     },
     "setNewToken": {
-        "authenticationDescription": "Mô tả xác thực"
+        "authenticationDescription": "Mô tả xác thực",
+        "successfully": ""
     },
     "settingsAuth": {
         "displayerPrimaryButton": {
@@ -159,5 +173,36 @@
         "Column": {
             "HereYouCanResetYourPassword": ""
         }
+    },
+    "appDesktop": {
+        "descriptionHelp": "",
+        "empty": "",
+        "label": "",
+        "new": "",
+        "success": "",
+        "title": ""
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "button_continue": "",
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": ""
+    },
+    "snackbar": {
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "settings_saved": "",
+        "validation_code_resent": "",
+        "validation_code_sent": ""
     }
 }
