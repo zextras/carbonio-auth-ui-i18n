@@ -3,23 +3,41 @@
         "status": "Stare",
         "label": "Descriere",
         "enabled": "Activat",
-        "disabled": "Dezactivat"
+        "disabled": "Dezactivat",
+        "service": "",
+        "created": ""
     },
     "options": "Optiuni",
     "label": {
         "save": "Salvați",
-        "cancel": "Anulare"
+        "cancel": "Anulare",
+        "app_name": "",
+        "auth_settings": "",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "common": {
         "enabled": "Activat",
         "disabled": "Dezactivat",
-        "delete": "Ştergere"
+        "delete": "Ştergere",
+        "codeCopied": "",
+        "copyPassword": "",
+        "copyQrCode": "",
+        "copyToken": "",
+        "createPassword": "",
+        "createToken": "",
+        "newAuthentication": "",
+        "passwordCopied": "",
+        "tokenCopied": ""
     },
     "buttons": {
         "yes": "Da",
         "done": "Realizat",
         "close": "Inchide",
-        "cancel": "Anulare"
+        "cancel": "Anulare",
+        "next": "",
+        "click": ""
     },
     "settingsAuth": {
         "Displayer": {
@@ -44,6 +62,147 @@
         },
         "Option": {
             "ResetPassword": ""
+        }
+    },
+    "appMobile": {
+        "descriptionHelp": "",
+        "empty": "",
+        "label": "",
+        "success": "",
+        "title": "",
+        "new": ""
+    },
+    "setNewOtpLabel": {
+        "inputLabel": "",
+        "allowedCharacters": "",
+        "empty": "",
+        "labelPurpose": "",
+        "maxLength": "",
+        "new": "",
+        "prohibitedCharacters": "",
+        "success": "",
+        "title": ""
+    },
+    "setNewPassword": {
+        "authenticationDescription": "",
+        "warningJustOnce": "",
+        "EASPasswordCopied": "",
+        "successfully": "",
+        "textDescription": ""
+    },
+    "changePassword": {
+        "digitSpecial": "",
+        "incorrectPassword": "",
+        "zimbraPasswordMinPunctuationChars": "",
+        "confirmNew": "",
+        "formatNotValid": "",
+        "instruction": "",
+        "lowerUpper": "",
+        "mustContain": "",
+        "mustMatch": "",
+        "oldPassword": "",
+        "passwordChanged": "",
+        "recentlyUsedPassword": "",
+        "sameOldPassword": "",
+        "title": "",
+        "zimbraPasswordLocked": "",
+        "zimbraPasswordMaxLength": "",
+        "zimbraPasswordMinLength": "",
+        "zimbraPasswordMinLowerCaseChars": "",
+        "zimbraPasswordMinNumericChars": "",
+        "zimbraPasswordMinUpperCaseChars": ""
+    },
+    "deletePassword": {
+        "title": ""
+    },
+    "easAuth": {
+        "label": "",
+        "new": "",
+        "empty": "",
+        "helpRemember": "",
+        "success": ""
+    },
+    "error": {
+        "alreadyInUse": "",
+        "maximumLength": "",
+        "minimumLength": "",
+        "somethingWrong": "",
+        "specialChars": ""
+    },
+    "instruction": {
+        "eas": "",
+        "mobile": "",
+        "otp": "",
+        "recoveryaddress": "",
+        "changePassword": "",
+        "desktop": ""
+    },
+    "newOtp": {
+        "label": "",
+        "printPinCodes": "",
+        "copy_token": "",
+        "save_pin": "",
+        "scan_qr": "",
+        "warning": ""
+    },
+    "newPassword": "",
+    "appDesktop": {
+        "descriptionHelp": "",
+        "empty": "",
+        "label": "",
+        "new": "",
+        "success": "",
+        "title": ""
+    },
+    "button": {
+        "resend_code": "",
+        "remove": "",
+        "set_recovery_address": ""
+    },
+    "instructions": {
+        "needInfo": ""
+    },
+    "button_continue": "",
+    "deleteOtp": {
+        "description": ""
+    },
+    "otpListLabel": {
+        "failed_attempts": ""
+    },
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": ""
+    },
+    "setNewQRCode": {
+        "successfully": ""
+    },
+    "setNewToken": {
+        "authenticationDescription": "",
+        "successfully": ""
+    },
+    "snackbar": {
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "settings_saved": "",
+        "validation_code_resent": "",
+        "validation_code_sent": ""
+    },
+    "staticOTPCodes": {
+        "print": {
+            "eraseUsedPin": "",
+            "howToUse": "",
+            "keepInSafePlace": "",
+            "login": "",
+            "title": "",
+            "typePin": "",
+            "useOnce": "",
+            "whenToUse": ""
         }
     }
 }
