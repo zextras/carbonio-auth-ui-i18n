@@ -57,7 +57,10 @@
         "save": "保存する",
         "cancel": "キャンセル",
         "app_name": "認証",
-        "auth_settings": "認証設定"
+        "auth_settings": "認証設定",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "instructions": {
         "needInfo": "さらに情報が必要ですか？"
@@ -67,7 +70,8 @@
         "mobile": "ここで、モバイルアプリのパスワードを管理できます。",
         "eas": "ここで、Exchange ActiveSyncパスワードを管理できます。",
         "changePassword": "ここでパスワードを変更できます。",
-        "desktop": "ここでデスクトップアプリのパスワードを管理できます。"
+        "desktop": "ここでデスクトップアプリのパスワードを管理できます。",
+        "recoveryaddress": ""
     },
     "error": {
         "specialChars": "特殊文字は使用できません。",
@@ -100,7 +104,8 @@
         "codeCopied": "コードが正常にコピーされました",
         "copyToken": "トークンをコピーする",
         "createToken": "トークンを作成する",
-        "tokenCopied": "トークンがコピーされました"
+        "tokenCopied": "トークンがコピーされました",
+        "passwordCopied": ""
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "数字は最低{{num}}個なければなりません。",
@@ -141,7 +146,12 @@
         "descriptionHelp": "説明は、このMobile Apps認証が使用されている場所を思い出すのに役立ちます。"
     },
     "snackbar": {
-        "settings_saved": "設定が保存されました"
+        "settings_saved": "設定が保存されました",
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "validation_code_resent": "",
+        "validation_code_sent": ""
     },
     "setNewToken": {
         "authenticationDescription": "認証の説明",
@@ -179,5 +189,20 @@
         "Option": {
             "ResetPassword": ""
         }
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "button_continue": "",
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": ""
     }
 }
