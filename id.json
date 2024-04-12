@@ -4,7 +4,8 @@
         "otp": "Di sini Anda bisa mengelola Autentikasi OTP.",
         "mobile": "Di sini Anda bisa mengelola kata sandi Aplikasi Seluler.",
         "eas": "Di sini Anda bisa mengelola kata sandi Exchange ActiveSync.",
-        "desktop": "Di sini Anda dapat mengelola kata sandi Aplikasi Desktop."
+        "desktop": "Di sini Anda dapat mengelola kata sandi Aplikasi Desktop.",
+        "recoveryaddress": ""
     },
     "error": {
         "specialChars": "Karakter khusus tidak diizinkan.",
@@ -37,7 +38,8 @@
         "codeCopied": "Kode berhasil disalin",
         "copyToken": "salin Token",
         "createToken": "Buat token",
-        "tokenCopied": "Token berhasil disalin"
+        "tokenCopied": "Token berhasil disalin",
+        "passwordCopied": ""
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "Jumlah karakter angka minimum adalah {{num}}.",
@@ -135,13 +137,21 @@
         "save": "Simpan",
         "cancel": "Batal",
         "app_name": "Autentikasi",
-        "auth_settings": "Pengaturan Autentikasi"
+        "auth_settings": "Pengaturan Autentikasi",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "instructions": {
         "needInfo": "Anda membutuhkan informasi lainnya?"
     },
     "snackbar": {
-        "settings_saved": "Pengaturan berhasil disimpan"
+        "settings_saved": "Pengaturan berhasil disimpan",
+        "error": "",
+        "validation_code_sent": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "validation_code_resent": ""
     },
     "setNewToken": {
         "authenticationDescription": "Deskripsi autentikasi",
@@ -179,5 +189,20 @@
         "Snackbar": {
             "PasswordSuccessfullyReset": ""
         }
-    }
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": ""
+    },
+    "button_continue": ""
 }
