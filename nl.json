@@ -57,7 +57,10 @@
         "save": "Opslaan",
         "cancel": "Abbrechen",
         "app_name": "Auth",
-        "auth_settings": "Auth Instellingen"
+        "auth_settings": "Auth Instellingen",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "instructions": {
         "needInfo": "Heeft u meer informatie nodig?"
@@ -67,7 +70,8 @@
         "mobile": "Hier kunt u het wachtwoord van de mobiele app beheren.",
         "eas": "Hier kunt u uw Exchange ActiveSync wachtwoord beheren.",
         "changePassword": "Hier kunt u uw wachtwoord wijzigen.",
-        "desktop": "Hier kunt u het wachtwoord van de Desktop App beheren."
+        "desktop": "Hier kunt u het wachtwoord van de Desktop App beheren.",
+        "recoveryaddress": ""
     },
     "error": {
         "specialChars": "Speciale tekens zijn niet toegestaan.",
@@ -100,7 +104,8 @@
         "codeCopied": "Code met succes gekopieerd",
         "copyToken": "kopieer Token",
         "createToken": "Creëer een token",
-        "tokenCopied": "Token met succes gekopieerd"
+        "tokenCopied": "Token met succes gekopieerd",
+        "passwordCopied": ""
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "Het minimumaantal numerieke tekens is {{num}}.",
@@ -141,7 +146,12 @@
         "descriptionHelp": "Beschrijving helpt u herinneren waar deze Mobile Apps Authenticatie wordt gebruikt."
     },
     "snackbar": {
-        "settings_saved": "Instellingen net succes opgeslagen"
+        "settings_saved": "Instellingen net succes opgeslagen",
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "validation_code_resent": "",
+        "validation_code_sent": ""
     },
     "setNewToken": {
         "authenticationDescription": "Authenticatiebeschrijving",
@@ -179,5 +189,20 @@
         "Option": {
             "ResetPassword": ""
         }
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "button_continue": "",
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": ""
     }
 }
