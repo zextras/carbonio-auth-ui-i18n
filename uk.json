@@ -34,7 +34,8 @@
         "createPassword": "Створити пароль",
         "createToken": "Створіть токен",
         "newAuthentication": "Нова автентифікація",
-        "tokenCopied": "Токен успішно скопійовано"
+        "tokenCopied": "Токен успішно скопійовано",
+        "passwordCopied": ""
     },
     "passwordListLabel": {
         "disabled": "Вимкнено",
@@ -48,7 +49,10 @@
         "cancel": "Скасувати",
         "app_name": "Авторизація",
         "auth_settings": "Налаштування авторизації",
-        "save": "Зберегти"
+        "save": "Зберегти",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "changePassword": {
         "confirmNew": "Підтвердити новий пароль",
@@ -94,7 +98,8 @@
         "mobile": "Тут ви можете керувати паролем мобільного додатку.",
         "otp": "Тут ви можете керувати OTP-аутентифікацією.",
         "changePassword": "Тут ви можете змінити свій пароль.",
-        "eas": "Тут ви можете керувати своїм паролем Exchange ActiveSync."
+        "eas": "Тут ви можете керувати своїм паролем Exchange ActiveSync.",
+        "recoveryaddress": ""
     },
     "newOtp": {
         "label": "Новий OTP",
@@ -147,7 +152,12 @@
         }
     },
     "snackbar": {
-        "settings_saved": "Налаштування успішно збережено"
+        "settings_saved": "Налаштування успішно збережено",
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "validation_code_resent": "",
+        "validation_code_sent": ""
     },
     "deleteOtp": {
         "description": "Всі пристрої, які використовують цей пароль, буде відключено, і вони не зможуть пройти автентифікацію, доки ви не надасте новий набір облікових даних."
@@ -179,5 +189,20 @@
         "Snackbar": {
             "PasswordSuccessfullyReset": ""
         }
-    }
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "title": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "validation_code": ""
+    },
+    "button_continue": ""
 }
