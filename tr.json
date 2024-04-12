@@ -57,7 +57,10 @@
         "save": "Kaydet",
         "cancel": "İptal",
         "app_name": "Kimlik Doğrulaması",
-        "auth_settings": "Auth Ayarları"
+        "auth_settings": "Auth Ayarları",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "instructions": {
         "needInfo": "Daha fazla bilgi ister misiniz?"
@@ -67,7 +70,8 @@
         "mobile": "Mobile App parolanızı buradan yönetebilirsiniz.",
         "eas": "Exchange ActiveSync parolanızı buradan yönetebilirsiniz.",
         "changePassword": "Parolanızı buradan değiştirebilirsiniz.",
-        "desktop": "Masaüstü Uygulama parolanızı buradan yönetebilirsiniz."
+        "desktop": "Masaüstü Uygulama parolanızı buradan yönetebilirsiniz.",
+        "recoveryaddress": ""
     },
     "error": {
         "specialChars": "Özel karakterler kullanılamaz.",
@@ -100,7 +104,8 @@
         "codeCopied": "Kod başarıyla kopyalandı",
         "copyToken": "Token kopyala",
         "createToken": "Token oluştur",
-        "tokenCopied": "Token başarıyla kopyalandı"
+        "tokenCopied": "Token başarıyla kopyalandı",
+        "passwordCopied": ""
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "Nümerik karakter sayısı en az {{num}} olmalıdır.",
@@ -141,7 +146,12 @@
         "descriptionHelp": "Tanım, Mobil Uygulamalar Kimlik Doğrulamasının nerede kullanıldığını hatırlamanıza yardımcı olur."
     },
     "snackbar": {
-        "settings_saved": "Ayarlar başarıyla kaydedildi"
+        "settings_saved": "Ayarlar başarıyla kaydedildi",
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "validation_code_resent": "",
+        "validation_code_sent": ""
     },
     "setNewToken": {
         "authenticationDescription": "Kimlik doğrulama açıklaması",
@@ -179,5 +189,20 @@
         "displayerSecondaryButton": {
             "Cancel": ""
         }
-    }
+    },
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": ""
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "button_continue": ""
 }
