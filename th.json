@@ -57,7 +57,10 @@
         "save": "บันทึก",
         "cancel": "ยกเลิก",
         "app_name": "ตรวจสอบ",
-        "auth_settings": "การตั้งค่าการรับรองความถูกต้อง"
+        "auth_settings": "การตั้งค่าการรับรองความถูกต้อง",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "instructions": {
         "needInfo": "คุณต้องการข้อมูลเพิ่มเติมหรือไม่?"
@@ -67,7 +70,8 @@
         "mobile": "คุณสามารถจัดการรหัสผ่าน Mobile App ได้ที่นี่",
         "eas": "คุณสามารถจัดการรหัสผ่าน Exchange ActiveSync ได้ที่นี่",
         "changePassword": "คุณสามารถเปลี่ยนรหัสผ่านได้ที่นี่",
-        "desktop": "คุณสามารถจัดการรหัสผ่านแอปเดสก์ท็อปได้ที่นี่"
+        "desktop": "คุณสามารถจัดการรหัสผ่านแอปเดสก์ท็อปได้ที่นี่",
+        "recoveryaddress": ""
     },
     "error": {
         "specialChars": "ไม่อนุญาตให้ใช้อักขระพิเศษ",
@@ -100,7 +104,8 @@
         "codeCopied": "คัดลอกรหัสสำเร็จแล้ว",
         "createToken": "สร้างโทเค็น",
         "tokenCopied": "คัดลอกโทเค็นสำเร็จแล้ว",
-        "copyToken": "คัดลอกโทเค็น"
+        "copyToken": "คัดลอกโทเค็น",
+        "passwordCopied": ""
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "จำนวนตัวเลขขั้นต่ำคือ {{num}}",
@@ -141,7 +146,12 @@
         "descriptionHelp": "คำอธิบายจะช่วยให้คุณจำได้ว่าใช้ Mobile Apps Authentication ถูกใช้งานที่ใด."
     },
     "snackbar": {
-        "settings_saved": "บันทึกการตั้งค่าเรียบร้อยแล้ว"
+        "settings_saved": "บันทึกการตั้งค่าเรียบร้อยแล้ว",
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "validation_code_resent": "",
+        "validation_code_sent": ""
     },
     "setNewToken": {
         "authenticationDescription": "คำอธิบายการรับรองความถูกต้อง",
@@ -179,5 +189,20 @@
         "displayerSecondaryButton": {
             "Cancel": ""
         }
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "button_continue": "",
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": ""
     }
 }
