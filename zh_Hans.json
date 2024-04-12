@@ -57,7 +57,10 @@
         "save": "保存",
         "cancel": "取消",
         "app_name": "认证",
-        "auth_settings": "认证设置"
+        "auth_settings": "认证设置",
+        "enter_code": "",
+        "enter_recovery_address": "",
+        "invalid_code": ""
     },
     "instructions": {
         "needInfo": "是否需要更多信息？"
@@ -67,7 +70,8 @@
         "mobile": "您可在此处管理自己的Mobile App密码。",
         "eas": "您可在此处管理自己的Exchange ActiveSync密码。",
         "changePassword": "您可在这里更改密码。",
-        "desktop": "您可在此处管理桌面端应用密码。"
+        "desktop": "您可在此处管理桌面端应用密码。",
+        "recoveryaddress": ""
     },
     "error": {
         "specialChars": "不允许使用特殊字符。",
@@ -100,7 +104,8 @@
         "codeCopied": "代码复制成功",
         "copyToken": "复制Token",
         "createToken": "创建Token",
-        "tokenCopied": "Token已复制成功"
+        "tokenCopied": "Token已复制成功",
+        "passwordCopied": ""
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "最少数字字符数为 {{num}}。",
@@ -141,7 +146,12 @@
         "descriptionHelp": "描述将帮助您记住使用此Mobile Apps认证的位置。"
     },
     "snackbar": {
-        "settings_saved": "设置保存成功"
+        "settings_saved": "设置保存成功",
+        "error": "",
+        "reset_recovery_address": "",
+        "set_recovery_address": "",
+        "validation_code_resent": "",
+        "validation_code_sent": ""
     },
     "setNewToken": {
         "authenticationDescription": "认证描述",
@@ -154,5 +164,20 @@
         "new": "桌面端应用 | 新身份验证",
         "success": "新桌面端应用密码已启用成功。密码列表已更新。",
         "title": "桌面端应用"
+    },
+    "button": {
+        "remove": "",
+        "resend_code": "",
+        "set_recovery_address": ""
+    },
+    "button_continue": "",
+    "recoveryAddress": {
+        "body_row1": "",
+        "body_row2": "",
+        "body_row3": "",
+        "body_row4": "",
+        "status_verified_message": "",
+        "title": "",
+        "validation_code": ""
     }
 }
