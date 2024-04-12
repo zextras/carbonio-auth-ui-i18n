@@ -56,8 +56,7 @@
         "newAuthentication": "Nowe uwierzytelnienie",
         "copyToken": "skopiuj token",
         "createToken": "Stwórz token",
-        "tokenCopied": "Token został skopiowany",
-        "passwordCopied": ""
+        "tokenCopied": "Token został skopiowany"
     },
     "deleteOtp": {
         "description": "Wszystkie urządzenia, które używają tego hasła zostaną rozłączone i nie będzie można ich uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
@@ -84,8 +83,7 @@
         "eas": "Tutaj możesz zarządzać swoim hasłem Exchange ActiveSync.",
         "mobile": "Tutaj możesz zarządzać hasłem aplikacji mobilnej.",
         "otp": "Tutaj możesz zarządzać uwierzytelnianiem OTP.",
-        "desktop": "Tutaj możesz zarządzać hasłem aplikacji komputerowej.",
-        "recoveryaddress": ""
+        "desktop": "Tutaj możesz zarządzać hasłem aplikacji komputerowej."
     },
     "instructions": {
         "needInfo": "Potrzebujesz więcej informacji?"
@@ -94,10 +92,7 @@
         "app_name": "Uwierzytelnianie",
         "cancel": "Anuluj",
         "save": "Zapisz",
-        "auth_settings": "Ustawienia uwierzytelniania",
-        "enter_code": "",
-        "enter_recovery_address": "",
-        "invalid_code": ""
+        "auth_settings": "Ustawienia uwierzytelniania"
     },
     "newPassword": "Nowe hasło",
     "options": "Opcje",
@@ -158,12 +153,7 @@
         "title": "Aplikacje komputerowe"
     },
     "snackbar": {
-        "settings_saved": "Ustawienia zostały zapisane",
-        "error": "",
-        "set_recovery_address": "",
-        "validation_code_resent": "",
-        "validation_code_sent": "",
-        "reset_recovery_address": ""
+        "settings_saved": "Ustawienia zostały zapisane"
     },
     "settingsAuth": {
         "Displayer": {
@@ -189,20 +179,5 @@
             "NewPassword": "Nowe hasło",
             "ConfirmPassword": "Potwierdź hasło"
         }
-    },
-    "button_continue": "",
-    "recoveryAddress": {
-        "title": "",
-        "validation_code": "",
-        "body_row1": "",
-        "body_row2": "",
-        "body_row3": "",
-        "body_row4": "",
-        "status_verified_message": ""
-    },
-    "button": {
-        "remove": "",
-        "resend_code": "",
-        "set_recovery_address": ""
     }
 }

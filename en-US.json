@@ -2,207 +2,21 @@
     "buttons": {
         "cancel": "Cancel",
         "close": "Close",
-        "yes": "Yes",
-        "click": "",
-        "done": "",
-        "next": ""
+        "yes": "Yes"
     },
     "common": {
         "delete": "Delete",
         "disabled": "Disabled",
-        "enabled": "Enabled",
-        "copyToken": "",
-        "createPassword": "",
-        "createToken": "",
-        "newAuthentication": "",
-        "passwordCopied": "",
-        "codeCopied": "",
-        "copyPassword": "",
-        "copyQrCode": "",
-        "tokenCopied": ""
+        "enabled": "Enabled"
     },
     "label": {
         "cancel": "Cancel",
-        "save": "Save",
-        "enter_code": "",
-        "app_name": "",
-        "enter_recovery_address": "",
-        "invalid_code": "",
-        "auth_settings": ""
+        "save": "Save"
     },
     "passwordListLabel": {
         "disabled": "Disabled",
         "enabled": "Enabled",
         "label": "Description",
-        "status": "Status",
-        "created": "",
-        "service": ""
-    },
-    "settingsAuth": {
-        "Displayer": {
-            "ResetPassword": "",
-            "CreateANewPasswordToResetIt": ""
-        },
-        "Column": {
-            "HereYouCanResetYourPassword": ""
-        },
-        "Snackbar": {
-            "PasswordSuccessfullyReset": ""
-        },
-        "Option": {
-            "ResetPassword": ""
-        },
-        "displayerInputField": {
-            "NewPassword": "",
-            "ConfirmPassword": ""
-        },
-        "displayerSecondaryButton": {
-            "Cancel": ""
-        },
-        "displayerPrimaryButton": {
-            "Continue": ""
-        }
-    },
-    "changePassword": {
-        "oldPassword": "",
-        "passwordChanged": "",
-        "recentlyUsedPassword": "",
-        "sameOldPassword": "",
-        "confirmNew": "",
-        "digitSpecial": "",
-        "incorrectPassword": "",
-        "instruction": "",
-        "mustMatch": "",
-        "zimbraPasswordMinLowerCaseChars": "",
-        "zimbraPasswordMinNumericChars": "",
-        "formatNotValid": "",
-        "lowerUpper": "",
-        "mustContain": "",
-        "title": "",
-        "zimbraPasswordLocked": "",
-        "zimbraPasswordMaxLength": "",
-        "zimbraPasswordMinLength": "",
-        "zimbraPasswordMinPunctuationChars": "",
-        "zimbraPasswordMinUpperCaseChars": ""
-    },
-    "easAuth": {
-        "label": "",
-        "empty": "",
-        "helpRemember": "",
-        "new": "",
-        "success": ""
-    },
-    "appDesktop": {
-        "descriptionHelp": "",
-        "empty": "",
-        "label": "",
-        "new": "",
-        "success": "",
-        "title": ""
-    },
-    "instruction": {
-        "changePassword": "",
-        "desktop": "",
-        "mobile": "",
-        "otp": "",
-        "eas": "",
-        "recoveryaddress": ""
-    },
-    "newOtp": {
-        "scan_qr": "",
-        "copy_token": "",
-        "label": "",
-        "printPinCodes": "",
-        "save_pin": "",
-        "warning": ""
-    },
-    "instructions": {
-        "needInfo": ""
-    },
-    "otpListLabel": {
-        "failed_attempts": ""
-    },
-    "setNewOtpLabel": {
-        "allowedCharacters": "",
-        "empty": "",
-        "inputLabel": "",
-        "labelPurpose": "",
-        "maxLength": "",
-        "new": "",
-        "prohibitedCharacters": "",
-        "success": "",
-        "title": ""
-    },
-    "setNewPassword": {
-        "successfully": "",
-        "textDescription": "",
-        "warningJustOnce": "",
-        "EASPasswordCopied": "",
-        "authenticationDescription": ""
-    },
-    "setNewQRCode": {
-        "successfully": ""
-    },
-    "setNewToken": {
-        "authenticationDescription": "",
-        "successfully": ""
-    },
-    "staticOTPCodes": {
-        "print": {
-            "eraseUsedPin": "",
-            "login": "",
-            "title": "",
-            "typePin": "",
-            "useOnce": "",
-            "howToUse": "",
-            "keepInSafePlace": "",
-            "whenToUse": ""
-        }
-    },
-    "snackbar": {
-        "error": "",
-        "settings_saved": "",
-        "validation_code_resent": "",
-        "validation_code_sent": "",
-        "reset_recovery_address": "",
-        "set_recovery_address": ""
-    },
-    "button": {
-        "remove": "",
-        "resend_code": "",
-        "set_recovery_address": ""
-    },
-    "button_continue": "",
-    "deleteOtp": {
-        "description": ""
-    },
-    "deletePassword": {
-        "title": ""
-    },
-    "error": {
-        "alreadyInUse": "",
-        "maximumLength": "",
-        "minimumLength": "",
-        "somethingWrong": "",
-        "specialChars": ""
-    },
-    "appMobile": {
-        "descriptionHelp": "",
-        "empty": "",
-        "label": "",
-        "new": "",
-        "success": "",
-        "title": ""
-    },
-    "newPassword": "",
-    "options": "",
-    "recoveryAddress": {
-        "body_row1": "",
-        "body_row2": "",
-        "body_row3": "",
-        "body_row4": "",
-        "status_verified_message": "",
-        "title": "",
-        "validation_code": ""
+        "status": "Status"
     }
 }

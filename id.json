@@ -4,8 +4,7 @@
         "otp": "Di sini Anda bisa mengelola Autentikasi OTP.",
         "mobile": "Di sini Anda bisa mengelola kata sandi Aplikasi Seluler.",
         "eas": "Di sini Anda bisa mengelola kata sandi Exchange ActiveSync.",
-        "desktop": "Di sini Anda dapat mengelola kata sandi Aplikasi Desktop.",
-        "recoveryaddress": ""
+        "desktop": "Di sini Anda dapat mengelola kata sandi Aplikasi Desktop."
     },
     "error": {
         "specialChars": "Karakter khusus tidak diizinkan.",
@@ -38,8 +37,7 @@
         "codeCopied": "Kode berhasil disalin",
         "copyToken": "salin Token",
         "createToken": "Buat token",
-        "tokenCopied": "Token berhasil disalin",
-        "passwordCopied": ""
+        "tokenCopied": "Token berhasil disalin"
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "Jumlah karakter angka minimum adalah {{num}}.",
@@ -137,21 +135,13 @@
         "save": "Simpan",
         "cancel": "Batal",
         "app_name": "Autentikasi",
-        "auth_settings": "Pengaturan Autentikasi",
-        "enter_code": "",
-        "enter_recovery_address": "",
-        "invalid_code": ""
+        "auth_settings": "Pengaturan Autentikasi"
     },
     "instructions": {
         "needInfo": "Anda membutuhkan informasi lainnya?"
     },
     "snackbar": {
-        "settings_saved": "Pengaturan berhasil disimpan",
-        "error": "",
-        "validation_code_sent": "",
-        "reset_recovery_address": "",
-        "set_recovery_address": "",
-        "validation_code_resent": ""
+        "settings_saved": "Pengaturan berhasil disimpan"
     },
     "setNewToken": {
         "authenticationDescription": "Deskripsi autentikasi",
@@ -164,45 +154,5 @@
         "title": "Aplikasi Desktop",
         "descriptionHelp": "Deskripsi akan membantu Anda mengingat di mana Autentikasi Aplikasi Desktop digunakan.",
         "success": "Kata sandi Aplikasi Desktop baru berhasil diaktifkan. Daftar kata sandi telah diperbarui."
-    },
-    "settingsAuth": {
-        "Option": {
-            "ResetPassword": ""
-        },
-        "displayerInputField": {
-            "ConfirmPassword": "",
-            "NewPassword": ""
-        },
-        "displayerSecondaryButton": {
-            "Cancel": ""
-        },
-        "Displayer": {
-            "ResetPassword": "",
-            "CreateANewPasswordToResetIt": ""
-        },
-        "Column": {
-            "HereYouCanResetYourPassword": ""
-        },
-        "displayerPrimaryButton": {
-            "Continue": ""
-        },
-        "Snackbar": {
-            "PasswordSuccessfullyReset": ""
-        }
-    },
-    "button": {
-        "remove": "",
-        "resend_code": "",
-        "set_recovery_address": ""
-    },
-    "recoveryAddress": {
-        "body_row1": "",
-        "body_row2": "",
-        "body_row3": "",
-        "body_row4": "",
-        "status_verified_message": "",
-        "title": "",
-        "validation_code": ""
-    },
-    "button_continue": ""
+    }
 }

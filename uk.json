@@ -34,8 +34,7 @@
         "createPassword": "Створити пароль",
         "createToken": "Створіть токен",
         "newAuthentication": "Нова автентифікація",
-        "tokenCopied": "Токен успішно скопійовано",
-        "passwordCopied": ""
+        "tokenCopied": "Токен успішно скопійовано"
     },
     "passwordListLabel": {
         "disabled": "Вимкнено",
@@ -49,10 +48,7 @@
         "cancel": "Скасувати",
         "app_name": "Авторизація",
         "auth_settings": "Налаштування авторизації",
-        "save": "Зберегти",
-        "enter_code": "",
-        "enter_recovery_address": "",
-        "invalid_code": ""
+        "save": "Зберегти"
     },
     "changePassword": {
         "confirmNew": "Підтвердити новий пароль",
@@ -98,8 +94,7 @@
         "mobile": "Тут ви можете керувати паролем мобільного додатку.",
         "otp": "Тут ви можете керувати OTP-аутентифікацією.",
         "changePassword": "Тут ви можете змінити свій пароль.",
-        "eas": "Тут ви можете керувати своїм паролем Exchange ActiveSync.",
-        "recoveryaddress": ""
+        "eas": "Тут ви можете керувати своїм паролем Exchange ActiveSync."
     },
     "newOtp": {
         "label": "Новий OTP",
@@ -152,57 +147,12 @@
         }
     },
     "snackbar": {
-        "settings_saved": "Налаштування успішно збережено",
-        "error": "",
-        "reset_recovery_address": "",
-        "set_recovery_address": "",
-        "validation_code_resent": "",
-        "validation_code_sent": ""
+        "settings_saved": "Налаштування успішно збережено"
     },
     "deleteOtp": {
         "description": "Всі пристрої, які використовують цей пароль, буде відключено, і вони не зможуть пройти автентифікацію, доки ви не надасте новий набір облікових даних."
     },
     "instructions": {
         "needInfo": "Вам потрібна додаткова інформація?"
-    },
-    "settingsAuth": {
-        "Option": {
-            "ResetPassword": ""
-        },
-        "Displayer": {
-            "ResetPassword": "",
-            "CreateANewPasswordToResetIt": ""
-        },
-        "Column": {
-            "HereYouCanResetYourPassword": ""
-        },
-        "displayerInputField": {
-            "NewPassword": "",
-            "ConfirmPassword": ""
-        },
-        "displayerPrimaryButton": {
-            "Continue": ""
-        },
-        "displayerSecondaryButton": {
-            "Cancel": ""
-        },
-        "Snackbar": {
-            "PasswordSuccessfullyReset": ""
-        }
-    },
-    "button": {
-        "remove": "",
-        "resend_code": "",
-        "set_recovery_address": ""
-    },
-    "recoveryAddress": {
-        "body_row1": "",
-        "body_row2": "",
-        "title": "",
-        "body_row3": "",
-        "body_row4": "",
-        "status_verified_message": "",
-        "validation_code": ""
-    },
-    "button_continue": ""
+    }
 }

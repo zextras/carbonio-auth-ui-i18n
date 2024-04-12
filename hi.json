@@ -57,10 +57,7 @@
         "save": "सेव करें",
         "cancel": "कैंसल करें",
         "app_name": "ऑथ",
-        "auth_settings": "ऑथ सेटिंग्स",
-        "enter_code": "",
-        "enter_recovery_address": "",
-        "invalid_code": ""
+        "auth_settings": "ऑथ सेटिंग्स"
     },
     "instructions": {
         "needInfo": "क्या आपको और जानकारी चाहिए?"
@@ -70,8 +67,7 @@
         "mobile": "यहाँ आप मोबाइल एप पासवर्ड मैनेज कर सकते हैं।",
         "eas": "यहाँ आप अपना Exchange ActiveSync पासवर्ड इस्तेमाल कर सकते हैं।",
         "changePassword": "यहाँ आप अपना पासवर्ड बदल सकते हैं।",
-        "desktop": "यहां आप डेस्कटॉप एप पासवर्ड मैनेज कर सकते हैं।",
-        "recoveryaddress": ""
+        "desktop": "यहां आप डेस्कटॉप एप पासवर्ड मैनेज कर सकते हैं।"
     },
     "error": {
         "specialChars": "स्पेशल कैरक्टर की अनुमति नहीं है।",
@@ -104,8 +100,7 @@
         "codeCopied": "कोड कॉपी हो गया",
         "copyToken": "टोकन कॉपी करें",
         "createToken": "टोकन बनाएँ",
-        "tokenCopied": "टोकन कॉपी हो गया",
-        "passwordCopied": ""
+        "tokenCopied": "टोकन कॉपी हो गया"
     },
     "changePassword": {
         "zimbraPasswordMinNumericChars": "कम से कम {{num}} न्यूमेरिक केस कैरक्टर होने चाहिए।",
@@ -146,12 +141,7 @@
         "descriptionHelp": "विवरण से आपको यह याद रखने में मदद मिलेग कि यह Mobile Apps ऑथेंटिकेशन कहाँ इस्तेमाल हो रहा है।"
     },
     "snackbar": {
-        "settings_saved": "सेटिंग्स सेव हो गईं",
-        "error": "",
-        "validation_code_resent": "",
-        "validation_code_sent": "",
-        "reset_recovery_address": "",
-        "set_recovery_address": ""
+        "settings_saved": "सेटिंग्स सेव हो गईं"
     },
     "setNewToken": {
         "authenticationDescription": "ऑथेंटिकेशन विवरण",
@@ -164,45 +154,5 @@
         "new": "डेस्कटॉप ऐप्स | नया ऑथेंटिकेशन",
         "title": "डेस्कटॉप ऐप्स",
         "success": "नया डेस्कटॉप एप पासवर्ड चालू किया गया। पासवर्ड लिस्ट अपडेट हो गई है।"
-    },
-    "settingsAuth": {
-        "Option": {
-            "ResetPassword": ""
-        },
-        "Displayer": {
-            "ResetPassword": "",
-            "CreateANewPasswordToResetIt": ""
-        },
-        "displayerPrimaryButton": {
-            "Continue": ""
-        },
-        "Column": {
-            "HereYouCanResetYourPassword": ""
-        },
-        "displayerSecondaryButton": {
-            "Cancel": ""
-        },
-        "Snackbar": {
-            "PasswordSuccessfullyReset": ""
-        },
-        "displayerInputField": {
-            "NewPassword": "",
-            "ConfirmPassword": ""
-        }
-    },
-    "button": {
-        "remove": "",
-        "resend_code": "",
-        "set_recovery_address": ""
-    },
-    "button_continue": "",
-    "recoveryAddress": {
-        "body_row1": "",
-        "body_row2": "",
-        "body_row3": "",
-        "body_row4": "",
-        "status_verified_message": "",
-        "title": "",
-        "validation_code": ""
     }
 }
