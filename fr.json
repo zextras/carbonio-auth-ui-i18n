@@ -176,7 +176,7 @@
             "CreateANewPasswordToResetIt": "Définissez un nouveau mot de passe pour le réinitialiser."
         },
         "displayerPrimaryButton": {
-            "Continue": "Continuer"
+            "Continue": "Confirmer"
         },
         "Snackbar": {
             "PasswordSuccessfullyReset": "Le mot de passe a été réinitialisé avec succès"
