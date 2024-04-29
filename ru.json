@@ -182,7 +182,7 @@
             "PasswordSuccessfullyReset": "Пароль успешно сброшен"
         },
         "displayerPrimaryButton": {
-            "Continue": "Продолжить"
+            "Continue": "Подтвердить"
         },
         "Column": {
             "HereYouCanResetYourPassword": "Здесь вы можете сбросить пароль."
