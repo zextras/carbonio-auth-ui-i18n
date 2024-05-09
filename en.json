@@ -203,6 +203,9 @@
         },
         "Snackbar": {
             "PasswordSuccessfullyReset": "Password successfully reset"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "Password does not match"
         }
     }
 }
