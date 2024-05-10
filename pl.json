@@ -186,6 +186,9 @@
         "displayerInputField": {
             "NewPassword": "Nowe hasło",
             "ConfirmPassword": "Potwierdź hasło"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "Hasło się nie zgadza"
         }
     },
     "recoveryAddress": {
