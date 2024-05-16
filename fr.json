@@ -186,6 +186,9 @@
         },
         "Column": {
             "HereYouCanResetYourPassword": "Vous pouvez réinitialiser votre mot de passe ici."
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "Les mots de passe ne correspondent pas"
         }
     },
     "recoveryAddress": {
