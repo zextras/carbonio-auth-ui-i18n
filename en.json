@@ -183,7 +183,8 @@
     "settingsAuth": {
         "Displayer": {
             "ResetPassword": "Reset Password",
-            "CreateANewPasswordToResetIt": "Create a new password to reset it."
+            "CreateANewPasswordToResetIt": "Create a new password to reset it.",
+            "WarningSessionRefresh": "Clicking \"Confirm\" will invalidate the current session requiring a new login. Make sure to complete every other work before starting this procedure."
         },
         "Option": {
             "ResetPassword": "Reset Password"
