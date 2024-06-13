@@ -166,7 +166,8 @@
     "settingsAuth": {
         "Displayer": {
             "CreateANewPasswordToResetIt": "Aby zresetować hasło, stwórz nowe.",
-            "ResetPassword": "Zresetuj hasło"
+            "ResetPassword": "Zresetuj hasło",
+            "WarningSessionRefresh": "Kliknięcie \"Potwierdź\" zakończy bieżącą sesję i będzie wymagało ponownego zalogowania. Upewnij się, że nie masz niedokończonej pracy kiedy rozpoczniesz tę procedurę."
         },
         "displayerSecondaryButton": {
             "Cancel": "Anuluj"
