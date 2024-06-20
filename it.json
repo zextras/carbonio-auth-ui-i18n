@@ -57,7 +57,10 @@
         "save": "Salva",
         "cancel": "Elimina",
         "app_name": "Auth",
-        "auth_settings": "Impostazioni Auth"
+        "auth_settings": "Impostazioni Auth",
+        "invalid_code": "Codice non valido",
+        "enter_code": "Inserisci il codice",
+        "enter_recovery_address": "Inserisci il tuo indirizzo di recupero"
     },
     "instructions": {
         "needInfo": "Hai bisogno di maggiori informazioni?"
@@ -67,7 +70,8 @@
         "mobile": "Qui puoi gestire la password dell'applicazione.",
         "eas": "Qui puoi gestire la tua password Exchange ActiveSync.",
         "changePassword": "Puoi cambiare la tua password da qui.",
-        "desktop": "Qui puoi gestire la password dell'applicazione desktop."
+        "desktop": "Qui puoi gestire la password dell'applicazione desktop.",
+        "recoveryaddress": "Qui è possibile impostare e modificare la password di recupero della posta."
     },
     "error": {
         "specialChars": "I caratteri speciali non sono consentiti.",
@@ -141,7 +145,11 @@
         "descriptionHelp": "La descrizione sarà utile per indicare dove questa Autenticazione App Mobile è utilizzata."
     },
     "snackbar": {
-        "settings_saved": "Impostazioni salvate con successo"
+        "settings_saved": "Impostazioni salvate con successo",
+        "validation_code_resent": "Il codice di convalida è stato inviato nuovamente all'indirizzo e-mail",
+        "reset_recovery_address": "Indirizzo di recupero reimpostato correttamente",
+        "set_recovery_address": "Indirizzo di recupero impostato correttamente",
+        "validation_code_sent": "Il codice di convalida è stato inviato all'indirizzo e-mail"
     },
     "setNewToken": {
         "authenticationDescription": "Descrizione autenticazione",
@@ -158,13 +166,14 @@
     "settingsAuth": {
         "Displayer": {
             "ResetPassword": "Reimposta Password",
-            "CreateANewPasswordToResetIt": "Crea una nuova password per reimpostarla."
+            "CreateANewPasswordToResetIt": "Crea una nuova password per reimpostarla.",
+            "WarningSessionRefresh": "Facendo clic su \"Conferma\" si invalida la sessione corrente e si richiede un nuovo accesso. Assicurarsi di aver completato tutte le altre operazioni prima di iniziare questa procedura."
         },
         "displayerSecondaryButton": {
             "Cancel": "Annulla"
         },
         "displayerPrimaryButton": {
-            "Continue": "Continua"
+            "Continue": "Conferma"
         },
         "Column": {
             "HereYouCanResetYourPassword": "Qui puoi reimpostare la tua password."
@@ -178,9 +187,24 @@
         "displayerInputField": {
             "ConfirmPassword": "Conferma Password",
             "NewPassword": "Nuova Password"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "La password non corrisponde"
         }
     },
     "button": {
-        "remove": "rimuovi"
-    }
+        "remove": "rimuovi",
+        "resend_code": "inviare di nuovo il codice",
+        "set_recovery_address": "imposta indirizzo"
+    },
+    "recoveryAddress": {
+        "body_row4": "Non hai ancora ricevuto il codice? Clicca su \"Invia di nuovo il codice\".",
+        "body_row2": "Facendo clic su \"Imposta indirizzo\" verrà avviata la verifica dell'e-mail.  Invieremo un'e-mail di conferma all'indirizzo indicato.",
+        "body_row1": "Inserisci un indirizzo e-mail da impostare come indirizzo di recupero.",
+        "body_row3": "Inserisci il codice di convalida che abbiamo inviato al tuo indirizzo email.",
+        "status_verified_message": "Il tuo indirizzo di recupero è impostato. È possibile aggiornarlo facilmente da qui.",
+        "title": "Indirizzo di recupero",
+        "validation_code": "Codice di convalida"
+    },
+    "button_continue": "Continua"
 }
