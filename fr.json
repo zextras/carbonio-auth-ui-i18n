@@ -173,7 +173,8 @@
         },
         "Displayer": {
             "ResetPassword": "Réinitialiser le mot de passe",
-            "CreateANewPasswordToResetIt": "Définissez un nouveau mot de passe pour le réinitialiser."
+            "CreateANewPasswordToResetIt": "Définissez un nouveau mot de passe pour le réinitialiser.",
+            "WarningSessionRefresh": "En cliquant sur \"Confirmer\", la session en cours sera invalidée et il faudra se reconnecter. Veillez à terminer vos tâches avant d'entamer cette procédure."
         },
         "displayerPrimaryButton": {
             "Continue": "Confirmer"
