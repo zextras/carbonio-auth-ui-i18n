@@ -154,5 +154,17 @@
         "title": "Aplikasi Desktop",
         "descriptionHelp": "Deskripsi akan membantu Anda mengingat di mana Autentikasi Aplikasi Desktop digunakan.",
         "success": "Kata sandi Aplikasi Desktop baru berhasil diaktifkan. Daftar kata sandi telah diperbarui."
+    },
+    "settingsAuth": {
+        "displayerSecondaryButton": {
+            "Cancel": "Batal"
+        },
+        "displayerPrimaryButton": {
+            "Continue": "Konfirmasi"
+        }
+    },
+    "button_continue": "Lanjutkan",
+    "button": {
+        "remove": "hapus"
     }
 }
