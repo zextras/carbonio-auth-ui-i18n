@@ -172,7 +172,8 @@
         },
         "Displayer": {
             "CreateANewPasswordToResetIt": "Crie uma nova senha para redefini-la.",
-            "ResetPassword": "Redefinir Senha"
+            "ResetPassword": "Redefinir Senha",
+            "WarningSessionRefresh": "Ao clicar em \"Confirmar\", a sessão atual será invalidada, sendo necessário um novo acesso. Certifique-se de concluir todos os trabalhos antes de iniciar esse procedimento."
         },
         "Option": {
             "ResetPassword": "Redefinir Senha"
@@ -186,6 +187,9 @@
         },
         "Snackbar": {
             "PasswordSuccessfullyReset": "Senha redefinida com sucesso"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "A senha não corresponde"
         }
     },
     "button": {
