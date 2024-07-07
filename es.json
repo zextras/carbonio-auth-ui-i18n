@@ -154,5 +154,8 @@
         "descriptionHelp": "La descripción te ayudará a recordar en dónde se utiliza esta autenticación de aplicaciones de escritorio.",
         "new": "Aplicaciones de escritorio | Nueva autenticación",
         "success": "La nueva contraseña de la aplicación de escritorio se ha activado correctamente. La lista de contraseñas ha sido actualizada."
+    },
+    "button": {
+        "remove": "eliminar"
     }
 }
