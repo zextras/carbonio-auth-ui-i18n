@@ -4,7 +4,8 @@
         "otp": "Di sini Anda bisa mengelola Autentikasi OTP.",
         "mobile": "Di sini Anda bisa mengelola kata sandi Aplikasi Seluler.",
         "eas": "Di sini Anda bisa mengelola kata sandi Exchange ActiveSync.",
-        "desktop": "Di sini Anda dapat mengelola kata sandi Aplikasi Desktop."
+        "desktop": "Di sini Anda dapat mengelola kata sandi Aplikasi Desktop.",
+        "recoveryaddress": "Di sini Anda dapat mengatur dan mengubah kata sandi pemulihan email Anda."
     },
     "error": {
         "specialChars": "Karakter khusus tidak diizinkan.",
@@ -135,13 +136,20 @@
         "save": "Simpan",
         "cancel": "Batal",
         "app_name": "Autentikasi",
-        "auth_settings": "Pengaturan Autentikasi"
+        "auth_settings": "Pengaturan Autentikasi",
+        "enter_recovery_address": "Masukkan alamat pemulihan Anda",
+        "invalid_code": "Kode tidak valid",
+        "enter_code": "Masukkan kode"
     },
     "instructions": {
         "needInfo": "Anda membutuhkan informasi lainnya?"
     },
     "snackbar": {
-        "settings_saved": "Pengaturan berhasil disimpan"
+        "settings_saved": "Pengaturan berhasil disimpan",
+        "validation_code_resent": "Kode validasi telah dikirim ulang ke alamat email",
+        "reset_recovery_address": "Alamat pemulihan berhasil diatur ulang",
+        "set_recovery_address": "Alamat pemulihan berhasil ditetapkan",
+        "validation_code_sent": "Kode validasi telah dikirim ke alamat email"
     },
     "setNewToken": {
         "authenticationDescription": "Deskripsi autentikasi",
@@ -161,10 +169,42 @@
         },
         "displayerPrimaryButton": {
             "Continue": "Konfirmasi"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "Di sini Anda dapat mengatur ulang kata sandi Anda."
+        },
+        "Displayer": {
+            "WarningSessionRefresh": "Mengklik \"Konfirmasi\" akan membatalkan sesi saat ini yang memerlukan login baru. Pastikan Anda menyelesaikan setiap pekerjaan lainnya sebelum memulai prosedur ini.",
+            "ResetPassword": "Atur Ulang Kata Sandi",
+            "CreateANewPasswordToResetIt": "Buat kata sandi baru untuk mengatur ulang."
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "Kata sandi berhasil diatur ulang"
+        },
+        "Option": {
+            "ResetPassword": "Atur Ulang Kata Sandi"
+        },
+        "displayerInputField": {
+            "NewPassword": "Kata Sandi Baru",
+            "ConfirmPassword": "Konfirmasi Kata Sandi"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "Kata sandi tidak cocok"
         }
     },
     "button_continue": "Lanjutkan",
     "button": {
-        "remove": "hapus"
+        "remove": "hapus",
+        "resend_code": "kirim ulang kode",
+        "set_recovery_address": "atur alamat"
+    },
+    "recoveryAddress": {
+        "body_row2": "Mengklik \"Tetapkan Alamat\" akan memulai verifikasi email. Kami akan mengirimkan email konfirmasi ke alamat yang Anda berikan.",
+        "body_row1": "Masukkan alamat email untuk ditetapkan sebagai alamat pemulihan Anda.",
+        "body_row3": "Masukkan kode validasi yang kami kirimkan ke alamat email Anda.",
+        "body_row4": "Belum menerima kodenya? Klik \"Kirim Ulang Kode.\"",
+        "status_verified_message": "Alamat pemulihan Anda telah ditetapkan. Anda dapat dengan mudah memperbaruinya dari sini.",
+        "title": "Alamat Pemulihan",
+        "validation_code": "Kode validasi"
     }
 }
