@@ -57,7 +57,10 @@
         "save": "Guardar",
         "cancel": "Cancelar",
         "app_name": "Auth",
-        "auth_settings": "Ajustes de autenticación"
+        "auth_settings": "Ajustes de autenticación",
+        "enter_code": "Introducir código",
+        "enter_recovery_address": "Introduce tu dirección de recuperación",
+        "invalid_code": "Código no válido"
     },
     "instructions": {
         "needInfo": "¿Necesita más información?"
@@ -67,7 +70,8 @@
         "mobile": "Aquí puedes administrar la contraseña de la aplicación móvil.",
         "eas": "Aquí puede administrar la contraseña Exchange ActiveSync.",
         "changePassword": "Aquí puedes cambiar tu contraseña.",
-        "desktop": "Aquí puedes administrar la contraseña de la aplicación de escritorio."
+        "desktop": "Aquí puedes administrar la contraseña de la aplicación de escritorio.",
+        "recoveryaddress": "Aquí puedes definir y cambiar tu contraseña de recuperación del correo."
     },
     "error": {
         "specialChars": "Los caracteres especiales no están permitidos.",
@@ -141,7 +145,11 @@
         "descriptionHelp": "La descripción te ayudará a recordar en dónde se utiliza esta autenticación."
     },
     "snackbar": {
-        "settings_saved": "Se han guardado los ajustes"
+        "settings_saved": "Se han guardado los ajustes",
+        "validation_code_sent": "El código de validación ha sido enviado a la dirección de correo electrónico",
+        "reset_recovery_address": "Dirección de recuperación restablecida con éxito",
+        "set_recovery_address": "Dirección de recuperación establecida correctamente",
+        "validation_code_resent": "El código de validación ha sido reenviado a la dirección de correo"
     },
     "setNewToken": {
         "authenticationDescription": "Descripción de la autenticación",
@@ -162,6 +170,41 @@
     },
     "button_continue": "Continuar",
     "recoveryAddress": {
-        "validation_code": "Código de validación"
+        "validation_code": "Código de validación",
+        "body_row2": "Al hacer clic en \"Configurar dirección\" se iniciará la verificación por correo electrónico. Te enviaremos un correo de confirmación a la dirección que introduzcas.",
+        "status_verified_message": "Tu dirección de recuperación ha sido establecida. Puedes actualizarla fácilmente desde aquí.",
+        "body_row1": "Introduce una dirección de correo electrónico para configurarla como dirección de recuperación.",
+        "body_row3": "Introduce el código de validación que te enviamos a tu dirección de correo electrónico.",
+        "body_row4": "¿No te ha llegado el código? Haz clic en \"Reenviar código\".",
+        "title": "Dirección de recuperación"
+    },
+    "settingsAuth": {
+        "Option": {
+            "ResetPassword": "Reiniciar contraseña"
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "Contraseña reiniciada correctamente"
+        },
+        "Displayer": {
+            "WarningSessionRefresh": "Al hacer clic en \"Confirmar\" se invalidará la sesión actual haciendo necesario iniciar sesión de nuevo. Asegúrate de completar las otras tareas antes de iniciar este procedimiento.",
+            "ResetPassword": "Reiniciar contraseña",
+            "CreateANewPasswordToResetIt": "Crear una nueva contraseña para reiniciarla."
+        },
+        "displayerPrimaryButton": {
+            "Continue": "Confirmar"
+        },
+        "displayerInputField": {
+            "NewPassword": "Nueva contraseña",
+            "ConfirmPassword": "Confirmar contraseña"
+        },
+        "displayerSecondaryButton": {
+            "Cancel": "Cancelar"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "Aquí puedes reiniciar tu contraseña."
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "La contraseña no coincide"
+        }
     }
 }
