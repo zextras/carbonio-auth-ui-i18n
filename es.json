@@ -156,6 +156,12 @@
         "success": "La nueva contraseña de la aplicación de escritorio se ha activado correctamente. La lista de contraseñas ha sido actualizada."
     },
     "button": {
-        "remove": "eliminar"
+        "remove": "eliminar",
+        "set_recovery_address": "establecer dirección",
+        "resend_code": "reenviar código"
+    },
+    "button_continue": "Continuar",
+    "recoveryAddress": {
+        "validation_code": "Código de validación"
     }
 }
