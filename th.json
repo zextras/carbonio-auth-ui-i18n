@@ -165,7 +165,31 @@
     },
     "settingsAuth": {
         "Displayer": {
+            "ResetPassword": "รีเซ็ตรหัสผ่าน",
+            "WarningSessionRefresh": "การคลิก \"ยืนยัน\" จะทำให้เซสชันปัจจุบันที่ต้องมีการเข้าสู่ระบบใหม่เป็นโมฆะ ตรวจสอบให้แน่ใจว่าได้ทำงานอื่น ๆ ทั้งหมดให้เสร็จสิ้นก่อนเริ่มขั้นตอนนี้",
+            "CreateANewPasswordToResetIt": "สร้างรหัสผ่านใหม่เพื่อรีเซ็ต"
+        },
+        "Option": {
             "ResetPassword": "รีเซ็ตรหัสผ่าน"
+        },
+        "displayerPrimaryButton": {
+            "Continue": "ยืนยัน"
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "รีเซ็ตรหัสผ่านเรียบร้อยแล้ว"
+        },
+        "displayerInputField": {
+            "NewPassword": "รหัสผ่านใหม่",
+            "ConfirmPassword": "ยืนยันรหัสผ่าน"
+        },
+        "displayerSecondaryButton": {
+            "Cancel": "ยกเลิก"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "คุณสามารถรีเซ็ตรหัสผ่านของคุณได้ที่นี่"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "รหัสผ่านไม่ตรงกัน"
         }
     },
     "button": {
