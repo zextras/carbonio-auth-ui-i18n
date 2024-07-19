@@ -176,7 +176,8 @@
         },
         "Displayer": {
             "ResetPassword": "Сбросить пароль",
-            "CreateANewPasswordToResetIt": "Чтобы сбросить пароль, создайте новый."
+            "CreateANewPasswordToResetIt": "Чтобы сбросить пароль, создайте новый.",
+            "WarningSessionRefresh": "Нажатие «Подтвердить» приведет к аннулированию текущего сеанса, требующего нового входа в систему. Прежде чем приступить к этой процедуре, обязательно выполните все остальные работы."
         },
         "Snackbar": {
             "PasswordSuccessfullyReset": "Пароль успешно сброшен"
@@ -186,6 +187,9 @@
         },
         "Column": {
             "HereYouCanResetYourPassword": "Здесь вы можете сбросить пароль."
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "Пароль не совпадает"
         }
     },
     "button": {
