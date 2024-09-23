@@ -24,7 +24,10 @@
         "cancel": "Törlés",
         "app_name": "Hitelesítés",
         "save": "Mentés",
-        "auth_settings": "Hitelesítési beállítások"
+        "auth_settings": "Hitelesítési beállítások",
+        "enter_code": "Kód beírása",
+        "enter_recovery_address": "Adja meg a helyreállítási címét",
+        "invalid_code": "A kód érvénytelen"
     },
     "passwordListLabel": {
         "disabled": "Letiltva",
@@ -39,7 +42,8 @@
         "changePassword": "Itt módosíthatja a jelszavát.",
         "eas": "Itt kezelheti Exchange ActiveSync jelszavát.",
         "mobile": "Itt kezelheti a mobilalkalmazás jelszavát.",
-        "otp": "Itt kezelheti az OTP-hitelesítést."
+        "otp": "Itt kezelheti az OTP-hitelesítést.",
+        "recoveryaddress": "Itt beállíthatja és megváltoztathatja a mail visszaállítási jelszavát."
     },
     "setNewOtpLabel": {
         "new": "OTP hitelesítés | Új hitelesítés",
@@ -153,6 +157,54 @@
         "successfully": "Token sikeresen létrehozva."
     },
     "snackbar": {
-        "settings_saved": "Beállítások elmentve"
-    }
+        "settings_saved": "Beállítások elmentve",
+        "reset_recovery_address": "Helyreállítási cím visszaállítása sikeres",
+        "set_recovery_address": "Helyreállítási cím beállítása sikeres",
+        "validation_code_resent": "Az érvényesítési kódot újraküldtük a levelezési címre",
+        "validation_code_sent": "Az érvényesítési kódot elküldtük a levelezési címre"
+    },
+    "settingsAuth": {
+        "displayerInputField": {
+            "NewPassword": "Új jelszó",
+            "ConfirmPassword": "Jelszó megerősítése"
+        },
+        "Displayer": {
+            "WarningSessionRefresh": "A „Megerősítés” gombra kattintva érvényteleníti az aktuális munkamenetet, amely új bejelentkezést igényel. Fejezze be az aktuális munkát mielőtt elkezdi a folyamatot!",
+            "ResetPassword": "Jelszó visszaállítása",
+            "CreateANewPasswordToResetIt": "Hozzon létre egy új jelszót a visszaállításhoz."
+        },
+        "Option": {
+            "ResetPassword": "Jelszó visszaállítása"
+        },
+        "displayerSecondaryButton": {
+            "Cancel": "Mégse"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "Itt visszaállíthatja jelszavát."
+        },
+        "displayerPrimaryButton": {
+            "Continue": "Megerősítés"
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "Jelszó sikeresen visszaállítva"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "A megadott jelszavak nem egyeznek meg"
+        }
+    },
+    "recoveryAddress": {
+        "body_row2": "A „Cím beállítása” gombra kattintva megkezdődik az e-mail ellenőrzése. Visszaigazoló email-t küldünk a megadott címre.",
+        "body_row3": "Adja meg az e-mail-címére küldött érvényesítési kódot.",
+        "body_row4": "Még nem kapta meg a kódot? Kattintson a „Kód újraküldése” lehetőségre.",
+        "status_verified_message": "A helyreállítási címe be van állítva. Innen könnyen frissítheti.",
+        "title": "Helyreállítási cím",
+        "validation_code": "Ellenőrzőkód",
+        "body_row1": "Adja meg a helyreállítási címként beállítandó e-mail-címet."
+    },
+    "button": {
+        "remove": "eltávolítás",
+        "resend_code": "kód újraküldése",
+        "set_recovery_address": "cím beállítása"
+    },
+    "button_continue": "Folytatás"
 }
