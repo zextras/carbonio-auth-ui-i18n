@@ -2,5 +2,74 @@
     "label": {
         "cancel": "Utzi",
         "save": "Gorde"
+    },
+    "appDesktop": {
+        "empty": "Mahaigaineko aplikazioen zerrenda hutsik dago.",
+        "label": "Mahaigaineko aplikazioak",
+        "new": "Mahaigaineko aplikazioak | Autentifikazio berria",
+        "title": "Mahaigaineko aplikazioak",
+        "descriptionHelp": "Deskribapenak mahaigaineko aplikazioen autentifikazio hau non erabiltzen den gogoratzen lagunduko dizu.",
+        "success": "Behar bezala gaitu da Mahaigaineko aplikazioaren pasahitz berria. Pasahitzen zerrenda eguneratu da."
+    },
+    "appMobile": {
+        "empty": "Mugikorretarako aplikazioen zerrenda hutsik dago.",
+        "label": "Mugikorretarako Aplikazioak",
+        "new": "Mugikorretarako aplikazioak | Autentifikazio berria",
+        "success": "Mugikorretarako aplikazioaren pasahitz berria behar bezala gaitu da. Pasahitzen zerrenda eguneratu da.",
+        "title": "Mugikorretarako aplikazioak",
+        "descriptionHelp": "Deskribapenak mugikorretarako aplikazioen autentifikazio hau non erabiltzen den gogoratzen lagunduko dizu."
+    },
+    "button": {
+        "remove": "kendu",
+        "resend_code": "kodea birbidali",
+        "set_recovery_address": "ezarri helbidea"
+    },
+    "button_continue": "Jarraitu",
+    "buttons": {
+        "cancel": "Ezeztatu",
+        "click": "Klikatu hemen",
+        "close": "Itxi",
+        "done": "Egina",
+        "next": "Hurrengoa",
+        "yes": "Bai"
+    },
+    "changePassword": {
+        "confirmNew": "Berretsi Pasahitz Berria",
+        "digitSpecial": "zenbaki bat (123) eta karaktere berezia (!/@)",
+        "formatNotValid": "Pasahitzak gutxienez maiuskula, minuskula, zenbaki bat eta karaktere berezi bat izan behar ditu",
+        "incorrectPassword": "Pasahitz okerra.",
+        "instruction": "Mesedez, sortu pasahitz berri bat eta idatzi berrespen eremuan",
+        "lowerUpper": "maiuskula (ABC) eta minuskula (abc) karaktere bat",
+        "mustContain": "Pasahitz berriak 6 eta 20 karaktere artean izan behar ditu eta ehorretaz gain:",
+        "mustMatch": "Pasahitzak bat etorri behar dira.",
+        "oldPassword": "Pasahitz zaharra",
+        "recentlyUsedPassword": "Pasahitz hau duela gutxi erabili da.",
+        "sameOldPassword": "Zure pasahitza ezin da izan zaharraren berdina.",
+        "title": "Aldatu pasahitza",
+        "zimbraPasswordMaxLength": "Gehienezko luzera {{num}} karaktere da.",
+        "zimbraPasswordMinLength": "Gutxieneko luzera {{num}} karaktere da.",
+        "zimbraPasswordMinLowerCaseChars": "Beheko karaktereen gutxieneko kopurua {{num}} da.",
+        "zimbraPasswordMinNumericChars": "Zenbakizko karaktereen gutxieneko kopurua {{num}} da.",
+        "zimbraPasswordMinPunctuationChars": "Karaktere berezien gutxieneko kopurua {{num}} da.",
+        "passwordChanged": "Zure pasahitza aldatu da.",
+        "zimbraPasswordLocked": "Pasahitz aldaketa desgaituta dago. Jarri harremanetan zure sistema-administratzailearekin laguntza gehiago lortzeko."
+    },
+    "easAuth": {
+        "helpRemember": "Deskribapenak Exchange ActiveSync autentifikazio hau non erabiltzen den gogoratzen lagunduko dizu.",
+        "label": "Exchange ActiveSync",
+        "new": "Exchange ActiveSync | Autentifikazio berria",
+        "success": "Exchange ActiveSync pasahitz berria behar bezala gaitu da. Pasahitzen zerrenda eguneratu da."
+    },
+    "error": {
+        "alreadyInUse": "Dagoeneko erabiltzen. Mesedez, aukeratu beste deskribapen bat.",
+        "maximumLength": "Gehienezko luzera 20 karakterekoa da.",
+        "minimumLength": "Gutxieneko luzera 6 karakterekoa da.",
+        "somethingWrong": "Zerbaitek akatsa eman du.",
+        "specialChars": "Karaktere bereziak ez dira onartzen."
+    },
+    "instruction": {
+        "changePassword": "Hemen zure pasahitza alda dezakezu.",
+        "desktop": "Hemen Mahaigaineko aplikazioaren pasahitza kudea dezakezu.",
+        "eas": "Hemen zure Exchange ActiveSync pasahitza kudeatu dezakezu."
     }
 }
