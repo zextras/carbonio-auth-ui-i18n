@@ -145,7 +145,11 @@
         "descriptionHelp": "Tanım, Mobil Uygulamalar Kimlik Doğrulamasının nerede kullanıldığını hatırlamanıza yardımcı olur."
     },
     "snackbar": {
-        "settings_saved": "Ayarlar başarıyla kaydedildi"
+        "settings_saved": "Ayarlar başarıyla kaydedildi",
+        "set_recovery_address": "Kurtarma adresi başarıyla ayarlandı",
+        "reset_recovery_address": "Kurtarma adresi başarıyla sıfırlandı",
+        "validation_code_resent": "Doğrulama kodu e-posta adresine tekrar gönderildi",
+        "validation_code_sent": "Doğrulama kodu mail adresine gönderildi"
     },
     "setNewToken": {
         "authenticationDescription": "Kimlik doğrulama açıklaması",
@@ -163,12 +167,44 @@
         "body_row1": "Kurtarma adresiniz olarak ayarlamak için bir e-posta adresi girin.",
         "body_row3": "E-posta adresinize gönderdiğimiz doğrulama kodunu girin.",
         "body_row2": "\"Adresi Ayarla\" ya tıkladığınızda e-posta doğrulaması başlatılacak. Belirlediğiniz adrese onay e-postası göndereceğiz.",
-        "body_row4": "Kodu henüz almadınız mı? \"Kodu Yeniden Gönder\" e tıklayın."
+        "body_row4": "Kodu henüz almadınız mı? \"Kodu Yeniden Gönder\" e tıklayın.",
+        "status_verified_message": "Kurtarma adresiniz ayarlandı. Buradan kolayca değiştirebilirsiniz.",
+        "title": "Kurtarma Adresi",
+        "validation_code": "Doğrulama kodu"
     },
     "button": {
         "remove": "kaldır",
         "resend_code": "kodu tekrar gönder",
         "set_recovery_address": "adresi belirle"
     },
-    "button_continue": "İlerle"
+    "button_continue": "İlerle",
+    "settingsAuth": {
+        "Option": {
+            "ResetPassword": "Parolayı Sıfırlayın"
+        },
+        "Displayer": {
+            "WarningSessionRefresh": "\"Onayla\"ya tıkladığınızda şu andaki oturumunuz sonlandırılacak ve yeniden giriş yapmanız gerekecek. Bu işlemi başlatmadan önce diğer işleri tamamlayınız.",
+            "ResetPassword": "Parolayı Sıfırlayın",
+            "CreateANewPasswordToResetIt": "Sıfırlamak için yeni bir parola oluşturun."
+        },
+        "displayerPrimaryButton": {
+            "Continue": "Onayla"
+        },
+        "displayerSecondaryButton": {
+            "Cancel": "İptal"
+        },
+        "displayerInputField": {
+            "NewPassword": "Yeni Parola",
+            "ConfirmPassword": "Parolayı Onayla"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "Buradan parolanızı sıfırlayabilirsiniz."
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "Parola başarıyla sıfırlandı"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "Parola eşleşmiyor"
+        }
+    }
 }
