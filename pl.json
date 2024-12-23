@@ -82,7 +82,7 @@
         "changePassword": "Tutaj możesz zmienić swoje hasło.",
         "eas": "Tutaj możesz zarządzać swoim hasłem Exchange ActiveSync.",
         "mobile": "Tutaj możesz zarządzać hasłem aplikacji mobilnej.",
-        "otp": "Tutaj możesz zarządzać uwierzytelnianiem OTP.",
+        "otp": "Tutaj możesz zarządzać uwierzytelnianiem hasłem jednorazowym.",
         "desktop": "Tutaj możesz zarządzać hasłem aplikacji komputerowej.",
         "recoveryaddress": "Tutaj możesz ustawić i zmienić Twoje hasło odzyskiwania e-maila."
     },
