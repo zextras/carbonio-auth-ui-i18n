@@ -16,7 +16,7 @@
         "descriptionHelp": "Opis će vam pomoći da se sjetite gdje se autentifikacija ove mobilne aplikacije koristi."
     },
     "button": {
-        "remove": "Ukloni",
+        "remove": "ukloni",
         "resend_code": "ponovno pošalji kod",
         "set_recovery_address": "postavi adresu"
     },
@@ -30,7 +30,7 @@
         "done": "Završeno"
     },
     "changePassword": {
-        "confirmNew": "Potvrdite novu lozinku",
+        "confirmNew": "Potvrdi novu lozinku",
         "digitSpecial": "broj (123) i specijalni znak (!/@)",
         "incorrectPassword": "Neispravna lozinka.",
         "instruction": "Molimo kreirajte novu lozinku i unesite je u polje za potvrdu",
@@ -62,7 +62,8 @@
         "disabled": "Onemogućeno",
         "enabled": "Omogućeno",
         "newAuthentication": "Nova autentifikacija",
-        "tokenCopied": "Token uspješno kopiran"
+        "tokenCopied": "Token uspješno kopiran",
+        "passwordCopied": "uobičajena lozinka Kopirano"
     },
     "easAuth": {
         "empty": "Lista Exchange ActiveSync je prazna.",
@@ -89,7 +90,7 @@
         "app_name": "Autentifikacija",
         "cancel": "Odustani",
         "enter_recovery_address": "Unesite adresu za oporavak",
-        "invalid_code": "Kod nije validan.",
+        "invalid_code": "Kod nije validan",
         "save": "Sačuvaj",
         "enter_code": "Unesi kod"
     },
@@ -103,7 +104,7 @@
     },
     "instruction": {
         "desktop": "Upravljanje lozinkom za desktop aplikaciju.",
-        "changePassword": "Promjena lozinke",
+        "changePassword": "Ovdje možete promijeniti svoju lozinku.",
         "eas": "Upravljanje lozinkom za Exchange ActiveSync.",
         "otp": "Upravljanje OTP autentifikacijom.",
         "recoveryaddress": "Podešavanje lozinke za oporavak e-pošte.",
@@ -144,8 +145,8 @@
     },
     "setNewPassword": {
         "authenticationDescription": "Opis autentifikacije",
-        "successfully": "Lozinka je uspješno generisana.",
-        "warningJustOnce": "Upozorenje: Ovaj token možete kopirati samo jednom.",
+        "successfully": "Lozinka je uspješno generisana",
+        "warningJustOnce": "Upozorenje: Ovaj token možete kopirati samo jednom",
         "textDescription": "Koristite ovaj kod za autentifikaciju na Exchange ActiveSync uslugama.",
         "EASPasswordCopied": "Exchange ActiveSync (EAS) lozinka je kopirana"
     },
@@ -158,10 +159,11 @@
     },
     "snackbar": {
         "set_recovery_address": "Adresa za oporavak je uspješno postavljena",
-        "validation_code_sent": "Verifikacijski kod je poslan na vašu email adresu.",
+        "validation_code_sent": "Verifikacijski kod je poslan na vašu email adresu",
         "reset_recovery_address": "Adresa za oporavak je uspješno resetovana",
         "settings_saved": "Postavke su uspješno sačuvane",
-        "validation_code_resent": "Verifikacijski kod je ponovo poslan na vašu email adresu"
+        "validation_code_resent": "Verifikacijski kod je ponovo poslan na vašu email adresu",
+        "error": "greška u snackbaru"
     },
     "staticOTPCodes": {
         "print": {
@@ -195,10 +197,10 @@
             "Continue": "Potvrdi"
         },
         "Snackbar": {
-            "PasswordSuccessfullyReset": "Lozinka uspješno resetovana."
+            "PasswordSuccessfullyReset": "Lozinka uspješno resetovana"
         },
         "Column": {
-            "HereYouCanResetYourPassword": "Reset lozinke"
+            "HereYouCanResetYourPassword": "Ovdje možete resetovati lozinku."
         },
         "ErrorDescriptionConfirmInput": {
             "PasswordDoesNotMatch": "Lozinke se ne poklapaju"
