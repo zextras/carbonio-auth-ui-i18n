@@ -5,7 +5,7 @@
         "title": "Desktop aplikacije",
         "empty": "Lista Desktop aplikacija je prazna.",
         "success": "Nova lozinka za desktop aplikaciju je uspješno postavljena. Lista lozinki je ažurirana.",
-        "descriptionHelp": "Opis će vam pomoći da se sjetite gdje se autentifikacija ove Desktop aplikacije koristi."
+        "descriptionHelp": "Opis korištenja autentifikacije Desktop aplikacije."
     },
     "appMobile": {
         "empty": "Lista mobilnih aplikacija je prazna.",
@@ -13,7 +13,7 @@
         "new": "Mobilne aplikacije | Nova autentifikacija",
         "success": "Nova lozinka za mobilnu aplikaciju je uspješno postavljena. Lista lozinki je ažurirana.",
         "title": "Mobilne aplikacije",
-        "descriptionHelp": "Opis će vam pomoći da se sjetite gdje se autentifikacija ove mobilne aplikacije koristi."
+        "descriptionHelp": "Opis korištenja autentifikacija mobilne aplikacije."
     },
     "button": {
         "remove": "ukloni",
@@ -23,7 +23,7 @@
     "button_continue": "Nastavi",
     "buttons": {
         "cancel": "Odustani",
-        "click": "Kliknite ovdje",
+        "click": "Klikni ovdje",
         "close": "Zatvori",
         "next": "Dalje",
         "yes": "Da",
@@ -33,29 +33,29 @@
         "confirmNew": "Potvrdi novu lozinku",
         "digitSpecial": "broj (123) i specijalni znak (!/@)",
         "incorrectPassword": "Neispravna lozinka.",
-        "instruction": "Molimo kreirajte novu lozinku i unesite je u polje za potvrdu",
+        "instruction": "Kreiraj novu lozinku i unesi je u polje za potvrdu",
         "lowerUpper": "veliko slovo (ABC) i malo slovo (abc)",
         "mustContain": "Nova lozinka treba da ima od 6 do 20 znakova i mora sadržavati:",
         "mustMatch": "Lozinke moraju biti iste.",
         "oldPassword": "Stara lozinka",
         "recentlyUsedPassword": "Ova lozinka je nedavno korištena.",
-        "sameOldPassword": "Vaša lozinka ne može biti ista kao prethodna.",
+        "sameOldPassword": "Lozinka ne može biti ista kao prethodna.",
         "title": "Promijeni lozinku",
         "zimbraPasswordMaxLength": "Maksimalna dužina je {{num}} znakova.",
         "zimbraPasswordMinLength": "Minimalna dužina je {{num}} znakova.",
         "zimbraPasswordMinNumericChars": "Minimalni broj numeričkih znakova je {{num}}.",
         "zimbraPasswordMinPunctuationChars": "Minimalni broj specijalnih znakova je {{num}}.",
         "zimbraPasswordMinUpperCaseChars": "Minimalni broj velikih slova je {{num}}.",
-        "passwordChanged": "Vaša lozinka je promijenjena.",
+        "passwordChanged": "Lozinka je promijenjena.",
         "formatNotValid": "Lozinka mora sadržavati najmanje jedno veliko slovo, malo slovo, broj i specijalni znak",
         "zimbraPasswordMinLowerCaseChars": "Minimalni broj malih slova je {{num}}.",
-        "zimbraPasswordLocked": "Promjena lozinke je onemogućena, molimo kontaktirajte svog sistem administratora za dalju podršku."
+        "zimbraPasswordLocked": "Promjena lozinke je onemogućena, kontaktiraj svog sistem administratora za dalju podršku."
     },
     "common": {
         "codeCopied": "Kod je uspješno kopiran.",
         "copyPassword": "Kopiraj lozinku",
         "copyQrCode": "Kopiraj QR kod",
-        "copyToken": "kopiraj token",
+        "copyToken": "kopiraj Token",
         "createPassword": "Kreiraj lozinku",
         "createToken": "Kreiraj token",
         "delete": "Izbriši",
@@ -63,17 +63,17 @@
         "enabled": "Omogućeno",
         "newAuthentication": "Nova autentifikacija",
         "tokenCopied": "Token uspješno kopiran",
-        "passwordCopied": "uobičajena lozinka Kopirano"
+        "passwordCopied": "Lozinka je kopirana"
     },
     "easAuth": {
         "empty": "Lista Exchange ActiveSync je prazna.",
         "label": "Exchange ActiveSync",
         "new": "Exchange ActiveSync | Nova autentifikacija",
         "success": "Nova Exchange ActiveSync lozinka je uspješno omogućena. Lista lozinki je ažurirana.",
-        "helpRemember": "Opis će vam pomoći da se sjetite gdje se autentifikacija Exchange ActiveSync koristi."
+        "helpRemember": "Opis korištenja autentifikacije Exchange ActiveSync."
     },
     "deletePassword": {
-        "title": "Jeste li sigurni da želite obrisati lozinku?"
+        "title": "Obriši lozinku?"
     },
     "error": {
         "alreadyInUse": "Već u upotrebi. Potrebno odabrati drugi opis.",
@@ -83,13 +83,13 @@
         "specialChars": "Specijalni znakovi nisu dozvoljeni."
     },
     "instructions": {
-        "needInfo": "Trebate više informacija?"
+        "needInfo": "Više informacija?"
     },
     "label": {
         "auth_settings": "Postavke autentifikacije",
         "app_name": "Autentifikacija",
         "cancel": "Odustani",
-        "enter_recovery_address": "Unesite adresu za oporavak",
+        "enter_recovery_address": "Unesi adresu za oporavak",
         "invalid_code": "Kod nije validan",
         "save": "Sačuvaj",
         "enter_code": "Unesi kod"
@@ -97,17 +97,17 @@
     "newOtp": {
         "label": "Novi OTP",
         "printPinCodes": "Ispisivanje PIN kodova",
-        "warning": "Upozorenje: Ovaj token možete kopirati samo jednom.",
-        "copy_token": "Koristite ovaj token za autentifikaciju vašeg Desktop Sync računa.",
-        "scan_qr": "Upotrijebite jednu od podržanih aplikacija za skeniranje ovog QR koda.",
-        "save_pin": "Preporučujemo da odštampate i sačuvate PIN kodove, jer će vam možda biti potrebni za autentifikaciju. Svaki PIN kod možete koristiti samo jednom."
+        "warning": "Upozorenje: Ovaj token se može kopirati samo jednom.",
+        "copy_token": "Koristi ovaj token za autentifikaciju Desktop Sync računa.",
+        "scan_qr": "Upotrijebi jednu od podržanih aplikacija za skeniranje ovog QR koda.",
+        "save_pin": "Preporučujemo štampanje i čuvanje PIN kodova, možda će biti potrebni za autentifikaciju. Svaki PIN kod se može koristiti samo jednom."
     },
     "instruction": {
         "desktop": "Upravljanje lozinkom za desktop aplikaciju.",
-        "changePassword": "Ovdje možete promijeniti svoju lozinku.",
+        "changePassword": "Ovdje je moguće promijeniti lozinku.",
         "eas": "Upravljanje lozinkom za Exchange ActiveSync.",
         "otp": "Upravljanje OTP autentifikacijom.",
-        "recoveryaddress": "Podešavanje lozinke za oporavak e-pošte.",
+        "recoveryaddress": "Podešavanje lozinke za oporavak e-mail adrese.",
         "mobile": "Upravljanje lozinkom za mobilnu aplikaciju."
     },
     "newPassword": "Nova lozinka",
@@ -124,13 +124,13 @@
         "disabled": "Onemogućeno"
     },
     "recoveryAddress": {
-        "body_row2": "Klikom na \"Postavi adresu\" pokrenut ćete verifikaciju email adrese. Poslaćemo potvrdu na unesenu adresu.",
-        "body_row3": "Unesite verifikacijski kod koji smo poslali na vašu email adresu.",
-        "body_row4": "Još uvijek niste dobili kod? Kliknite na \"Ponovo pošalji kod\".",
+        "body_row2": "Klikom na \"Postavi adresu\" pokreće se proces verifikacije e-mail adrese. Poslaćemo potvrdu na unesenu e-mail adresu.",
+        "body_row3": "Unesi verifikacijski kod koji smo poslali na tvoju e-mail adresu.",
+        "body_row4": "Kod još nije stigao? Klikni na \"Ponovo pošaljite kod\".",
         "title": "Adresa za oporavak",
         "validation_code": "Verifikacijski kod",
-        "status_verified_message": "Vaša adresa za oporavak je postavljena. Ovdje je možete lako ažurirati.",
-        "body_row1": "Unesite email adresu koju želite postaviti kao adresu za oporavak."
+        "status_verified_message": "Adresa za oporavak je postavljena. Ovdje je moguće ažuriranje iste.",
+        "body_row1": "Unesi e-mail adresu za oporavak."
     },
     "setNewOtpLabel": {
         "allowedCharacters": "Donja crta i crtica su dozvoljeni.",
@@ -139,19 +139,19 @@
         "new": "OTP autentifikacija | Nova autentifikacija",
         "success": "Nova OTP autentifikacija je uspješno omogućena.",
         "title": "Autentifikacija putem privremene lozinke (OTP)",
-        "labelPurpose": "Oznaka će vam pomoći da zapamtite gdje se privremena lozinka(OTP) koristi.",
-        "prohibitedCharacters": "Nemojte koristiti nikakve specijalne znakove, akcentovane znakove niti razmake.",
+        "labelPurpose": "Oznaka kao podsjetnik gdje se koristi privremena lozinka(OTP).",
+        "prohibitedCharacters": "Nemoj koristiti nikakve specijalne znakove, akcentovane znakove niti razmake.",
         "maxLength": "Maksimalna dužina oznake je {{maxLength}} znakova."
     },
     "setNewPassword": {
         "authenticationDescription": "Opis autentifikacije",
         "successfully": "Lozinka je uspješno generisana",
-        "warningJustOnce": "Upozorenje: Ovaj token možete kopirati samo jednom",
-        "textDescription": "Koristite ovaj kod za autentifikaciju na Exchange ActiveSync uslugama.",
+        "warningJustOnce": "Upozorenje: Ovaj token se može kopirati samo jednom",
+        "textDescription": "Koristi ovaj kod za autentifikaciju na Exchange ActiveSync uslugama",
         "EASPasswordCopied": "Exchange ActiveSync (EAS) lozinka je kopirana"
     },
     "setNewQRCode": {
-        "successfully": "QR autentifikacija je uspješno generisana."
+        "successfully": "QR autentifikacija je uspješno generisana"
     },
     "setNewToken": {
         "authenticationDescription": "Opis autentifikacije",
@@ -159,36 +159,36 @@
     },
     "snackbar": {
         "set_recovery_address": "Adresa za oporavak je uspješno postavljena",
-        "validation_code_sent": "Verifikacijski kod je poslan na vašu email adresu",
+        "validation_code_sent": "Verifikacijski kod je poslan na tvoju e-mail adresu",
         "reset_recovery_address": "Adresa za oporavak je uspješno resetovana",
         "settings_saved": "Postavke su uspješno sačuvane",
-        "validation_code_resent": "Verifikacijski kod je ponovo poslan na vašu email adresu",
-        "error": "greška u snackbaru"
+        "validation_code_resent": "Verifikacijski kod je ponovo poslan na tvoju e-mail adresu",
+        "error": "Došlo je do greške, pokušaj ponovno"
     },
     "staticOTPCodes": {
         "print": {
             "howToUse": "Kako koristiti svoje PIN-ove",
-            "keepInSafePlace": "Preporučujemo da kodove čuvate na sigurnom mjestu.",
-            "login": "Prijavite se koristeći svoju lozinku",
+            "keepInSafePlace": "Preporučujemo da se kodovi čuvaju na sigurnom mjestu.",
+            "login": "Prijavi se koristeći svoju lozinku",
             "title": "OTP kodovi",
-            "typePin": "Unesite jedan od PIN kodova navedenih iznad",
-            "useOnce": "Imajte na umu da se svaki kod može koristiti samo jednom, pa preporučujemo da ga izbrišete sa liste nakon što ga iskoristite. Svaki put kada upotrijebite kod, dobit ćete obavijest putem emaila.",
-            "whenToUse": "Ovo su vaši statički kodovi. Morat ćete koristiti jedan od ovih kodova u slučaju da nemate mobilni uređaj da nastavite autentifikaciju.",
-            "eraseUsedPin": "Izbrišite iskorišteni PIN sa liste"
+            "typePin": "Unesi jedan od PIN kodova navedenih iznad",
+            "useOnce": "Svaki kod se može koristiti samo jednom, pa preporučujemo brisanje sa liste nakon što isti bude iskorišten. Svaki put kada se kod upotrijebi, putem e-mail poruke će biti poslana obavijest.",
+            "whenToUse": "Ovu su kodovi koje je neophodno koristiti u slučaju nedostatka mobilnog uređaj za nastavak autentifikacije.",
+            "eraseUsedPin": "Obriši iskorišteni PIN sa liste"
         }
     },
     "settingsAuth": {
         "Displayer": {
             "ResetPassword": "Reset lozinke",
-            "CreateANewPasswordToResetIt": "Da biste resetovali lozinku, kreirajte novu.",
-            "WarningSessionRefresh": "Klikom na \"Potvrdi\" trenutna sesija će biti poništena i biće potrebna nova prijava. Završite sve preostale zadatke prije nego što nastavite s ovim postupkom."
+            "CreateANewPasswordToResetIt": "Kreiraj novu lozinku za resetovanje.",
+            "WarningSessionRefresh": "Klikom na \"Potvrdi\" trenutna sesija će biti poništena i biće potrebna nova prijava. Neophodno je završiti sve preostale zadatke prije nego što se nastavi s ovim postupkom."
         },
         "Option": {
             "ResetPassword": "Reset lozinke"
         },
         "displayerInputField": {
             "NewPassword": "Nova lozinka",
-            "ConfirmPassword": "Potvrdite lozinku"
+            "ConfirmPassword": "Potvrdi lozinku"
         },
         "displayerSecondaryButton": {
             "Cancel": "Odustani"
@@ -200,13 +200,13 @@
             "PasswordSuccessfullyReset": "Lozinka uspješno resetovana"
         },
         "Column": {
-            "HereYouCanResetYourPassword": "Ovdje možete resetovati lozinku."
+            "HereYouCanResetYourPassword": "Ovdje se može izvršiti reset lozinke."
         },
         "ErrorDescriptionConfirmInput": {
             "PasswordDoesNotMatch": "Lozinke se ne poklapaju"
         }
     },
     "deleteOtp": {
-        "description": "Svi uređaji koji koriste ovu lozinku biće automatski odjavljeni, a nova autentifikacija biće moguća tek nakon što unesete novi set kredencijala."
+        "description": "Svi uređaji koji koriste ovu lozinku biće automatski odjavljeni, a nova autentifikacija biće moguća tek nakon što se unese novi set kredencijala."
     }
 }
