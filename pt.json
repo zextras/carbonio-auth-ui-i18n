@@ -1,12 +1,12 @@
 {
     "staticOTPCodes": {
         "print": {
-            "whenToUse": "Estes são os seus códigos estáticos. Caso não tenha o seu dispositivo móvel para realizar a autenticação, terá que utilizar um destes códigos.",
-            "useOnce": "Tenha em mente que cada código pode ser usado apenas uma vez, por isso sugerimos que o apague após o uso. Receberá uma notificação por e-mail sempre que usar um código.",
+            "whenToUse": "Estes são seus códigos estáticos. Você terá que utilizar um dos códigos caso não tenha o seu dispositivo móvel para realizar a autenticação.",
+            "useOnce": "Tenha em mente que cada código pode ser usado apenas uma vez, então sugerimos que apague-o da sua lista após o uso. Sempre que usar um código, você receberá uma notificação por e-mail.",
             "typePin": "Insira um dos códigos PIN listados acima",
             "title": "Códigos OTP",
             "login": "Acesse usando sua senha",
-            "keepInSafePlace": "Recomendamos que guarde os códigos num local seguro.",
+            "keepInSafePlace": "Recomendamos que você guarde os códigos em um local seguro.",
             "howToUse": "Como usar seus PINs",
             "eraseUsedPin": "Apague o código PIN usado da lista"
         }
@@ -15,29 +15,29 @@
         "successfully": "Autenticação QR gerada com sucesso"
     },
     "setNewPassword": {
-        "warningJustOnce": "Atenção: poderá ver este código apenas uma vez",
-        "textDescription": "Utilize este código para autenticar a sua conta em dispositivos e clientes que aceitam Exchange ActiveSync",
-        "successfully": "Senha criada com sucesso",
+        "warningJustOnce": "Atenção: você poderá ver este código apenas uma vez",
+        "textDescription": "Use este código para autenticar sua conta nos clientes e dispositivos que permitem Exchange ActiveSync",
+        "successfully": "Senha gerada com sucesso",
         "authenticationDescription": "Descrição da autenticação",
-        "EASPasswordCopied": "Palavra-passe EAS copiada"
+        "EASPasswordCopied": "Senha EAS copiada"
     },
     "setNewOtpLabel": {
         "title": "Autenticação de OTP",
-        "success": "Nova autenticação de OTP ativada com sucesso.",
+        "success": "Nova Autenticação de OTP feita com sucesso.",
         "prohibitedCharacters": "Não use nenhum caractere especial, acentos ou espaços.",
         "new": "Autenticação de OTP | Nova Autenticação",
         "maxLength": "O tamanho máximo da etiqueta é {{maxLength}} caracteres.",
         "labelPurpose": "Esta etiqueta irá te ajudar a lembrar onde a OTP é utilizada.",
         "inputLabel": "Etiqueta OTP",
-        "empty": "A lista de autenticação de OTP está vazia.",
+        "empty": "A lista de Autenticação de OTP está vazia.",
         "allowedCharacters": "O uso de underline e hífen é permitido."
     },
     "passwordListLabel": {
-        "status": "Status",
+        "status": "Estado",
         "service": "Serviço",
         "label": "Descrição",
-        "enabled": "Habilitado",
-        "disabled": "Desabilitadas",
+        "enabled": "Habilitadas",
+        "disabled": "Desabilitado",
         "created": "Criada"
     },
     "otpListLabel": {
@@ -46,39 +46,39 @@
     "options": "Opções",
     "newPassword": "Nova senha",
     "newOtp": {
-        "warning": "Atenção: apenas poderá copiar estes códigos uma vez.",
-        "scan_qr": "Leia este código QR através de uma das aplicações suportadas.",
+        "warning": "Atenção: você poderá ver estes códigos apenas uma vez.",
+        "scan_qr": "Digitalize este código QR através de um dos aplicativos suportados.",
         "save_pin": "Sugerimos imprimir e manter os códigos PIN seguros, pois eles serão solicitados ao autenticar; cada código PIN pode ser usado apenas uma vez.",
         "printPinCodes": "Imprimir códigos PIN",
-        "label": "Nova senha de uso único (OTP)",
-        "copy_token": "Use este token para autenticar-se na conta do Desktop Sync."
+        "label": "Nova OTP",
+        "copy_token": "Use esse token para se autenticar na conta do Desktop Sync."
     },
     "label": {
         "save": "Salvar",
         "cancel": "Cancelar",
         "app_name": "Auth",
         "auth_settings": "Configurações de autenticação",
-        "enter_recovery_address": "Insira seu endereço de recuperação",
         "enter_code": "Insira o código",
+        "enter_recovery_address": "Insira seu endereço de recuperação",
         "invalid_code": "Código inválido"
     },
     "instructions": {
         "needInfo": "Precisa de mais informações?"
     },
     "instruction": {
-        "otp": "Nesta página pode gerir a sua Autenticação de OTP.",
-        "mobile": "Nesta página pode gerir a sua senha de acesso da aplicação Móvel.",
-        "eas": "Nesta página pode gerir a sua senha de acesso do Exchange ActiveSync.",
-        "changePassword": "Nesta página pode alterar a sua Senha de Acesso.",
-        "desktop": "Aqui pode gerir a senha da Aplicação de Desktop.",
+        "otp": "Aqui você pode gerenciar sua Autenticação de OTP.",
+        "mobile": "Aqui você pode gerenciar sua senha do App Móvel.",
+        "eas": "Aqui você pode gerenciar sua senha do Exchange ActiveSync.",
+        "changePassword": "Aqui você pode alterar sua senha.",
+        "desktop": "Aqui você pode gerenciar a senha do aplicativo de desktop.",
         "recoveryaddress": "Aqui você pode definir e alterar seu e-mail de recuperação de senha."
     },
     "error": {
         "specialChars": "Não são permitidos caracteres especiais.",
-        "somethingWrong": "Ocorreu um erro.",
+        "somethingWrong": "Algo deu errado.",
         "minimumLength": "O tamanho mínimo é de 6 caracteres.",
-        "maximumLength": "O comprimento máximo é de 20 caracteres.",
-        "alreadyInUse": "Já em uso. Por favor, escolha outra descrição."
+        "maximumLength": "Comprimento máximo de 20 caracteres.",
+        "alreadyInUse": "Já em uso. Escolha outra descrição."
     },
     "easAuth": {
         "success": "Nova senha do Exchange ActiveSync ativada com sucesso. A lista de senhas foi atualizada.",
@@ -91,19 +91,19 @@
         "title": "Tem certeza que deseja excluir esta senha?"
     },
     "deleteOtp": {
-        "description": "Todos os dispositivos que estão a utilizar esta palavra-passe serão desligados e não poderão autenticar-se até que o utilizador forneça as novas credenciais."
+        "description": "Todos os dispositivos que estão usando esta senha serão desconectados e não poderão autenticar até que você forneça novas credenciais de acesso."
     },
     "common": {
         "newAuthentication": "Nova autenticação",
-        "enabled": "Habilitado",
-        "disabled": "Desabilitadas",
-        "delete": "Apagar",
+        "enabled": "Habilitadas",
+        "disabled": "Desabilitado",
+        "delete": "Excluir",
         "createPassword": "Criar senha",
-        "copyQrCode": "Copiar código QR",
+        "copyQrCode": "Copiar Código QR",
         "copyPassword": "Copiar senha",
         "codeCopied": "Código copiado com sucesso",
         "copyToken": "Copiar Token",
-        "createToken": "Criar um Token",
+        "createToken": "Criar Token",
         "tokenCopied": "Token copiado com sucesso"
     },
     "changePassword": {
@@ -111,10 +111,10 @@
         "zimbraPasswordMinLength": "O comprimento mínimo é de {{num}} caracteres.",
         "zimbraPasswordMaxLength": "O comprimento máximo é de {{num}} caracteres.",
         "title": "Alterar Senha",
-        "sameOldPassword": "Sua senha não pode ser igual à antiga.",
+        "sameOldPassword": "Sua senha não pode ser igual a antiga.",
         "recentlyUsedPassword": "Esta senha foi usada recentemente.",
         "passwordChanged": "Sua senha foi alterada.",
-        "oldPassword": "Senha antiga",
+        "oldPassword": "Senha Antiga",
         "mustMatch": "As senhas devem coincidir.",
         "lowerUpper": "um caractere maiúsculo (ABC) e um caractere minúsculo (abc)",
         "incorrectPassword": "Senha incorreta.",
@@ -142,13 +142,13 @@
         "new": "App Móvel | Nova Autenticação",
         "label": "Aplicativos Móveis",
         "empty": "A lista do App Móvel está vazia.",
-        "descriptionHelp": "A descrição ajudará a identificar onde esta Autenticação é usada."
+        "descriptionHelp": "A descrição ajudará você a lembrar onde essa autenticação é usada."
     },
     "snackbar": {
         "settings_saved": "Configurações salvas com sucesso",
         "reset_recovery_address": "Endereço de recuperação redefinido com sucesso",
-        "validation_code_resent": "Código de validação reenviado para o endereço de e-mail",
-        "validation_code_sent": "Código de validação enviado para o endereço de e-mail",
+        "validation_code_resent": "Código de validação reenviado ao endereço de e-mail",
+        "validation_code_sent": "Código de validação enviado ao endereço de e-mail",
         "set_recovery_address": "Endereço de recuperação configurado com sucesso"
     },
     "setNewToken": {
@@ -156,16 +156,24 @@
         "successfully": "Token gerado com sucesso."
     },
     "appDesktop": {
-        "empty": "A lista de aplicações de desktop está vazia.",
-        "label": "Aplicações de desktop",
-        "new": "Aplicações de desktop | Nova autenticação",
-        "success": "A nova senha da Aplicação de Desktop foi ativada com sucesso. A lista de senhas foi atualizada.",
-        "title": "Aplicações de desktop",
-        "descriptionHelp": "A descrição ajuda a identificar onde esta App de Autenticação de Desktop é usada."
+        "descriptionHelp": "A descrição o ajudará a lembrar onde essa autenticação de aplicativo de desktop é usada.",
+        "empty": "A lista de aplicativos de desktop está vazia.",
+        "label": "Aplicativos de desktop",
+        "new": "Aplicativos de desktop | Nova autenticação",
+        "title": "Aplicativos de desktop",
+        "success": "A nova senha do aplicativo de desktop foi ativada com sucesso. A lista de senhas foi atualizada."
     },
     "settingsAuth": {
         "displayerSecondaryButton": {
             "Cancel": "Cancelar"
+        },
+        "displayerPrimaryButton": {
+            "Continue": "Confirmar"
+        },
+        "Displayer": {
+            "CreateANewPasswordToResetIt": "Crie uma nova senha para redefini-la.",
+            "ResetPassword": "Redefinir Senha",
+            "WarningSessionRefresh": "Ao clicar em \"Confirmar\", a sessão atual será invalidada, sendo necessário um novo acesso. Certifique-se de concluir todos os trabalhos antes de iniciar esse procedimento."
         },
         "Option": {
             "ResetPassword": "Redefinir Senha"
@@ -177,15 +185,11 @@
         "Column": {
             "HereYouCanResetYourPassword": "Aqui você pode redefinir sua senha."
         },
-        "Displayer": {
-            "CreateANewPasswordToResetIt": "Crie uma nova senha para redefini-la.",
-            "ResetPassword": "Redefinir Senha"
-        },
-        "displayerPrimaryButton": {
-            "Continue": "Confirmar"
-        },
         "Snackbar": {
             "PasswordSuccessfullyReset": "Senha redefinida com sucesso"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "A senha não corresponde"
         }
     },
     "button": {
@@ -195,12 +199,12 @@
     },
     "button_continue": "Continuar",
     "recoveryAddress": {
-        "body_row2": "Ao clicar em \"Definir Endereço\", será iniciada a verificação do e-mail. Vamos enviar um e-mail de confirmação para o endereço fornecido.",
-        "body_row3": "Insira o código de validação enviado para o seu endereço de e-mail.",
+        "body_row1": "Insira um endereço de e-mail para definir como seu endereço de recuperação.",
+        "body_row3": "Insira o código de validação enviado ao seu endereço de e-mail.",
+        "body_row4": "Ainda não recebeu o código? Clique em \"Reenviar Código\".",
         "status_verified_message": "Seu endereço de recuperação está configurado. Você pode atualizá-lo facilmente aqui.",
         "title": "Endereço de Recuperação",
         "validation_code": "Código de Validação",
-        "body_row1": "Insira o endereço de e-mail configurado como endereço de recuperação.",
-        "body_row4": "Ainda não recebeu o código? Clique em \"Reenviar Código\"."
+        "body_row2": "Ao clicar em \"Definir Endereço\", será iniciada a verificação do e-mail. Vamos enviar um e-mail de confirmação para o endereço informado."
     }
 }
