@@ -1,5 +1,210 @@
 {
     "label": {
-        "save": "Shrani"
+        "save": "Shrani",
+        "cancel": "Prekliči",
+        "app_name": "Overitve",
+        "auth_settings": "Nastavitve overitve",
+        "enter_code": "Vnesite kodo",
+        "invalid_code": "Koda ni veljavna",
+        "enter_recovery_address": "Vnesite svoj naslov za obnovitev"
+    },
+    "appDesktop": {
+        "label": "Namizne aplikacije",
+        "new": "Namizne aplikacije | Nova overitev",
+        "title": "Namizne aplikacije",
+        "empty": "Seznam namiznih aplikacij je prazen.",
+        "descriptionHelp": "Opis vam bo pomagal, da si boste zapomnili, kje se uporablja ta overitev za namizne aplikacije.",
+        "success": "Novo geslo za namizno aplikacijo je bilo uspešno omogočeno. Seznam gesel je bil posodobljen."
+    },
+    "appMobile": {
+        "descriptionHelp": "Opis vam bo pomagal, da si boste zapomnili, kje se uporablja ta overitev za mobilne aplikacije.",
+        "empty": "Seznam mobilnih aplikacij je prazen.",
+        "label": "Mobilne aplikacije",
+        "success": "Novo geslo za mobilno aplikacijo je bilo uspešno omogočeno. Seznam gesel je bil posodobljen.",
+        "title": "Mobilne aplikacije",
+        "new": "Mobilne aplikacije | Nova overitev"
+    },
+    "button": {
+        "remove": "odstrani",
+        "resend_code": "ponovno pošlji kodo",
+        "set_recovery_address": "nastavi naslov"
+    },
+    "button_continue": "Nadaljuj",
+    "buttons": {
+        "cancel": "Prekliči",
+        "click": "Kliknite tukaj",
+        "close": "Zapri",
+        "done": "Končano",
+        "next": "Naprej",
+        "yes": "Da"
+    },
+    "changePassword": {
+        "incorrectPassword": "Napačno geslo.",
+        "lowerUpper": "veliko (ABC) in malo (abc) črko",
+        "mustContain": "Novo geslo mora biti dolgo med 6 in 20 znaki in mora vsebovati:",
+        "mustMatch": "Gesli se morata ujemati.",
+        "oldPassword": "Staro geslo",
+        "recentlyUsedPassword": "To geslo je bilo nedavno uporabljeno.",
+        "sameOldPassword": "Geslo ne sme biti enako staremu.",
+        "zimbraPasswordMaxLength": "Največja dovoljena dolžina je {{num}} znakov.",
+        "zimbraPasswordMinLength": "Najmanjša dolžina je {{num}} znakov.",
+        "zimbraPasswordMinPunctuationChars": "Minimalno število posebnih znakov: {{num}}.",
+        "zimbraPasswordMinUpperCaseChars": "Minimalno število velikih črk: {{num}}.",
+        "confirmNew": "Potrdi novo geslo",
+        "formatNotValid": "Geslo mora vsebovati vsaj eno veliko in malo črko, številko ter poseben znak",
+        "instruction": "Ustvarite novo geslo in ga vnesite tudi v potrditveno polje",
+        "passwordChanged": "Vaše geslo je bilo spremenjeno.",
+        "title": "Spremeni geslo",
+        "digitSpecial": "številko (123) in poseben znak (!/@)",
+        "zimbraPasswordLocked": "Spreminjanje gesla je onemogočeno. Obrnite se na skrbnika sistema za dodatno pomoč.",
+        "zimbraPasswordMinLowerCaseChars": "Minimalno število malih črk: {{num}}.",
+        "zimbraPasswordMinNumericChars": "Minimalno število številk: {{num}}."
+    },
+    "common": {
+        "codeCopied": "Koda uspešno kopirana",
+        "copyPassword": "Kopiraj geslo",
+        "copyQrCode": "Kopiraj QR kodo",
+        "copyToken": "kopiraj žeton",
+        "createPassword": "Ustvari geslo",
+        "createToken": "Ustvari žeton",
+        "delete": "Izbriši",
+        "disabled": "Onemogočeno",
+        "enabled": "Omogočeno",
+        "tokenCopied": "Žeton uspešno kopiran",
+        "newAuthentication": "Nova overitev"
+    },
+    "deletePassword": {
+        "title": "Ali ste prepričani, da želite izbrisati to geslo?"
+    },
+    "easAuth": {
+        "empty": "Seznam Exchange ActiveSync je prazen.",
+        "label": "Exchange ActiveSync",
+        "new": "Exchange ActiveSync | Nova overitev",
+        "success": "Novo geslo za Exchange ActiveSync je bilo uspešno omogočeno. Seznam gesel je bil posodobljen.",
+        "helpRemember": "Opis vam bo pomagal, da si boste zapomnili, kje se uporablja ta overitev za Exchange ActiveSync."
+    },
+    "error": {
+        "alreadyInUse": "Že v uporabi. Prosimo, izberite drug opis.",
+        "maximumLength": "Največja dolžina je 20 znakov.",
+        "minimumLength": "Najmanjša dolžina je 6 znakov.",
+        "somethingWrong": "Nekaj je šlo narobe.",
+        "specialChars": "Posebni znaki niso dovoljeni."
+    },
+    "instruction": {
+        "desktop": "Tukaj lahko upravljate geslo za namizno aplikacijo.",
+        "eas": "Tukaj lahko upravljate svoje geslo za Exchange ActiveSync.",
+        "mobile": "Tukaj lahko upravljate geslo za mobilno aplikacijo.",
+        "recoveryaddress": "Tukaj lahko nastavite in spremenite e-poštni naslov za obnovitev gesla.",
+        "changePassword": "Tukaj lahko spremenite svoje geslo.",
+        "otp": "Tukaj lahko upravljate overjanje OTP."
+    },
+    "instructions": {
+        "needInfo": "Potrebujete več informacij?"
+    },
+    "newOtp": {
+        "copy_token": "Uporabite ta žeton za overjanje računa v Desktop Sync.",
+        "label": "Nov OTP",
+        "printPinCodes": "Natisni PIN kode",
+        "warning": "Opozorilo: ta žeton boste lahko kopirali samo enkrat.",
+        "scan_qr": "Skenirajte to QR kodo z eno od podprtih aplikacij.",
+        "save_pin": "Svetujemo, da PIN kode natisnete in shranite, saj jih boste morda potrebovali za overjanje; vsako kodo je mogoče uporabiti le enkrat."
+    },
+    "newPassword": "Novo geslo",
+    "options": "Možnosti",
+    "otpListLabel": {
+        "failed_attempts": "Neuspešni poskusi"
+    },
+    "passwordListLabel": {
+        "created": "Ustvarjeno",
+        "disabled": "Onemogočeno",
+        "enabled": "Omogočeno",
+        "label": "Opis",
+        "service": "Storitev",
+        "status": "Status"
+    },
+    "recoveryAddress": {
+        "body_row3": "Vnesite potrditveno kodo, ki smo jo poslali na vaš e-poštni naslov.",
+        "body_row4": "Še niste prejeli kode? Kliknite \"Ponovno pošlji kodo\".",
+        "title": "Naslov za obnovitev",
+        "validation_code": "Potrditvena koda",
+        "body_row1": "Vnesite e-poštni naslov, ki bo uporabljen kot naslov za obnovitev.",
+        "body_row2": "S klikom na \"Nastavi naslov\" boste sprožili postopek preverjanja e-pošte. Na vneseni naslov bomo poslali potrditveno sporočilo.",
+        "status_verified_message": "Vaš naslov za obnovitev je nastavljen. Tukaj ga lahko enostavno posodobite."
+    },
+    "setNewOtpLabel": {
+        "allowedCharacters": "Dovoljeni so podčrtaji in vezaji.",
+        "empty": "Seznam OTP overitev je prazen.",
+        "inputLabel": "Oznaka OTP",
+        "labelPurpose": "Oznaka vam bo pomagala, da si boste zapomnili, kje se uporablja OTP.",
+        "maxLength": "Največja dolžina oznake je {{maxLength}} znakov.",
+        "new": "OTP Overitev | Nova overitev",
+        "success": "Nova OTP overitev uspešno omogočena.",
+        "title": "OTP Overitev",
+        "prohibitedCharacters": "Ne uporabljajte posebnih znakov, naglašenih črk ali presledkov."
+    },
+    "setNewPassword": {
+        "EASPasswordCopied": "Geslo za EAS kopirano",
+        "authenticationDescription": "Opis overitve",
+        "successfully": "Geslo uspešno ustvarjeno",
+        "warningJustOnce": "Opozorilo: to kodo boste lahko videli samo enkrat",
+        "textDescription": "Uporabite to kodo za overitev računa v storitvah Exchange ActiveSync"
+    },
+    "setNewQRCode": {
+        "successfully": "QR overitev uspešno ustvarjena"
+    },
+    "setNewToken": {
+        "authenticationDescription": "Opis overitve",
+        "successfully": "Žeton uspešno ustvarjen."
+    },
+    "snackbar": {
+        "reset_recovery_address": "Naslov za obnovitev uspešno ponastavljen",
+        "set_recovery_address": "Naslov za obnovitev uspešno nastavljen",
+        "settings_saved": "Nastavitve uspešno shranjene",
+        "validation_code_sent": "Potrditvena koda je bila poslana na e-poštni naslov",
+        "validation_code_resent": "Potrditvena koda je bila ponovno poslana na e-poštni naslov"
+    },
+    "staticOTPCodes": {
+        "print": {
+            "howToUse": "Kako uporabljati PIN kode",
+            "login": "Prijavite se z vašim geslom",
+            "title": "OTP kode",
+            "typePin": "Vnesite eno izmed zgornjih PIN kod",
+            "whenToUse": "To so vaše statične kode. Uporabiti jih boste morali, če ne boste imeli svoje mobilne naprave za overjanje.",
+            "keepInSafePlace": "Svetujemo, da kode shranite na varno mesto.",
+            "useOnce": "Upoštevajte, da lahko vsako kodo uporabite samo enkrat, zato priporočamo, da jo po uporabi izbrišete s seznama. Po uporabi kode boste prejeli obvestilo po e-pošti.",
+            "eraseUsedPin": "Izbriši uporabljeno PIN kodo s seznama"
+        }
+    },
+    "settingsAuth": {
+        "Displayer": {
+            "ResetPassword": "Ponastavi geslo",
+            "CreateANewPasswordToResetIt": "Ustvari novo geslo za ponastavitev.",
+            "WarningSessionRefresh": "S klikom na \"Potrdi\" boste prekinili trenutno sejo, kar zahteva ponovno prijavo. Pred začetkom postopka zaključite vse ostale naloge."
+        },
+        "Option": {
+            "ResetPassword": "Ponastavi geslo"
+        },
+        "displayerInputField": {
+            "NewPassword": "Novo geslo",
+            "ConfirmPassword": "Potrdi geslo"
+        },
+        "displayerSecondaryButton": {
+            "Cancel": "Prekliči"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "Tukaj lahko ponastavite svoje geslo."
+        },
+        "displayerPrimaryButton": {
+            "Continue": "Potrdi"
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "Geslo uspešno ponastavljeno"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "Gesli se ne ujemata"
+        }
+    },
+    "deleteOtp": {
+        "description": "Vse naprave, ki uporabljajo to geslo, bodo odklopljene in se ne bodo mogle overiti, dokler ne zagotovite novih poverilnic."
     }
 }
