@@ -71,7 +71,8 @@
         "disabled": "Onemogočeno",
         "enabled": "Omogočeno",
         "tokenCopied": "Žeton uspešno kopiran",
-        "newAuthentication": "Nova overitev"
+        "newAuthentication": "Nova overitev",
+        "passwordCopied": "\"\""
     },
     "deletePassword": {
         "title": "Ali ste prepričani, da želite izbrisati to geslo?"
@@ -161,7 +162,8 @@
         "set_recovery_address": "Naslov za obnovitev uspešno nastavljen",
         "settings_saved": "Nastavitve uspešno shranjene",
         "validation_code_sent": "Potrditvena koda je bila poslana na e-poštni naslov",
-        "validation_code_resent": "Potrditvena koda je bila ponovno poslana na e-poštni naslov"
+        "validation_code_resent": "Potrditvena koda je bila ponovno poslana na e-poštni naslov",
+        "error": "\"\""
     },
     "staticOTPCodes": {
         "print": {
