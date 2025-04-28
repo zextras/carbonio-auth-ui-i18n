@@ -107,7 +107,7 @@
         "copyToken": "Копировать токен"
     },
     "changePassword": {
-        "zimbraPasswordMinNumericChars": "Минимальное количество цифр: {{num}.",
+        "zimbraPasswordMinNumericChars": "Минимальное количество цифр {{num}}.",
         "zimbraPasswordMinLength": "Минимальная длина - {{num}} символов.",
         "zimbraPasswordMaxLength": "Максимальная длина - {{num}} символов.",
         "title": "Изменить пароль",
@@ -122,7 +122,7 @@
         "confirmNew": "Подтвердить новый пароль",
         "zimbraPasswordMinUpperCaseChars": "Минимальное количество прописных символов: {{num}}.",
         "zimbraPasswordMinPunctuationChars": "Минимальное количество специальных символов: {{num}}.",
-        "zimbraPasswordMinLowerCaseChars": "Минимальное количество строчных символов: {{число}}.",
+        "zimbraPasswordMinLowerCaseChars": "Минимальное количество строчных символов {{num}}",
         "zimbraPasswordLocked": "Изменение пароля отключено. Обратитесь к системному администратору для получения дополнительной поддержки.",
         "mustContain": "Новый пароль должен содержать от 6 до 20 символов и должен содержать:",
         "instruction": "Пожалуйста создайте новый пароль и введите его в поле подтверждения",
