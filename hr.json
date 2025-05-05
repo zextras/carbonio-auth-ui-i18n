@@ -14,5 +14,17 @@
     "passwordListLabel": {
         "label": "Opis",
         "status": "Status"
+    },
+    "appDesktop": {
+        "descriptionHelp": "Opis će vam pomoći da se sjetite gdje se koristi ova autentifikacija za desktop aplikacije",
+        "label": "Desktop aplikacije",
+        "new": "Desktop aplikacije | Nova autentifikacija",
+        "title": "Desktop aplikacije",
+        "empty": "Popis desktop aplikacija je prazan.",
+        "success": "Lozinka za novu desktop aplikaciju je uspješno omogućena. Lista lozinki je ažurirana."
+    },
+    "appMobile": {
+        "descriptionHelp": "Opis će vam pomoći da se sjetite gdje se koristi ova autentifikacija za mobilne aplikacije.",
+        "empty": "Lista mobilnih aplikacija je prazna."
     }
 }
