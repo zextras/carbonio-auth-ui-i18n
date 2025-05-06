@@ -194,7 +194,8 @@
     },
     "button": {
         "set_recovery_address": "встановити адресу",
-        "resend_code": "надіслати код повторно"
+        "resend_code": "надіслати код повторно",
+        "remove": "видалити"
     },
     "button_continue": "Продовжити",
     "recoveryAddress": {
