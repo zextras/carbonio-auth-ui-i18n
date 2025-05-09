@@ -2,7 +2,7 @@
     "staticOTPCodes": {
         "print": {
             "whenToUse": "Voici vos codes statiques. Vous devrez utiliser l'un de ces codes au cas où vous ne disposeriez pas de votre appareil mobile pour procéder à l'authentification.",
-            "useOnce": "Gardez à l'esprit que chaque code ne peut être utilisé qu'une seule fois, nous vous suggérons donc de l'effacer de la liste une fois qu'il a été utilisé. Chaque fois que vous utiliserez un code, vous recevrez un e-mail de notification.",
+            "useOnce": "Gardez à l'esprit que chaque code ne peut être utilisé qu'une seule fois, nous vous suggérons donc de l'effacer de la liste une fois qu'il a été utilisé. Chaque fois que vous utiliserez un code, vous recevrez un email de notification.",
             "typePin": "Insérez l'un des codes PIN énumérés ci-dessus",
             "title": "Codes OTP",
             "login": "Connectez-vous en utilisant votre mot de passe",
