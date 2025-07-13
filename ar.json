@@ -147,7 +147,8 @@
         "settings_saved": "تم حفظ الإعدادات بنجاح",
         "reset_recovery_address": "تم إعادة تعيين عنوان الاسترداد بنجاح",
         "validation_code_resent": "تم إعادة إرسال رمز التحقق إلى عنوان البريد الإلكتروني",
-        "validation_code_sent": "تم إرسال رمز التحقق إلى عنوان البريد الإلكتروني"
+        "validation_code_sent": "تم إرسال رمز التحقق إلى عنوان البريد الإلكتروني",
+        "error": ""
     },
     "staticOTPCodes": {
         "print": {
