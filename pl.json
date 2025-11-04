@@ -8,7 +8,7 @@
         "descriptionHelp": "Opis pomoże Ci zapamiętać gdzie używane jest to uwierzytelnienie aplikacji mobilnych."
     },
     "newOtp": {
-        "label": "Nowe hasło OTP",
+        "label": "Nowe hasło jednorazowe",
         "printPinCodes": "Wydrukuj kody PIN",
         "save_pin": "Sugerujemy wydrukowanie i trzymanie kodów PIN przy sobie, ponieważ mogą być one potrzebne do weryfikacji; każdego kodu PIN można użyć tylko raz.",
         "scan_qr": "Zeskanuj ten kod QR przez jedną ze wspieranych aplikacji.",
@@ -113,14 +113,14 @@
     },
     "setNewOtpLabel": {
         "allowedCharacters": "Podkreślenie i myślniki są dozwolone.",
-        "empty": "Lista uwierzytelnień OTP jest pusta.",
-        "inputLabel": "Określenie hasła OTP",
-        "labelPurpose": "To określenie pomoże Ci zapamiętać gdzie hasło OTP jest używane.",
+        "empty": "Lista uwierzytelnień hasła jednorazowego jest pusta.",
+        "inputLabel": "Określenie hasła jednorazowego",
+        "labelPurpose": "To określenie pomoże Ci zapamiętać gdzie hasło jednorazowe jest używane.",
         "maxLength": "Max. długość określenie wynosi {{maxLength}} znaków.",
-        "new": "Uwierzytelnianie OTP | Nowe uwierzytelnienie",
+        "new": "Uwierzytelnianie hasła jednorazowego | Nowe uwierzytelnienie",
         "prohibitedCharacters": "Nie używaj żadnych znaków specjalnych, znaków diakrytycznych ani spacji.",
-        "success": "Nowe uwierzytelnienie OTP zostało włączone.",
-        "title": "Uwierzytelnianie OTP"
+        "success": "Nowe uwierzytelnienie hasła jednorazowego zostało włączone.",
+        "title": "Uwierzytelnianie hasła jednorazowego"
     },
     "setNewPassword": {
         "EASPasswordCopied": "Hasło EAS zostało skopiowane",
@@ -142,7 +142,7 @@
             "howToUse": "Jak używać swoich PIN'ów",
             "keepInSafePlace": "Zalecamy przechowywanie kodów w bezpiecznym miejscu.",
             "login": "Zaloguj się używając swojego hasła",
-            "title": "Kody hasła OTP",
+            "title": "Kody hasła jednorazowego",
             "typePin": "Wprowadź jeden z kodów PIN podanych powyżej",
             "useOnce": "Pamiętaj, że każdy kod może zostać użyty tylko raz, sugerujemy więc usunięcie go z listy po jego użyciu. Zawsze kiedy użyjesz kodu, otrzymasz powiadomienie e-mail.",
             "whenToUse": "To są Twoje kody statyczne. Będziesz musiał użyć jednego z tych kodów jeśli podczas uwierzytelniania nie będziesz miał pod ręką urządzenia mobilnego."
