@@ -21,7 +21,9 @@
         "close": "Zamknij",
         "done": "Gotowe",
         "next": "Następne",
-        "yes": "Tak"
+        "yes": "Tak",
+        "skipForNow": "POMIŃ",
+        "configure2FA": "SKONFIGURUJ"
     },
     "changePassword": {
         "confirmNew": "Potwierdź nowe hasło",
@@ -206,5 +208,12 @@
         "set_recovery_address": "ustaw adres",
         "resend_code": "wyślij kod ponownie"
     },
-    "button_continue": "Kontynuuj"
+    "button_continue": "Kontynuuj",
+    "modal": {
+        "2fa": {
+            "introTitle": "Wprowadziliśmy uwierzytelnianie dwuetapowe, aby ulepszyć bezpieczeństwo Twojego konta.",
+            "configureTheTwoFactorAuthentication": "Skonfiguruj uwierzytelnianie dwuetapowe w ustawieniach.",
+            "youCanSkipThisConfiguration": "Jeśli chcesz, możesz pominąć konfigurację."
+        }
+    }
 }
