@@ -27,7 +27,9 @@
         "close": "Close",
         "done": "Done",
         "next": "Next",
-        "yes": "Yes"
+        "yes": "Yes",
+        "skipForNow": "SKIP FOR NOW",
+        "configure2FA": "CONFIGURE THE 2FA"
     },
     "changePassword": {
         "confirmNew": "Confirm New Password",
@@ -207,6 +209,13 @@
         },
         "ErrorDescriptionConfirmInput": {
             "PasswordDoesNotMatch": "Password does not match"
+        }
+    },
+    "modal": {
+        "2fa": {
+            "introTitle": "We introduced the Two-Factor Authentication to improve the security of your account.",
+            "configureTheTwoFactorAuthentication": "Configure the Two-Factor Authentication (2FA) service in the authentication section of the workspace settings.",
+            "youCanSkipThisConfiguration": "If you need to, you can skip this configuration."
         }
     }
 }
