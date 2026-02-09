@@ -134,7 +134,9 @@
         "done": "Fine",
         "close": "Chiudi",
         "click": "Clicca qui",
-        "cancel": "Annulla"
+        "cancel": "Annulla",
+        "skipForNow": "SALTA",
+        "configure2FA": "CONFIGURA LA 2FA"
     },
     "appMobile": {
         "title": "App Mobile",
@@ -206,5 +208,12 @@
         "title": "Indirizzo di recupero",
         "validation_code": "Codice di convalida"
     },
-    "button_continue": "Continua"
+    "button_continue": "Continua",
+    "modal": {
+        "2fa": {
+            "introTitle": "Abbiamo introdotto l'autenticazione a due fattori per migliorare la sicurezza del tuo account.",
+            "configureTheTwoFactorAuthentication": "Configura il servizio di autenticazione a due fattori (2FA) nella sezione autenticazione delle impostazioni del tuo workspace.",
+            "youCanSkipThisConfiguration": "Se necessario, è possibile saltare questa configurazione."
+        }
+    }
 }
