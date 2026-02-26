@@ -134,7 +134,9 @@
         "done": "Terminé",
         "close": "Fermer",
         "click": "Cliquer ici",
-        "cancel": "Annuler"
+        "cancel": "Annuler",
+        "skipForNow": "PASSER POUR L'INSTANT",
+        "configure2FA": "CONFIGURER LA 2FA"
     },
     "appMobile": {
         "title": "Apps mobiles",
@@ -206,5 +208,12 @@
         "remove": "enlever",
         "resend_code": "renvoyer le code"
     },
-    "button_continue": "Continuer"
+    "button_continue": "Continuer",
+    "modal": {
+        "2fa": {
+            "introTitle": "Nous avons mis en place l'authentification à deux facteurs afin d'améliorer la sécurité de votre compte.",
+            "configureTheTwoFactorAuthentication": "Configurez le service d'authentification à deux facteurs (2FA) dans la section authentification des paramètres de l'espace de travail.",
+            "youCanSkipThisConfiguration": "Si nécessaire, vous pouvez ignorer cette configuration."
+        }
+    }
 }
