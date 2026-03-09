@@ -11,7 +11,12 @@
     },
     "changePassword": {
         "instruction": "Introduïu una contrasenya nova i torneu a introduir-la al camp de confirmació.",
-        "title": "Canvia la contrasenya"
+        "title": "Canvia la contrasenya",
+        "confirmNew": "Confirmeu la contrasenya:",
+        "mustMatch": "Les contrasenyes no coincideixen!",
+        "oldPassword": "Contrasenya",
+        "zimbraPasswordMaxLength": "La longitud màxima de la contrasenya és de {0} caràcters",
+        "zimbraPasswordMinLength": "La longitud mínima de la contrasenya és de {0} caràcters"
     },
     "common": {
         "delete": "Suprimeix",
@@ -25,7 +30,9 @@
     "label": {
         "cancel": "Cancel·la",
         "enter_code": "Introduïu el codi",
-        "save": "Desa"
+        "save": "Desa",
+        "app_name": "Autor",
+        "auth_settings": "Configuració GAL"
     },
     "newPassword": "Contrasenya nova",
     "options": "Opcions",
@@ -50,6 +57,23 @@
         },
         "displayerPrimaryButton": {
             "Continue": "Confirma"
+        },
+        "Displayer": {
+            "ResetPassword": "Repetir contrasenya"
+        },
+        "Option": {
+            "ResetPassword": "Repetir contrasenya"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "Les contrasenyes no coincideixen!"
         }
+    },
+    "error": {
+        "maximumLength": "La longitud màxima de la contrasenya és de {0} caràcters",
+        "minimumLength": "La longitud mínima de la contrasenya és de {0} caràcters",
+        "somethingWrong": "Alguna cosa ha anat malament"
+    },
+    "setNewOtpLabel": {
+        "title": "Autenticació"
     }
 }
