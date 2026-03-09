@@ -7,7 +7,9 @@
         "close": "Tancar",
         "done": "Fet",
         "next": "Següent",
-        "yes": "Sí"
+        "yes": "Sí",
+        "skipForNow": "OMPLIR MÉS TARD",
+        "configure2FA": "CONFIGURAR EL 2FA"
     },
     "changePassword": {
         "instruction": "Introduïu una contrasenya nova i torneu a introduir-la al camp de confirmació.",
@@ -66,6 +68,12 @@
         },
         "ErrorDescriptionConfirmInput": {
             "PasswordDoesNotMatch": "Les contrasenyes no coincideixen!"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "Aquí pots restablir la teva contrasenya."
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "Contrasenya restablerta amb èxit"
         }
     },
     "error": {
@@ -75,5 +83,12 @@
     },
     "setNewOtpLabel": {
         "title": "Autenticació"
+    },
+    "modal": {
+        "2fa": {
+            "introTitle": "Vam introduir l'Autenticació de Dues Etapes per millorar la seguretat del teu compte.",
+            "configureTheTwoFactorAuthentication": "Configura el servei d'Autenticació de Dues Etapes (2FA) a la secció d'autenticació de la configuració de l'espai de treball.",
+            "youCanSkipThisConfiguration": "Si cal, pots saltar-te aquesta configuració."
+        }
     }
 }
