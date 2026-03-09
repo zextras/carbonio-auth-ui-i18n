@@ -1,1 +1,55 @@
-{}
+{
+    "button": {
+        "remove": "Elimina"
+    },
+    "buttons": {
+        "cancel": "Cancel·la",
+        "close": "Tancar",
+        "done": "Fet",
+        "next": "Següent",
+        "yes": "Sí"
+    },
+    "changePassword": {
+        "instruction": "Introduïu una contrasenya nova i torneu a introduir-la al camp de confirmació.",
+        "title": "Canvia la contrasenya"
+    },
+    "common": {
+        "delete": "Suprimeix",
+        "disabled": "Inhabilitat",
+        "enabled": "Habilitat",
+        "newAuthentication": "Habilita l’autenticació"
+    },
+    "deletePassword": {
+        "title": "Esteu segur de voler esborrar aquesta diapositiva?"
+    },
+    "label": {
+        "cancel": "Cancel·la",
+        "enter_code": "Introduïu el codi",
+        "save": "Desa"
+    },
+    "newPassword": "Contrasenya nova",
+    "options": "Opcions",
+    "passwordListLabel": {
+        "created": "Creat",
+        "disabled": "Inhabilitat",
+        "enabled": "Habilitat",
+        "label": "Descripció",
+        "service": "Servei",
+        "status": "Estat"
+    },
+    "recoveryAddress": {
+        "title": "Adreça del destinatari"
+    },
+    "settingsAuth": {
+        "displayerInputField": {
+            "NewPassword": "Contrasenya nova",
+            "ConfirmPassword": "Confirmeu la contrasenya"
+        },
+        "displayerSecondaryButton": {
+            "Cancel": "Cancel·la"
+        },
+        "displayerPrimaryButton": {
+            "Continue": "Confirma"
+        }
+    }
+}
