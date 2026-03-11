@@ -57,7 +57,10 @@
         "save": "सेव करें",
         "cancel": "कैंसल करें",
         "app_name": "ऑथ",
-        "auth_settings": "ऑथ सेटिंग्स"
+        "auth_settings": "ऑथ सेटिंग्स",
+        "enter_code": "कोड दर्ज करें",
+        "enter_recovery_address": "अपना पुनर्प्राप्ति पता दर्ज करें",
+        "invalid_code": "कोड अमान्य है"
     },
     "instructions": {
         "needInfo": "क्या आपको और जानकारी चाहिए?"
@@ -67,7 +70,8 @@
         "mobile": "यहाँ आप मोबाइल एप पासवर्ड मैनेज कर सकते हैं।",
         "eas": "यहाँ आप अपना Exchange ActiveSync पासवर्ड इस्तेमाल कर सकते हैं।",
         "changePassword": "यहाँ आप अपना पासवर्ड बदल सकते हैं।",
-        "desktop": "यहां आप डेस्कटॉप एप पासवर्ड मैनेज कर सकते हैं।"
+        "desktop": "यहां आप डेस्कटॉप एप पासवर्ड मैनेज कर सकते हैं।",
+        "recoveryaddress": "यहाँ आप अपना मेल रिकवरी पासवर्ड सेट कर सकते हैं और बदल सकते हैं।"
     },
     "error": {
         "specialChars": "स्पेशल कैरक्टर की अनुमति नहीं है।",
@@ -130,7 +134,9 @@
         "done": "हो गया",
         "close": "बंद करें",
         "click": "यहाँ क्लिक करें",
-        "cancel": "कैंसल करें"
+        "cancel": "कैंसल करें",
+        "skipForNow": "फिलहाल छोड़ दें",
+        "configure2FA": "2FA कॉन्फ़िगर करें"
     },
     "appMobile": {
         "title": "मोबाइल एप",
@@ -141,7 +147,11 @@
         "descriptionHelp": "विवरण से आपको यह याद रखने में मदद मिलेग कि यह Mobile Apps ऑथेंटिकेशन कहाँ इस्तेमाल हो रहा है।"
     },
     "snackbar": {
-        "settings_saved": "सेटिंग्स सेव हो गईं"
+        "settings_saved": "सेटिंग्स सेव हो गईं",
+        "reset_recovery_address": "पुनर्प्राप्ति पता सफलतापूर्वक रीसेट हो गया है",
+        "set_recovery_address": "पुनर्प्राप्ति पता सफलतापूर्वक सेट किया गया",
+        "validation_code_resent": "प्रमाणीकरण कोड मेल पते पर फिर से भेज दिया गया है",
+        "validation_code_sent": "पुष्टिकरण कोड मेल पते पर भेज दिया गया है"
     },
     "setNewToken": {
         "authenticationDescription": "ऑथेंटिकेशन विवरण",
@@ -160,5 +170,50 @@
         "resend_code": "कोड पुनः भेजें",
         "set_recovery_address": "पता सेट करें"
     },
-    "button_continue": "जारी रखें"
+    "button_continue": "जारी रखें",
+    "recoveryAddress": {
+        "body_row1": "पुनर्प्राप्ति पते के रूप में सेट करने के लिए एक ईमेल पता दर्ज करें।",
+        "body_row2": "\"सेट एड्रेस\" पर क्लिक करने से ईमेल सत्यापन शुरू हो जाएगा। हम आपको प्रदान किए गए पते पर एक पुष्टिकरण ईमेल भेजेंगे।",
+        "body_row3": "हमारे द्वारा आपके ईमेल पते पर भेजे गए सत्यापन कोड दर्ज करें।",
+        "body_row4": "कोड अभी तक नहीं मिला? \"कोड फिर से भेजें\" पर क्लिक करें।",
+        "status_verified_message": "आपका रिकवरी पता सेट हो गया है। आप इसे यहां से आसानी से अपडेट कर सकते हैं।",
+        "title": "पुनर्प्राप्ति पता",
+        "validation_code": "प्रमाणीकरण कोड"
+    },
+    "settingsAuth": {
+        "Displayer": {
+            "ResetPassword": "पासवर्ड पुनः सेट करें",
+            "CreateANewPasswordToResetIt": "इसे पुनः सेट करने के लिए एक नया पासवर्ड बनाएं",
+            "WarningSessionRefresh": "\"पुष्टि\" पर क्लिक करने से वर्तमान सत्र अमान्य हो जाएगा और एक नए लॉगिन की आवश्यकता होगी। कृपया यह प्रक्रिया शुरू करने से पहले हर अन्य काम पूरा कर लें।"
+        },
+        "Option": {
+            "ResetPassword": "पासवर्ड पुनः सेट करें"
+        },
+        "displayerInputField": {
+            "NewPassword": "नया पासवर्ड",
+            "ConfirmPassword": "पासवर्ड की पुष्टि करें"
+        },
+        "displayerSecondaryButton": {
+            "Cancel": "रद्द करें"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "यहाँ आप अपना पासवर्ड रीसेट कर सकते हैं।"
+        },
+        "displayerPrimaryButton": {
+            "Continue": "पुष्टि करें"
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "पासवर्ड सफलतापूर्वक रीसेट किया गया"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "पासवर्ड मेल नहीं खाता"
+        }
+    },
+    "modal": {
+        "2fa": {
+            "introTitle": "हमने आपके खाते की सुरक्षा में सुधार करने के लिए दो-कारक प्रमाणीकरण शुरू किया है।",
+            "configureTheTwoFactorAuthentication": "कार्यक्षेत्र सेटिंग्स के प्रमाणीकरण अनुभाग में दो-कारक प्रमाणीकरण (2FA) सेवा को कॉन्फ़िगर करें।",
+            "youCanSkipThisConfiguration": "यदि आपको आवश्यकता है, तो आप इस कॉन्फ़िगरेशन को छोड़ सकते हैं।"
+        }
+    }
 }
