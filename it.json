@@ -56,8 +56,8 @@
     "label": {
         "save": "Salva",
         "cancel": "Elimina",
-        "app_name": "Auth",
-        "auth_settings": "Impostazioni Auth",
+        "app_name": "Autenticazione",
+        "auth_settings": "Impostazioni di Autenticazione",
         "invalid_code": "Codice non valido",
         "enter_code": "Inserisci il codice",
         "enter_recovery_address": "Inserisci il tuo indirizzo di recupero"
