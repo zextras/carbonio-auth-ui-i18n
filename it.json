@@ -69,7 +69,7 @@
         "otp": "Qui puoi gestire l'Autenticazione OTP.",
         "mobile": "Qui puoi gestire la password dell'applicazione.",
         "eas": "Qui puoi gestire la tua password Exchange ActiveSync.",
-        "changePassword": "Puoi cambiare la tua password da qui.",
+        "changePassword": "Qui puoi cambiare la tua password.<br>Per ulteriori informazioni, contatta il tuo amministratore.",
         "desktop": "Qui puoi gestire la password dell'applicazione desktop.",
         "recoveryaddress": "Qui è possibile impostare e modificare la password di recupero della posta."
     },
