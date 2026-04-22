@@ -88,7 +88,7 @@
         "specialChars": "Special characters are not allowed."
     },
     "instruction": {
-        "changePassword": "Here you can change your password.",
+        "changePassword": "Here you can change your password.<br>For more information, contact your administrator.",
         "desktop": "Here you can manage Desktop App password.",
         "eas": "Here you can manage your Exchange ActiveSync password.",
         "mobile": "Here you can manage Mobile App password.",
