@@ -81,7 +81,7 @@
         "specialChars": "Znaki specjalne nie są dozwolone."
     },
     "instruction": {
-        "changePassword": "Tutaj możesz zmienić swoje hasło.",
+        "changePassword": "Tutaj możesz zmienić swoje hasło.<br>Aby uzyskać więcej informacji, skontaktuj się ze swoim administratorem.",
         "eas": "Tutaj możesz zarządzać swoim hasłem Exchange ActiveSync.",
         "mobile": "Tutaj możesz zarządzać hasłem aplikacji mobilnej.",
         "otp": "Tutaj możesz zarządzać uwierzytelnianiem hasłem jednorazowym.",
