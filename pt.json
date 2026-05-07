@@ -69,7 +69,7 @@
         "otp": "Aqui você pode gerenciar sua Autenticação de OTP.",
         "mobile": "Aqui você pode gerenciar sua senha do App Móvel.",
         "eas": "Aqui você pode gerenciar sua senha do Exchange ActiveSync.",
-        "changePassword": "Aqui você pode alterar sua senha.",
+        "changePassword": "Aqui você pode alterar sua senha.<br>Para obter mais informações, entre em contato com o administrador.",
         "desktop": "Aqui você pode gerenciar a senha do aplicativo de desktop.",
         "recoveryaddress": "Aqui você pode definir e alterar seu e-mail de recuperação de senha."
     },
@@ -134,7 +134,9 @@
         "done": "Concluído",
         "close": "Fechar",
         "click": "Clique aqui",
-        "cancel": "Cancelar"
+        "cancel": "Cancelar",
+        "skipForNow": "PULAR POR ENQUANTO",
+        "configure2FA": "CONFIGURAR 2FA"
     },
     "appMobile": {
         "title": "App Móvel",
@@ -206,5 +208,12 @@
         "title": "Endereço de Recuperação",
         "validation_code": "Código de Validação",
         "body_row2": "Ao clicar em \"Definir Endereço\", será iniciada a verificação do e-mail. Vamos enviar um e-mail de confirmação para o endereço informado."
+    },
+    "modal": {
+        "2fa": {
+            "introTitle": "Implementamos a autenticação de dois fatores (2FA) para melhorar a segurança da sua conta.",
+            "configureTheTwoFactorAuthentication": "Configure o serviço de autenticação de dois fatores (2FA) na seção de autenticação das configurações do workspace.",
+            "youCanSkipThisConfiguration": "Se necessário, você pode pular esta configuração."
+        }
     }
 }
