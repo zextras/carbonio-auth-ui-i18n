@@ -78,7 +78,8 @@
         "somethingWrong": "Qualcosa è andato storto.",
         "minimumLength": "La lunghezza minima è 6 caratteri.",
         "maximumLength": "Lunghezza massima 20 caratteri.",
-        "alreadyInUse": "Già in uso. Scegli un'altra descrizione."
+        "alreadyInUse": "Già in uso. Scegli un'altra descrizione.",
+        "passwordLocked": "Il cambio password è attualmente disabilitato. Per favore prova a contattare il tuo amministratore"
     },
     "easAuth": {
         "success": "Nuova password Exchange ActiveSync abilitata correttamente. La lista delle password è stata aggiornata.",
