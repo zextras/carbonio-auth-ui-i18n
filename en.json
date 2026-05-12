@@ -85,7 +85,8 @@
         "maximumLength": "Maximum length is 20 characters.",
         "minimumLength": "Minimum length is 6 characters.",
         "somethingWrong": "Something went wrong.",
-        "specialChars": "Special characters are not allowed."
+        "specialChars": "Special characters are not allowed.",
+        "passwordLocked": "Change password is currently disabled. Please try contacting your administrator"
     },
     "instruction": {
         "changePassword": "Here you can change your password.<br>For more information, contact your administrator.",
