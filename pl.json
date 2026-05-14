@@ -78,7 +78,8 @@
         "maximumLength": "Max. długość to 20 znaków.",
         "minimumLength": "Min. długość to 6 znaków.",
         "somethingWrong": "Coś poszło nie tak.",
-        "specialChars": "Znaki specjalne nie są dozwolone."
+        "specialChars": "Znaki specjalne nie są dozwolone.",
+        "passwordLocked": "Zmiana hasła jest aktualnie wyłączona. Spróbuj skontaktować się z Twoim administratorem"
     },
     "instruction": {
         "changePassword": "Tutaj możesz zmienić swoje hasło.<br>Aby uzyskać więcej informacji, skontaktuj się ze swoim administratorem.",
