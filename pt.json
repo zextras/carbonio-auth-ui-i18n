@@ -78,7 +78,8 @@
         "somethingWrong": "Algo deu errado.",
         "minimumLength": "O tamanho mínimo é de 6 caracteres.",
         "maximumLength": "Comprimento máximo de 20 caracteres.",
-        "alreadyInUse": "Já em uso. Escolha outra descrição."
+        "alreadyInUse": "Já em uso. Escolha outra descrição.",
+        "passwordLocked": "A alteração de senha está desativada no momento. Por favor, tente entrar em contato com seu administrador"
     },
     "easAuth": {
         "success": "Nova senha do Exchange ActiveSync ativada com sucesso. A lista de senhas foi atualizada.",
