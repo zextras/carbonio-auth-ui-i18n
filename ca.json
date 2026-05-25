@@ -90,5 +90,8 @@
             "configureTheTwoFactorAuthentication": "Configura el servei d'Autenticació de Dues Etapes (2FA) a la secció d'autenticació de la configuració de l'espai de treball.",
             "youCanSkipThisConfiguration": "Si cal, pots saltar-te aquesta configuració."
         }
+    },
+    "appDesktop": {
+        "descriptionHelp": "La descripció us ajudarà a recordar on es fa servir aquesta autenticació d'aplicacions d'escriptori"
     }
 }
