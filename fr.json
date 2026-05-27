@@ -69,7 +69,7 @@
         "otp": "Ici vous pouvez gérer l'authentification OTP.",
         "mobile": "Ici, vous pouvez gérer le mot de passe de l'application mobile.",
         "eas": "Ici, vous pouvez gérer votre mot de passe Exchange ActiveSync.",
-        "changePassword": "Ici, vous pouvez changer votre mot de passe.",
+        "changePassword": "Vous pouvez changer votre mot de passe ici.<br>Pour plus d'information, contactez votre administrateur.",
         "desktop": "Vous pouvez gérer les mots de passe des Applications de Bureau ici.",
         "recoveryaddress": "Ici vous pouvez définir et changer votre email de récupération de mot de passe."
     },
@@ -78,7 +78,8 @@
         "somethingWrong": "Quelque chose s'est mal passé.",
         "minimumLength": "La longueur minimale est de 6 caractères.",
         "maximumLength": "La longueur maximale est de 20 caractères.",
-        "alreadyInUse": "Déjà utilisé. Veuillez choisir une autre description."
+        "alreadyInUse": "Déjà utilisé. Veuillez choisir une autre description.",
+        "passwordLocked": "Le changement de mot de passe est actuellement désactivé. Veuillez contacter votre administrateur."
     },
     "easAuth": {
         "success": "Nouveau mot de passe Exchange ActiveSync activé avec succès. La liste des mots de passe a été mise à jour.",
