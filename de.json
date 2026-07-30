@@ -156,7 +156,9 @@
         "new": "Desktop-Apps | Neue Authentifizierung"
     },
     "button": {
-        "remove": "entfernen"
+        "remove": "entfernen",
+        "resend_code": "Code erneut senden",
+        "set_recovery_address": "Adresse setzen"
     },
     "button_continue": "Fortfahren"
 }
