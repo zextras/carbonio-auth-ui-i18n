@@ -154,5 +154,9 @@
         "success": "Neues Desktop-App-Passwort erfolgreich aktiviert. Die Passwortliste wurde aktualisiert.",
         "title": "Desktop-Apps",
         "new": "Desktop-Apps | Neue Authentifizierung"
-    }
+    },
+    "button": {
+        "remove": "entfernen"
+    },
+    "button_continue": "Fortfahren"
 }
