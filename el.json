@@ -201,7 +201,7 @@
             "Continue": "Επιβεβαίωση"
         },
         "Snackbar": {
-            "PasswordSuccessfullyReset": "Ο κωδικός πρόσβασης επαναρυθμίστηκε με επιτυχία"
+            "PasswordSuccessfullyReset": "Επιτυχής επαναφορά του κωδικού πρόσβασης"
         },
         "ErrorDescriptionConfirmInput": {
             "PasswordDoesNotMatch": "Ο κωδικός πρόσβασης δεν ταιριάζει"
