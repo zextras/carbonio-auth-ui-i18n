@@ -205,6 +205,9 @@
         },
         "ErrorDescriptionConfirmInput": {
             "PasswordDoesNotMatch": "Ο κωδικός πρόσβασης δεν ταιριάζει"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "Εδώ μπορείτε να επαναφέρετε τον κωδικό πρόσβασής σας."
         }
     },
     "modal": {
