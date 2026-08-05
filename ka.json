@@ -1,8 +1,44 @@
 {
     "common": {
-        "passwordCopied": " "
+        "passwordCopied": " ",
+        "delete": "წაშლა",
+        "disabled": "გათიშულია",
+        "enabled": "ჩართულია"
     },
     "snackbar": {
         "error": " "
+    },
+    "button": {
+        "remove": "წაშლა"
+    },
+    "button_continue": "გაგრძელება",
+    "buttons": {
+        "cancel": "გაუქმება",
+        "close": "დახურვა",
+        "done": "მზადაა",
+        "next": "შემდეგი",
+        "yes": "დიახ"
+    },
+    "label": {
+        "app_name": "ავთენტიკაცია",
+        "cancel": "გაუქმება",
+        "save": "შენახვა"
+    },
+    "options": "მორგება",
+    "passwordListLabel": {
+        "created": "შეიქმნა",
+        "disabled": "გათიშულია",
+        "enabled": "ჩართულია",
+        "label": "აღწერა",
+        "service": "სერვისი",
+        "status": "სტატუსი"
+    },
+    "settingsAuth": {
+        "displayerSecondaryButton": {
+            "Cancel": "გაუქმება"
+        },
+        "displayerPrimaryButton": {
+            "Continue": "დასტური"
+        }
     }
 }
