@@ -3,13 +3,20 @@
         "passwordCopied": " ",
         "delete": "წაშლა",
         "disabled": "გათიშულია",
-        "enabled": "ჩართულია"
+        "enabled": "ჩართულია",
+        "copyPassword": "პაროლის კოპირება",
+        "copyToken": "ტოკენის კოპირება",
+        "createPassword": "პაროლის შექმნა",
+        "createToken": "ტოკენის შექმნა",
+        "newAuthentication": "ახალი ავთენტიკაცია"
     },
     "snackbar": {
         "error": " "
     },
     "button": {
-        "remove": "წაშლა"
+        "remove": "წაშლა",
+        "resend_code": "კოდის თავიდან გაგზავნა",
+        "set_recovery_address": "მისამართის დაყენება"
     },
     "button_continue": "გაგრძელება",
     "buttons": {
@@ -17,12 +24,15 @@
         "close": "დახურვა",
         "done": "მზადაა",
         "next": "შემდეგი",
-        "yes": "დიახ"
+        "yes": "დიახ",
+        "click": "დააწკაპუნეთ აქ"
     },
     "label": {
         "app_name": "ავთენტიკაცია",
         "cancel": "გაუქმება",
-        "save": "შენახვა"
+        "save": "შენახვა",
+        "auth_settings": "ავთენტიკაციის მორგება",
+        "enter_code": "შეიყვანეთ კოდი"
     },
     "options": "მორგება",
     "passwordListLabel": {
@@ -39,6 +49,58 @@
         },
         "displayerPrimaryButton": {
             "Continue": "დასტური"
+        },
+        "Displayer": {
+            "ResetPassword": "პაროლის ჩამოყრა"
+        },
+        "Option": {
+            "ResetPassword": "პაროლის ჩამოყრა"
+        },
+        "displayerInputField": {
+            "NewPassword": "ახალი პაროლი",
+            "ConfirmPassword": "პაროლის დადასტურება"
+        }
+    },
+    "appDesktop": {
+        "label": "კომპიუტერის აპლიკაციები",
+        "title": "კომპიუტერის პროგრამები"
+    },
+    "appMobile": {
+        "label": "მობილური აპლიკაციები",
+        "title": "მობილური აპლიკაციები"
+    },
+    "changePassword": {
+        "incorrectPassword": "არასწორი პაროლი.",
+        "oldPassword": "ძველი პაროლი",
+        "title": "პაროლის შეცვლა"
+    },
+    "easAuth": {
+        "label": "Exchange ActiveSync"
+    },
+    "newOtp": {
+        "label": "ახალი OTP"
+    },
+    "newPassword": "ახალი პაროლი",
+    "otpListLabel": {
+        "failed_attempts": "წარუმატებელი ცდები"
+    },
+    "recoveryAddress": {
+        "title": "აღდგენის მისამართი",
+        "validation_code": "გადამოწმების კოდი"
+    },
+    "setNewOtpLabel": {
+        "inputLabel": "OTP-ის ჭდე",
+        "title": "OTP-ით ავთენტიკაცია"
+    },
+    "setNewPassword": {
+        "authenticationDescription": "ავთენტიკაციის აღწერა"
+    },
+    "setNewToken": {
+        "authenticationDescription": "ავთენტიკაციის აღწერა"
+    },
+    "staticOTPCodes": {
+        "print": {
+            "title": "OTP კოდები"
         }
     }
 }
