@@ -8,10 +8,14 @@
         "copyToken": "ტოკენის კოპირება",
         "createPassword": "პაროლის შექმნა",
         "createToken": "ტოკენის შექმნა",
-        "newAuthentication": "ახალი ავთენტიკაცია"
+        "newAuthentication": "ახალი ავთენტიკაცია",
+        "codeCopied": "კოდი წარმატებით დაკოპირდა",
+        "copyQrCode": "QR კოდის კოპირება",
+        "tokenCopied": "ტოკენი წარმატებით დაკოპირდა"
     },
     "snackbar": {
-        "error": " "
+        "error": " ",
+        "settings_saved": "პარამეტრების შენახვა წარმატებულია"
     },
     "button": {
         "remove": "წაშლა",
@@ -25,14 +29,17 @@
         "done": "მზადაა",
         "next": "შემდეგი",
         "yes": "დიახ",
-        "click": "დააწკაპუნეთ აქ"
+        "click": "დააწკაპუნეთ აქ",
+        "skipForNow": "ჯერჯერობით გამოტოვება",
+        "configure2FA": "2FA-ის მორგება"
     },
     "label": {
         "app_name": "ავთენტიკაცია",
         "cancel": "გაუქმება",
         "save": "შენახვა",
         "auth_settings": "ავთენტიკაციის მორგება",
-        "enter_code": "შეიყვანეთ კოდი"
+        "enter_code": "შეიყვანეთ კოდი",
+        "invalid_code": "კოდი არასწორია"
     },
     "options": "მორგება",
     "passwordListLabel": {
@@ -59,6 +66,9 @@
         "displayerInputField": {
             "NewPassword": "ახალი პაროლი",
             "ConfirmPassword": "პაროლის დადასტურება"
+        },
+        "Snackbar": {
+            "PasswordSuccessfullyReset": "პაროლის ჩამოყრა წარმატებულია"
         }
     },
     "appDesktop": {
@@ -72,13 +82,16 @@
     "changePassword": {
         "incorrectPassword": "არასწორი პაროლი.",
         "oldPassword": "ძველი პაროლი",
-        "title": "პაროლის შეცვლა"
+        "title": "პაროლის შეცვლა",
+        "confirmNew": "ახალი პაროლის დადასტურება",
+        "mustMatch": "პაროლები არ ემთხვევა."
     },
     "easAuth": {
         "label": "Exchange ActiveSync"
     },
     "newOtp": {
-        "label": "ახალი OTP"
+        "label": "ახალი OTP",
+        "printPinCodes": "PIN-კოდის გამოტანა"
     },
     "newPassword": "ახალი პაროლი",
     "otpListLabel": {
@@ -93,14 +106,20 @@
         "title": "OTP-ით ავთენტიკაცია"
     },
     "setNewPassword": {
-        "authenticationDescription": "ავთენტიკაციის აღწერა"
+        "authenticationDescription": "ავთენტიკაციის აღწერა",
+        "EASPasswordCopied": "EAS პაროლი დაკოპირდა",
+        "successfully": "პაროლის გენერაცია წარმატებულია"
     },
     "setNewToken": {
-        "authenticationDescription": "ავთენტიკაციის აღწერა"
+        "authenticationDescription": "ავთენტიკაციის აღწერა",
+        "successfully": "ტოკენის გენერაცია წარმატებულია."
     },
     "staticOTPCodes": {
         "print": {
             "title": "OTP კოდები"
         }
+    },
+    "error": {
+        "somethingWrong": "რაღაც არასწორად წავიდა."
     }
 }
