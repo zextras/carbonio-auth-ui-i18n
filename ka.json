@@ -15,7 +15,9 @@
     },
     "snackbar": {
         "error": " ",
-        "settings_saved": "პარამეტრების შენახვა წარმატებულია"
+        "settings_saved": "პარამეტრების შენახვა წარმატებულია",
+        "reset_recovery_address": "აღდგენის მისამართის ჩამოყრა წარმატებულია",
+        "set_recovery_address": "აღდგენის მისამართის დაყენება წარმატებულია"
     },
     "button": {
         "remove": "წაშლა",
@@ -39,7 +41,8 @@
         "save": "შენახვა",
         "auth_settings": "ავთენტიკაციის მორგება",
         "enter_code": "შეიყვანეთ კოდი",
-        "invalid_code": "კოდი არასწორია"
+        "invalid_code": "კოდი არასწორია",
+        "enter_recovery_address": "შეიყვანეთ თქვენი აღდგენის მისამართი"
     },
     "options": "მორგება",
     "passwordListLabel": {
@@ -69,6 +72,9 @@
         },
         "Snackbar": {
             "PasswordSuccessfullyReset": "პაროლის ჩამოყრა წარმატებულია"
+        },
+        "ErrorDescriptionConfirmInput": {
+            "PasswordDoesNotMatch": "პაროლები არ ემთხვევა"
         }
     },
     "appDesktop": {
@@ -121,5 +127,8 @@
     },
     "error": {
         "somethingWrong": "რაღაც არასწორად წავიდა."
+    },
+    "setNewQRCode": {
+        "successfully": "QR ავთენტიკაციის გენერაცია წარმატებულია"
     }
 }
