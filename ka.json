@@ -75,25 +75,38 @@
         },
         "ErrorDescriptionConfirmInput": {
             "PasswordDoesNotMatch": "პაროლები არ ემთხვევა"
+        },
+        "Column": {
+            "HereYouCanResetYourPassword": "აქ შეგიძლიათ პაროლის ჩამოყრა."
         }
     },
     "appDesktop": {
         "label": "კომპიუტერის აპლიკაციები",
-        "title": "კომპიუტერის პროგრამები"
+        "title": "კომპიუტერის პროგრამები",
+        "new": "კომპიუტერის პროგრამები | ახალი ავთენტიკაცია",
+        "empty": "კომპიუტერის აპების სია ცარიელია."
     },
     "appMobile": {
         "label": "მობილური აპლიკაციები",
-        "title": "მობილური აპლიკაციები"
+        "title": "მობილური აპლიკაციები",
+        "new": "მობილური პროგრამები | ახალი ავთენტიკაცია",
+        "empty": "მობილური აპების სია ცარიელია."
     },
     "changePassword": {
         "incorrectPassword": "არასწორი პაროლი.",
         "oldPassword": "ძველი პაროლი",
         "title": "პაროლის შეცვლა",
         "confirmNew": "ახალი პაროლის დადასტურება",
-        "mustMatch": "პაროლები არ ემთხვევა."
+        "mustMatch": "პაროლები არ ემთხვევა.",
+        "passwordChanged": "თქვენი პაროლი შეიცვალა.",
+        "recentlyUsedPassword": "ეს პაროლი ახლახან გამოიყენეთ.",
+        "zimbraPasswordMaxLength": "მაქს. სიგრძეა {{num}} სიმბოლო.",
+        "zimbraPasswordMinLength": "მინ. სიგრძეა {{num}} სიმბოლო."
     },
     "easAuth": {
-        "label": "Exchange ActiveSync"
+        "label": "Exchange ActiveSync",
+        "new": "Exchange ActiveSync | ახალი ავთენტიკაცია",
+        "empty": "Exchange ActiveSync-ის სია ცარიელია."
     },
     "newOtp": {
         "label": "ახალი OTP",
@@ -109,7 +122,11 @@
     },
     "setNewOtpLabel": {
         "inputLabel": "OTP-ის ჭდე",
-        "title": "OTP-ით ავთენტიკაცია"
+        "title": "OTP-ით ავთენტიკაცია",
+        "allowedCharacters": "ქვედატირე და ტირე დაშვებულია.",
+        "new": "OTP ავთენტიკაცია | ახალი ავთენტიკაცია",
+        "success": "ახალი OTP Authentication წარმატებით ჩაირთო.",
+        "empty": "OTP ავთენტიკაციის სია ცარიელია."
     },
     "setNewPassword": {
         "authenticationDescription": "ავთენტიკაციის აღწერა",
@@ -122,13 +139,21 @@
     },
     "staticOTPCodes": {
         "print": {
-            "title": "OTP კოდები"
+            "title": "OTP კოდები",
+            "howToUse": "როგორ გამოიყენოთ თქვენი PIN‑ები",
+            "login": "შედით თქვენი პაროლით"
         }
     },
     "error": {
-        "somethingWrong": "რაღაც არასწორად წავიდა."
+        "somethingWrong": "რაღაც არასწორად წავიდა.",
+        "maximumLength": "მაქს სიგრძეა 20 სიმბოლო.",
+        "minimumLength": "მინ. სიგრძეა 6 სიმბოლო.",
+        "specialChars": "სპეციალური სიმბოლოები დაშვებული არაა."
     },
     "setNewQRCode": {
         "successfully": "QR ავთენტიკაციის გენერაცია წარმატებულია"
+    },
+    "instructions": {
+        "needInfo": "გჭირდებათ მეტი ინფორმაცია?"
     }
 }
