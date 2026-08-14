@@ -17,7 +17,9 @@
         "error": " ",
         "settings_saved": "პარამეტრების შენახვა წარმატებულია",
         "reset_recovery_address": "აღდგენის მისამართის ჩამოყრა წარმატებულია",
-        "set_recovery_address": "აღდგენის მისამართის დაყენება წარმატებულია"
+        "set_recovery_address": "აღდგენის მისამართის დაყენება წარმატებულია",
+        "validation_code_resent": "გადამოწმების კოდი თავიდან გაიგზავნა ელფოსტის მისამართზე",
+        "validation_code_sent": "გადამოწმების კოდი გაიგზავნა ელფოსტის მისამართზე"
     },
     "button": {
         "remove": "წაშლა",
@@ -61,7 +63,8 @@
             "Continue": "დასტური"
         },
         "Displayer": {
-            "ResetPassword": "პაროლის ჩამოყრა"
+            "ResetPassword": "პაროლის ჩამოყრა",
+            "CreateANewPasswordToResetIt": "პაროლის ჩამოსაყრელად შექმენით ახალი."
         },
         "Option": {
             "ResetPassword": "პაროლის ჩამოყრა"
@@ -101,7 +104,13 @@
         "passwordChanged": "თქვენი პაროლი შეიცვალა.",
         "recentlyUsedPassword": "ეს პაროლი ახლახან გამოიყენეთ.",
         "zimbraPasswordMaxLength": "მაქს. სიგრძეა {{num}} სიმბოლო.",
-        "zimbraPasswordMinLength": "მინ. სიგრძეა {{num}} სიმბოლო."
+        "zimbraPasswordMinLength": "მინ. სიგრძეა {{num}} სიმბოლო.",
+        "digitSpecial": "რიცხვი (123) და სპეციალური სიმბოლო (!/@)",
+        "zimbraPasswordMinLowerCaseChars": "მხედრული ასოების მინ. რაოდენობაა {{num}}.",
+        "zimbraPasswordMinNumericChars": "ციფრების მინ. რაოდენობაა {{num}}.",
+        "zimbraPasswordMinPunctuationChars": "სპეციალური სიმბოლოების მინ. რაოდენობაა {{num}}.",
+        "lowerUpper": "მთავრული (ABC) და მხედრული (abc) სიმბოლო",
+        "zimbraPasswordMinUpperCaseChars": "მთავრული ასოების მინ. რაოდენობაა {{num}}."
     },
     "easAuth": {
         "label": "Exchange ActiveSync",
@@ -110,7 +119,8 @@
     },
     "newOtp": {
         "label": "ახალი OTP",
-        "printPinCodes": "PIN-კოდის გამოტანა"
+        "printPinCodes": "PIN-კოდის გამოტანა",
+        "copy_token": "გამოიყენეთ ეს ტოკენი თქვენი კომპიტერის სინქრონიზაციის ანგარიშის ავთენტიფიკაციისთვის."
     },
     "newPassword": "ახალი პაროლი",
     "otpListLabel": {
@@ -118,7 +128,8 @@
     },
     "recoveryAddress": {
         "title": "აღდგენის მისამართი",
-        "validation_code": "გადამოწმების კოდი"
+        "validation_code": "გადამოწმების კოდი",
+        "body_row4": "ჯერ არ მიგიღიათ კოდი? დააწკაპუნეთ ღილაკზე 'კოდის თავიდან გაგზავნა'."
     },
     "setNewOtpLabel": {
         "inputLabel": "OTP-ის ჭდე",
@@ -126,7 +137,9 @@
         "allowedCharacters": "ქვედატირე და ტირე დაშვებულია.",
         "new": "OTP ავთენტიკაცია | ახალი ავთენტიკაცია",
         "success": "ახალი OTP Authentication წარმატებით ჩაირთო.",
-        "empty": "OTP ავთენტიკაციის სია ცარიელია."
+        "empty": "OTP ავთენტიკაციის სია ცარიელია.",
+        "maxLength": "ჭდის მაქსიმალური სიგრძეა {{maxLength}} სიმბოლო.",
+        "prohibitedCharacters": "არ გამოიყენოთ სპეციალური სიმბოლოები, აქცენტირებული სიმბოლოები და ჰარეები."
     },
     "setNewPassword": {
         "authenticationDescription": "ავთენტიკაციის აღწერა",
@@ -141,19 +154,36 @@
         "print": {
             "title": "OTP კოდები",
             "howToUse": "როგორ გამოიყენოთ თქვენი PIN‑ები",
-            "login": "შედით თქვენი პაროლით"
+            "login": "შედით თქვენი პაროლით",
+            "eraseUsedPin": "გამოყენებული PIN-კოდის წაშლა სიიდან",
+            "typePin": "ჩასვით ზემოთ ჩამოთვლილი PIN-კოდებიდან ერთერთი"
         }
     },
     "error": {
         "somethingWrong": "რაღაც არასწორად წავიდა.",
         "maximumLength": "მაქს სიგრძეა 20 სიმბოლო.",
         "minimumLength": "მინ. სიგრძეა 6 სიმბოლო.",
-        "specialChars": "სპეციალური სიმბოლოები დაშვებული არაა."
+        "specialChars": "სპეციალური სიმბოლოები დაშვებული არაა.",
+        "alreadyInUse": "უკვე გამოიყენება. აირჩიეთ სხვა აღწერა."
     },
     "setNewQRCode": {
         "successfully": "QR ავთენტიკაციის გენერაცია წარმატებულია"
     },
     "instructions": {
         "needInfo": "გჭირდებათ მეტი ინფორმაცია?"
+    },
+    "instruction": {
+        "desktop": "აქ შეგიძლიათ კომპიუტერის აპის პაროლის მართვა.",
+        "mobile": "აქ შეგიძლიათ მობილური აპის პაროლის მართვა.",
+        "otp": "აქ შეგიძლიათ OTP ავთენტიკაციის მართვა.",
+        "eas": "აქ შეგიძლიათ მართოთ თქვენი Exchange ActiveSync-ის პაროლი."
+    },
+    "deletePassword": {
+        "title": "მართლა გნებავთ ამ პაროლის წაშლა?"
+    },
+    "modal": {
+        "2fa": {
+            "youCanSkipThisConfiguration": "თუ გჭირდებათ, შეგიძლიათ ამის მორგება გამოტოვოთ."
+        }
     }
 }
