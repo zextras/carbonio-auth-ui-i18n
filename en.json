@@ -13,7 +13,15 @@
         "label": "Mobile Applications",
         "new": "Mobile Apps | New Authentication",
         "success": "New Mobile App password enabled successfully. Passwords list has been updated.",
-        "title": "Mobile Apps"
+        "title": "Mobile Apps",
+        "delete": {
+            "success": "Mobile App Authentication deleted successfully. Authentication list has been updated."
+        },
+        "create": {
+            "success": "New Mobile App Authentication enabled successfully. Authentication list has been updated."
+        },
+        "openAndScan": "Open the Mobile app\nScan QR code to pair your device.",
+        "waitingForScan": "Waiting for the app to scan the code\nThen a 6 digit code will be shown."
     },
     "button": {
         "remove": "remove",
@@ -29,7 +37,8 @@
         "next": "Next",
         "yes": "Yes",
         "skipForNow": "SKIP FOR NOW",
-        "configure2FA": "CONFIGURE THE 2FA"
+        "configure2FA": "CONFIGURE THE 2FA",
+        "ok": "OK"
     },
     "changePassword": {
         "confirmNew": "Confirm New Password",
@@ -217,6 +226,36 @@
             "introTitle": "We introduced the Two-Factor Authentication to improve the security of your account.",
             "configureTheTwoFactorAuthentication": "Configure the Two-Factor Authentication (2FA) service in the authentication section of the workspace settings.",
             "youCanSkipThisConfiguration": "If you need to, you can skip this configuration."
+        }
+    },
+    "mobileQr": {
+        "delete": {
+            "header": "Mobile Apps | Delete Authentication",
+            "title": "Are you sure you want to delete this authentication?",
+            "description": "All the devices that are using this authentication are going to be disconnected and they will not be able to authenticate until you provide a new credential set."
+        },
+        "generateNewQrCode": "Generate a new QR code",
+        "expired": "The request expired. Generate a new QR code to try again.",
+        "qrIsValidFor": "This QR code is valid for",
+        "success": {
+            "devicePaired": "Device Paired",
+            "pairedDescription": "Paired. The authentication is enabled.",
+            "device": "Device"
+        },
+        "validation": {
+            "attemptsRemaining": "Incorrect code. Try again, {{remaining}} attempts remaining.",
+            "failed": "Verification Failed",
+            "tooManyAttempts": "Too many incorrect codes.\nThis QR code has been discarded\nand has not been enabled.\nGenerate a new QR code to try again.",
+            "descriptionHeader": "Enter the code shown in the mobile application",
+            "description": "A device requested access with this QR code. Check the details below and type the code shown on the device.",
+            "requestReceived": "Request received",
+            "ipAddress": "IP address",
+            "location": "Location",
+            "requestedAt": "Requested at",
+            "deviceToken": "Device token",
+            "detailsWarning": "If these details are not yours, close this dialog — the pairing request will be discarded.",
+            "expired": "The request expired. Generate a new QR code to try again.",
+            "timeLeft": "Time left:"
         }
     }
 }
