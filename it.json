@@ -137,7 +137,8 @@
         "click": "Clicca qui",
         "cancel": "Annulla",
         "skipForNow": "SALTA",
-        "configure2FA": "CONFIGURA LA 2FA"
+        "configure2FA": "CONFIGURA LA 2FA",
+        "ok": "OK"
     },
     "appMobile": {
         "title": "App Mobile",
@@ -145,7 +146,15 @@
         "new": "App dispositivi mobili | Nuova Autenticazione",
         "label": "Applicazioni Mobile",
         "empty": "La lista delle password delle applicazioni è vuota.",
-        "descriptionHelp": "La descrizione sarà utile per indicare dove questa Autenticazione App Mobile è utilizzata."
+        "descriptionHelp": "La descrizione sarà utile per indicare dove questa Autenticazione App Mobile è utilizzata.",
+        "delete": {
+            "success": "Autenticazione dell'app mobile eliminata correttamente. L'elenco delle autenticazioni è stato aggiornato."
+        },
+        "create": {
+            "success": "Nuova autenticazione dell'app mobile abilitata correttamente. L'elenco delle autenticazioni è stato aggiornato."
+        },
+        "openAndScan": "Apri l'app mobile\nScansiona il codice QR per associare il dispositivo.",
+        "waitingForScan": "In attesa che l'app scansioni il codice\nPoi verrà mostrato un codice a 6 cifre."
     },
     "snackbar": {
         "settings_saved": "Impostazioni salvate con successo",
@@ -215,6 +224,36 @@
             "introTitle": "Abbiamo introdotto l'autenticazione a due fattori per migliorare la sicurezza del tuo account.",
             "configureTheTwoFactorAuthentication": "Configura il servizio di autenticazione a due fattori (2FA) nella sezione autenticazione delle impostazioni del tuo workspace.",
             "youCanSkipThisConfiguration": "Se necessario, è possibile saltare questa configurazione."
+        }
+    },
+    "mobileQr": {
+        "delete": {
+            "header": "App mobile | Elimina autenticazione",
+            "title": "Eliminare questa autenticazione?",
+            "description": "Tutti i dispositivi che utilizzano questa autenticazione verranno disconnessi e non potranno autenticarsi finché non fornirai un nuovo set di credenziali."
+        },
+        "generateNewQrCode": "Genera un nuovo codice QR",
+        "expired": "La richiesta è scaduta. Genera un nuovo codice QR per riprovare.",
+        "qrIsValidFor": "Questo codice QR è valido per",
+        "success": {
+            "devicePaired": "Dispositivo associato",
+            "pairedDescription": "Associazione completata. L'autenticazione è abilitata.",
+            "device": "Dispositivo"
+        },
+        "validation": {
+            "attemptsRemaining": "Codice errato. Riprova, tentativi rimanenti: {{remaining}}.",
+            "failed": "Verifica non riuscita",
+            "tooManyAttempts": "Troppi codici errati.\nQuesto codice QR è stato scartato\ne non è stato abilitato.\nGenera un nuovo codice QR per riprovare.",
+            "descriptionHeader": "Inserisci il codice mostrato nell'applicazione mobile",
+            "description": "Un dispositivo ha richiesto l'accesso con questo codice QR. Controlla i dettagli qui sotto e digita il codice mostrato sul dispositivo.",
+            "requestReceived": "Richiesta ricevuta",
+            "ipAddress": "Indirizzo IP",
+            "location": "Posizione",
+            "requestedAt": "Richiesta il",
+            "deviceToken": "Token del dispositivo",
+            "detailsWarning": "Se questi dettagli non sono tuoi, chiudi questa finestra: la richiesta di associazione verrà scartata.",
+            "expired": "La richiesta è scaduta. Genera un nuovo codice QR per riprovare.",
+            "timeLeft": "Tempo rimanente:"
         }
     }
 }
