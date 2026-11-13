@@ -2,10 +2,17 @@
     "appMobile": {
         "empty": "Lista aplikacji mobilnych jest pusta.",
         "label": "Aplikacje mobilne",
-        "new": "Aplikacje mobilne | Nowe uwierzytelnianie",
+        "new": "Aplikacje mobilne | Nowe uwierzytelnienie",
         "success": "Nowa hasło aplikacji mobilnej zostało włączone. Lista haseł została zaktualizowana.",
         "title": "Aplikacje mobilne",
-        "descriptionHelp": "Opis pomoże Ci zapamiętać gdzie używane jest to uwierzytelnienie aplikacji mobilnych."
+        "descriptionHelp": "Opis pomoże Ci zapamiętać gdzie używane jest to uwierzytelnienie aplikacji mobilnych.",
+        "delete": {
+            "success": "Uwierzytelnienie aplikacji mobilnej zostało usunięte. Lista uwierzytelnień została zaktualizowana."
+        },
+        "create": {
+            "success": "Nowe uwierzytelnienie aplikacji mobilnej zostało włączone. Lista uwierzytelnień została zaktualizowana."
+        },
+        "openAndScan": "Otwórz aplikację mobilną\nZeskanuj kod QR, aby sparować Twoje urządzenie."
     },
     "newOtp": {
         "label": "Nowe hasło jednorazowe",
@@ -23,7 +30,8 @@
         "next": "Następne",
         "yes": "Tak",
         "skipForNow": "POMIŃ",
-        "configure2FA": "SKONFIGURUJ"
+        "configure2FA": "SKONFIGURUJ",
+        "ok": "OK"
     },
     "changePassword": {
         "confirmNew": "Potwierdź nowe hasło",
@@ -61,7 +69,7 @@
         "tokenCopied": "Token został skopiowany"
     },
     "deleteOtp": {
-        "description": "Wszystkie urządzenia, które używają tego hasła zostaną rozłączone i nie będzie można ich uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
+        "description": "Wszystkie urządzenia, które używają tego hasła zostaną rozłączone i nie będą mogły się uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
     },
     "deletePassword": {
         "title": "Czy na pewno chcesz usunąć to hasło?"
@@ -215,6 +223,28 @@
             "introTitle": "Wprowadziliśmy uwierzytelnianie dwuetapowe, aby ulepszyć bezpieczeństwo Twojego konta.",
             "configureTheTwoFactorAuthentication": "Skonfiguruj uwierzytelnianie dwuetapowe w ustawieniach.",
             "youCanSkipThisConfiguration": "Jeśli chcesz, możesz pominąć konfigurację."
+        }
+    },
+    "mobileQr": {
+        "delete": {
+            "header": "Aplikacje mobilne | Usuń uwierzytelnienie",
+            "title": "Czy na pewno chcesz usunąć to uwierzytelnienie?",
+            "description": "Wszystkie urządzenia, które używają tego uwierzytelnienia, zostaną rozłączone i nie będą mogły się uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
+        },
+        "generateNewQrCode": "Wygeneruj nowy kod QR",
+        "expired": "Żądanie wygasło. Wygeneruj nowy kod QR, aby spróbować ponownie.",
+        "qrIsValidFor": "Ten kod QR jest ważny przez",
+        "success": {
+            "devicePaired": "Urządzenie zostało sparowane",
+            "pairedDescription": "Sparowano. To uwierzytelnienie jest włączone.",
+            "device": "Urządzenie"
+        },
+        "validation": {
+            "attemptsRemaining": "Niepoprawny kod. Spróbuj ponownie, pozostało Ci {{remaining}} prób.",
+            "failed": "Weryfikacja nie powiodła się",
+            "tooManyAttempts": "Zbyt wiele niepoprawnych kodów.\nTen kod QR został [?????] odrzucony, a może usunięty? [/?????]",
+            "descriptionHeader": "Wprowadź kod pokazany w aplikacji mobilnej",
+            "description": "Urządzenie zażądało dostępu za pomocą tego kodu QR. Sprawdź poniższe szczegóły i wprowadź kod pokazany na urządzeniu [generalnie niejasne]"
         }
     }
 }
