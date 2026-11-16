@@ -12,7 +12,8 @@
         "create": {
             "success": "Nowe uwierzytelnienie aplikacji mobilnej zostało włączone. Lista uwierzytelnień została zaktualizowana."
         },
-        "openAndScan": "Otwórz aplikację mobilną\nZeskanuj kod QR, aby sparować Twoje urządzenie."
+        "openAndScan": "Otwórz aplikację mobilną\nZeskanuj kod QR, aby sparować Twoje urządzenie.",
+        "waitingForScan": "Oczekiwanie na zeskanowanie kodu przez aplikację.\nNastępnie zostanie wyświetlony 6-cyfrowy kod."
     },
     "newOtp": {
         "label": "Nowe hasło jednorazowe",
@@ -232,7 +233,7 @@
             "description": "Wszystkie urządzenia, które używają tego uwierzytelnienia, zostaną rozłączone i nie będą mogły się uwierzytelnić dopóki nie ustawisz nowego zestawu danych logowania."
         },
         "generateNewQrCode": "Wygeneruj nowy kod QR",
-        "expired": "Żądanie wygasło. Wygeneruj nowy kod QR, aby spróbować ponownie.",
+        "expired": "Prośba wygasła. Wygeneruj nowy kod QR, aby spróbować ponownie.",
         "qrIsValidFor": "Ten kod QR jest ważny przez",
         "success": {
             "devicePaired": "Urządzenie zostało sparowane",
@@ -242,9 +243,17 @@
         "validation": {
             "attemptsRemaining": "Niepoprawny kod. Spróbuj ponownie, pozostało Ci {{remaining}} prób.",
             "failed": "Weryfikacja nie powiodła się",
-            "tooManyAttempts": "Zbyt wiele niepoprawnych kodów.\nTen kod QR został [?????] odrzucony, a może usunięty? [/?????]",
+            "tooManyAttempts": "Zbyt wiele niepoprawnych kodów.\nTen kod QR został odrzucony\ni nie został włączony.\nStwórz nowy kod QR, aby spróbować ponownie.",
             "descriptionHeader": "Wprowadź kod pokazany w aplikacji mobilnej",
-            "description": "Urządzenie zażądało dostępu za pomocą tego kodu QR. Sprawdź poniższe szczegóły i wprowadź kod pokazany na urządzeniu [generalnie niejasne]"
+            "description": "Urządzenie poprosiło o dostęp za pomocą tego kodu QR. Sprawdź poniższe szczegóły i wprowadź kod pokazany na urządzeniu.",
+            "requestReceived": "Otrzymano prośbę",
+            "ipAddress": "Adres IP",
+            "location": "Lokalizacja",
+            "requestedAt": "Poproszono o",
+            "deviceToken": "Token urządzenia",
+            "detailsWarning": "Jeśli dane znajdujące się w szczegółach nie są Twoje, zamknij ten dialog - prośba o sparowanie zostanie odrzucona.",
+            "expired": "Prośba wygasła. Stwórz nowy kod QR, aby spróbować ponownie.",
+            "timeLeft": "Pozostały czas:"
         }
     }
 }
