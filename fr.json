@@ -137,7 +137,8 @@
         "click": "Cliquer ici",
         "cancel": "Annuler",
         "skipForNow": "PASSER POUR L'INSTANT",
-        "configure2FA": "CONFIGURER LA 2FA"
+        "configure2FA": "CONFIGURER LA 2FA",
+        "ok": "Ok"
     },
     "appMobile": {
         "title": "Apps mobiles",
@@ -145,7 +146,15 @@
         "new": "Apps mobiles | Nouvelle authentification",
         "label": "Applications mobiles",
         "empty": "La liste des applications mobiles est vide.",
-        "descriptionHelp": "La description vous aidera à vous rappeler où cette application d'authentification mobile est utilisée."
+        "descriptionHelp": "La description vous aidera à vous rappeler où cette application d'authentification mobile est utilisée.",
+        "delete": {
+            "success": "L'authentification de l'application mobile a été supprimée avec succès. La liste des authentifications a été mise à jour."
+        },
+        "create": {
+            "success": "La nouvelle authentification de l'application mobile a été activée avec succès. La liste des authentifications a été mise à jour."
+        },
+        "openAndScan": "Ouvrez l'application mobile.\nScannez le code QR pour associer votre appareil.",
+        "waitingForScan": "En attente du scan du code par l'application\nUn code à 6 chiffres s'affichera ensuite."
     },
     "snackbar": {
         "settings_saved": "Les paramètres ont été sauvegardés avec succès",
@@ -215,6 +224,25 @@
             "introTitle": "Nous avons mis en place l'authentification à deux facteurs afin d'améliorer la sécurité de votre compte.",
             "configureTheTwoFactorAuthentication": "Configurez le service d'authentification à deux facteurs (2FA) dans la section authentification des paramètres de l'espace de travail.",
             "youCanSkipThisConfiguration": "Si nécessaire, vous pouvez ignorer cette configuration."
+        }
+    },
+    "mobileQr": {
+        "delete": {
+            "header": "Application mobile | Supprimer l'authentification",
+            "title": "Êtes-vous sûr de vouloir supprimer cette authentification ?",
+            "description": "Tous les appareils qui utilisent cette authentification vont être déconnectés et ne pourront plus s'authentifier tant que vous n'aurez pas fourni de nouveaux identifiants."
+        },
+        "generateNewQrCode": "Générer un nouveau QR code",
+        "expired": "La demande a expiré. Générez un nouveau QR pour réessayer.",
+        "qrIsValidFor": "Ce QR code est valide pendant",
+        "success": {
+            "devicePaired": "Appareil associé",
+            "pairedDescription": "Associé. L'authentification est activée.",
+            "device": "Appareil"
+        },
+        "validation": {
+            "attemptsRemaining": "Code incorrect. Veuillez réessayer, {{remaining}} tentatives restantes.",
+            "failed": "La vérification à échoué"
         }
     }
 }
